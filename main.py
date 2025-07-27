@@ -1,6 +1,7 @@
 import os
 import json
 import requests
+import cloudscraper
 import yaml
 import gzip
 import logging
@@ -17,8 +18,8 @@ def load_config(config_path='config.yaml'):
 
 def process_sitemap(url):
     try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
-        response = requests.get(url, headers=headers, timeout=10)
+        scraper = cloudscraper.create_scraper()
+        response = scraper.get(url, timeout=10)
         response.raise_for_status()
 
         content = response.content
