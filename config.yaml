@@ -1,29 +1,29 @@
 sites:
-  - name: "bylo"
+  - name: "bylo[0]"
     sitemap_urls:
       - "https://bylo.ai/sitemap-secondary-page-0.xml"
     active: true
-  - name: "pixelcut"
+  - name: "pixelcut[0]"
     sitemap_urls:
       - "https://www.pixelcut.ai/sitemap.xml"
     active: true
-  - name: "pixelbin"
+  - name: "pixelbin[0]"
     sitemap_urls:
       - "https://www.pixelbin.io/default.sitemap.xml"
     active: true
-  - name: "pixnova(page)"
+  - name: "pixnova(page)[0]"
     sitemap_urls:
       - "https://pixnova.ai/page-sitemap.xml"
     active: true
-  - name: "pixnova(blog)"
+  - name: "pixnova(blog)[0]"
     sitemap_urls:
       - "https://pixnova.ai/post-sitemap.xml"
     active: true
-  - name: "insmind"
+  - name: "insmind[0]"
     sitemap_urls:
       - "https://www.insmind.com/sitemap/en.xml"
     active: true
-  - name: "pollo"
+  - name: "pollo[0]"
     sitemap_urls:
       - "https://pollo.ai/sitemap.xml"
     active: true
@@ -31,7 +31,62 @@ sites:
     sitemap_urls:
       - "https://imgtoimg-ai.com/sitemap.xml"
     active: true
+  - name: "dzine"
+    sitemap_urls:
+      - "https://www.dzine.ai/sitemap.xml"
+    active: true
+  - name: "flux-ai"
+    sitemap_urls:
+      - "https://flux-ai.io/sitemap.xml"
+    active: true
+  - name: "imgtoimg(1)"
+    sitemap_urls:
+      - "https://imgtoimg.ai/sitemap-0.xml"
+    active: true
+  - name: "artguru"
+    sitemap_urls:
+      - "https://www.artguru.ai/sitemap.xml"
+    active: true
+  - name: "picwish"
+    sitemap_urls:
+      - "https://picwish.com/sitemap.xml"
+    active: true
+  - name: "pincel"
+    sitemap_urls:
+      - "https://pincel.app/sitemap.xml"
+    active: true  
+  - name: "clipfly"
+    sitemap_urls:
+      - "https://www.clipfly.ai/sitemaps/en.xml"
+    active: true  
+  - name: "createimg[0]"
+    sitemap_urls:
+      - "https://www.createimg.com/page-sitemap.xml"
+      - "https://www.createimg.com/post-sitemap1.xml"
+      - "https://www.createimg.com/post-sitemap2.xml"
+      - "https://www.createimg.com/post-sitemap3.xml"
+      - "https://www.createimg.com/post-sitemap4.xml"
+      - "https://www.createimg.com/post-sitemap5.xml"
+      - "https://www.createimg.com/post-sitemap6.xml"
+      - "https://www.createimg.com/post-sitemap7.xml"
+    active: true  
+  - name: "media"
+    sitemap_urls:
+      - "https://www.media.io/sitemap.xml"
+    active: true  
+  - name: "fluxai-art"
+    sitemap_urls:
+      - "https://fluxai.art/sitemap-secondary-page-0.xml"
+    active: true  
+  - name: "easemate"
+    sitemap_urls:
+      - "https://www.easemate.ai/sitemap.xml"
+    active: true 
 
+    
+
+
+    
 
 feishu:
   webhook_url: "https://open.feishu.cn/open-apis/bot/v2/hook/8484db92-3b49-4273-b20a-4ad613c6c0ed"
