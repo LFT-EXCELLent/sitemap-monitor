@@ -1,47 +1,31 @@
 sites:
-  - name: "PokeRogue"
+  - name: "bylo"
     sitemap_urls:
-      - "https://pokerogue.io/sitemap.xml"
+      - "https://bylo.ai/sitemap-secondary-page-0.xml"
     active: true
-  - name: "Wordle2"
+  - name: "pixelcut"
     sitemap_urls:
-      - "https://wordle2.io/sitemap.xml"
+      - "https://www.pixelcut.ai/sitemap.xml"
     active: true
-  - name: "1Games"
+  - name: "pixelbin"
     sitemap_urls:
-      - "https://1games.io/sitemap.xml"
+      - "https://www.pixelbin.io/default.sitemap.xml"
     active: true
-  - name: "AZGames"
+  - name: "pixnova(page)"
     sitemap_urls:
-      - "https://azgames.io/sitemap.xml"
+      - "https://pixnova.ai/page-sitemap.xml"
     active: true
-  - name: "CookieClicker2"
+  - name: "pixnova(blog)"
     sitemap_urls:
-      - "https://cookie-clicker2.com/sitemap.xml"
+      - "https://pixnova.ai/post-sitemap.xml"
     active: true
-  - name: "Phrazle"
+  - name: "insmind"
     sitemap_urls:
-      - "https://phrazle.io/sitemap.xml"
+      - "https://www.insmind.com/sitemap/en.xml"
     active: true
-  - name: "Sprunki"
+  - name: "pollo"
     sitemap_urls:
-      - "https://sprunki.org/sitemap.xml"
-    active: true
-  - name: "ThatsNotMyNeighbor"
-    sitemap_urls:
-      - "https://thatsnot-myneighbor.io/sitemap.xml"
-    active: true
-  - name: "GeometryDashWave"
-    sitemap_urls:
-      - "https://geometrydashwave.io/sitemap.xml"
-    active: true
-  - name: "SmashyRoad"
-    sitemap_urls:
-      - "https://smashy-road.io/sitemap.xml"
-    active: true
-  - name: "GeometryDashIO"
-    sitemap_urls:
-      - "https://geometrylite.io/sitemap.xml"
+      - "https://pollo.ai/sitemap.xml"
     active: true
 
 
