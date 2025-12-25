@@ -27,6 +27,10 @@ sites:
     sitemap_urls:
       - "https://pollo.ai/sitemap.xml"
     active: true
+  - name: "imgtoimg"
+    sitemap_urls:
+      - "https://imgtoimg-ai.com/sitemap.xml"
+    active: true
 
 
 feishu:
