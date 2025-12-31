@@ -82,6 +82,25 @@ sites:
     sitemap_urls:
       - "https://www.easemate.ai/sitemap.xml"
     active: true 
+  - name: "Replicate(0)"
+    sitemap_urls:
+      - "https://replicate.com/sitemap-models.xml"
+      - "https://replicate.com/content-sitemap-0.xml"
+    active: true 
+  - name: "Fal(0)"
+    sitemap_urls:
+      - "https://fal.ai/sitemap-0.xml"
+    active: true 
+  - name: "openrouter(0)"
+    sitemap_urls:
+      - "https://openrouter.ai/sitemap.xml"
+    active: true   
+
+
+
+
+
+
 
     
 
