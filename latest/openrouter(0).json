@@ -106,21 +106,21 @@ https://openrouter.ai/qwen/qwen3-14b
 https://openrouter.ai/sao10k/l3.3-euryale-70b
 https://openrouter.ai/sao10k/l3.1-euryale-70b
 https://openrouter.ai/mistralai/devstral-small
-https://openrouter.ai/kwaipilot/kat-coder-pro:free
 https://openrouter.ai/openai/gpt-5-chat
 https://openrouter.ai/x-ai/grok-3
 https://openrouter.ai/anthropic/claude-sonnet-4
+https://openrouter.ai/kwaipilot/kat-coder-pro:free
 https://openrouter.ai/gryphe/mythomax-l2-13b
 https://openrouter.ai/qwen/qwen3-coder:exacto
 https://openrouter.ai/qwen/qwen-2.5-72b-instruct
 https://openrouter.ai/meta-llama/llama-3.2-3b-instruct:free
 https://openrouter.ai/google/gemma-3-12b-it:free
+https://openrouter.ai/kwaipilot/kat-coder-pro
 https://openrouter.ai/mistralai/mistral-small-3.2-24b-instruct
 https://openrouter.ai/anthropic/claude-3.7-sonnet
 https://openrouter.ai/anthropic/claude-3.7-sonnet:thinking
 https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-32b
 https://openrouter.ai/google/gemma-3-12b-it
-https://openrouter.ai/anthropic/claude-3-opus
 https://openrouter.ai/tencent/hunyuan-a13b-instruct
 https://openrouter.ai/anthropic/claude-opus-4.5
 https://openrouter.ai/deepseek/deepseek-v3.1-terminus:exacto
@@ -142,6 +142,7 @@ https://openrouter.ai/moonshotai/kimi-k2
 https://openrouter.ai/google/gemini-2.5-flash-lite-preview-09-2025
 https://openrouter.ai/relace/relace-search
 https://openrouter.ai/qwen/qwen3-vl-30b-a3b-instruct
+https://openrouter.ai/google/gemini-2.5-flash-preview-09-2025
 https://openrouter.ai/z-ai/glm-4.5-air:free
 https://openrouter.ai/qwen/qwen3-coder-plus
 https://openrouter.ai/openai/o4-mini-high
@@ -180,6 +181,8 @@ https://openrouter.ai/bytedance-seed/seedream-4.5
 https://openrouter.ai/baidu/ernie-4.5-vl-424b-a47b
 https://openrouter.ai/qwen/qwen3-30b-a3b-thinking-2507
 https://openrouter.ai/qwen/qwen-vl-plus
+https://openrouter.ai/allenai/olmo-3.1-32b-think
+https://openrouter.ai/tngtech/tng-r1t-chimera:free
 https://openrouter.ai/anthropic/claude-opus-4
 https://openrouter.ai/x-ai/grok-4
 https://openrouter.ai/openai/o3-pro
@@ -191,7 +194,6 @@ https://openrouter.ai/black-forest-labs/flux.2-pro
 https://openrouter.ai/sao10k/l3.1-70b-hanami-x1
 https://openrouter.ai/mistralai/mistral-large
 https://openrouter.ai/openai/gpt-5-codex
-https://openrouter.ai/perplexity/sonar-reasoning
 https://openrouter.ai/qwen/qwen-2.5-7b-instruct
 https://openrouter.ai/meta-llama/llama-3.1-70b-instruct
 https://openrouter.ai/perplexity/sonar
@@ -222,7 +224,6 @@ https://openrouter.ai/openai/gpt-5.1
 https://openrouter.ai/nousresearch/hermes-3-llama-3.1-405b
 https://openrouter.ai/sentence-transformers/all-mpnet-base-v2
 https://openrouter.ai/sao10k/l3-euryale-70b
-https://openrouter.ai/google/gemini-2.5-flash-preview-09-2025
 https://openrouter.ai/openai/gpt-5.1-chat
 https://openrouter.ai/baai/bge-m3
 https://openrouter.ai/deepcogito/cogito-v2.1-671b
@@ -299,8 +300,8 @@ https://openrouter.ai/baidu/ernie-4.5-21b-a3b-thinking
 https://openrouter.ai/deepseek/deepseek-v3.2-speciale
 https://openrouter.ai/qwen/qwen3-vl-30b-a3b-thinking
 https://openrouter.ai/anthropic/claude-3.5-sonnet
-https://openrouter.ai/allenai/olmo-3-32b-think:free
 https://openrouter.ai/openai/o3
+https://openrouter.ai/allenai/olmo-3-32b-think
 https://openrouter.ai/tngtech/deepseek-r1t-chimera
 https://openrouter.ai/nousresearch/deephermes-3-mistral-24b-preview
 https://openrouter.ai/nousresearch/hermes-4-405b
@@ -335,7 +336,6 @@ https://openrouter.ai/black-forest-labs/flux.2-max
 https://openrouter.ai/qwen/qwen3-vl-32b-instruct
 https://openrouter.ai/openai/gpt-5.2-pro
 https://openrouter.ai/baidu/ernie-4.5-vl-28b-a3b
-https://openrouter.ai/allenai/olmo-3.1-32b-think:free
 https://openrouter.ai/stepfun-ai/step3
 https://openrouter.ai/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/nvidia/llama-3.1-nemotron-70b-instruct
