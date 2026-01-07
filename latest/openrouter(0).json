@@ -220,7 +220,6 @@ https://openrouter.ai/nvidia/nemotron-nano-12b-v2-vl:free
 https://openrouter.ai/sentence-transformers/all-minilm-l6-v2
 https://openrouter.ai/qwen/qwen-max
 https://openrouter.ai/arcee-ai/coder-large
-https://openrouter.ai/openai/gpt-5.1
 https://openrouter.ai/nousresearch/hermes-3-llama-3.1-405b
 https://openrouter.ai/sentence-transformers/all-mpnet-base-v2
 https://openrouter.ai/sao10k/l3-euryale-70b
@@ -329,6 +328,7 @@ https://openrouter.ai/mistralai/devstral-2512
 https://openrouter.ai/ai21/jamba-large-1.7
 https://openrouter.ai/ai21/jamba-mini-1.7
 https://openrouter.ai/anthropic/claude-3-haiku
+https://openrouter.ai/openai/gpt-5.1
 https://openrouter.ai/mistralai/devstral-2512:free
 https://openrouter.ai/openai/gpt-5.2
 https://openrouter.ai/black-forest-labs/flux.2-max
@@ -619,6 +619,7 @@ https://openrouter.ai/docs/guides/overview/auth/oauth
 https://openrouter.ai/docs/guides/overview/auth/provisioning-api-keys
 https://openrouter.ai/docs/guides/overview/auth/byok
 https://openrouter.ai/docs/faq
+https://openrouter.ai/docs/guides/overview/report-feedback
 https://openrouter.ai/docs/guides/routing/model-fallbacks
 https://openrouter.ai/docs/guides/routing/provider-selection
 https://openrouter.ai/docs/guides/routing/model-variants/free
