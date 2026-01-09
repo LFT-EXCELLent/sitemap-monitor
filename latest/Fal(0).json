@@ -1,5 +1,5 @@
-https://fal.ai/.well-known/traffic-advice
 https://fal.ai/api/invites/template.csv
+https://fal.ai/.well-known/traffic-advice
 https://fal.ai/3d-models
 https://fal.ai/about
 https://fal.ai/careers
@@ -217,6 +217,8 @@ https://fal.ai/models/fal-ai/live-avatar
 https://fal.ai/models/fal-ai/live-avatar/api
 https://fal.ai/models/openrouter/router/audio
 https://fal.ai/models/openrouter/router/audio/api
+https://fal.ai/models/fal-ai/elevenlabs/music
+https://fal.ai/models/fal-ai/elevenlabs/music/api
 https://fal.ai/models/fal-ai/lightx/relight
 https://fal.ai/models/fal-ai/lightx/relight/api
 https://fal.ai/models/fal-ai/lightx/recamera
