@@ -3,27 +3,27 @@ sites:
     sitemap_urls:
       - "https://bylo.ai/sitemap-secondary-page-0.xml"
     active: true
-  - name: "pixelcut[0]"
+  - name: "pixelcut[image&video]"
     sitemap_urls:
       - "https://www.pixelcut.ai/sitemap.xml"
     active: true
-  - name: "pixelbin[0]"
+  - name: "pixelbin[image]"
     sitemap_urls:
       - "https://www.pixelbin.io/default.sitemap.xml"
     active: true
-  - name: "pixnova(page)[0]"
+  - name: "pixnova(page)[image&video]"
     sitemap_urls:
       - "https://pixnova.ai/page-sitemap.xml"
     active: true
-  - name: "pixnova(blog)[0]"
+  - name: "pixnova(blog)[image&video]"
     sitemap_urls:
       - "https://pixnova.ai/post-sitemap.xml"
     active: true
-  - name: "insmind[0]"
+  - name: "insmind[image&video]"
     sitemap_urls:
       - "https://www.insmind.com/sitemap/en.xml"
     active: true
-  - name: "pollo[0]"
+  - name: "pollo[image&video]"
     sitemap_urls:
       - "https://pollo.ai/sitemap.xml"
     active: true
@@ -35,7 +35,7 @@ sites:
     sitemap_urls:
       - "https://www.dzine.ai/sitemap.xml"
     active: true
-  - name: "flux-ai"
+  - name: "flux-ai[image&video]"
     sitemap_urls:
       - "https://flux-ai.io/sitemap.xml"
     active: true
@@ -47,19 +47,15 @@ sites:
     sitemap_urls:
       - "https://www.artguru.ai/sitemap.xml"
     active: true
-  - name: "picwish"
+  - name: "picwish[image]"
     sitemap_urls:
       - "https://picwish.com/sitemap.xml"
     active: true
-  - name: "pincel"
-    sitemap_urls:
-      - "https://pincel.app/sitemap.xml"
-    active: true  
-  - name: "clipfly"
+  - name: "clipfly[image&video]"
     sitemap_urls:
       - "https://www.clipfly.ai/sitemaps/en.xml"
     active: true  
-  - name: "createimg[0]"
+  - name: "createimg[image]"
     sitemap_urls:
       - "https://www.createimg.com/page-sitemap.xml"
       - "https://www.createimg.com/post-sitemap1.xml"
@@ -74,11 +70,7 @@ sites:
     sitemap_urls:
       - "https://www.media.io/sitemap.xml"
     active: true  
-  - name: "fluxai-art"
-    sitemap_urls:
-      - "https://fluxai.art/sitemap-secondary-page-0.xml"
-    active: true  
-  - name: "easemate"
+  - name: "easemate[image&video]"
     sitemap_urls:
       - "https://www.easemate.ai/sitemap.xml"
     active: true 
@@ -95,13 +87,37 @@ sites:
     sitemap_urls:
       - "https://openrouter.ai/sitemap.xml"
     active: true   
-
-
-
-
-
-
-
+  - name: "vidau[video]"
+    sitemap_urls:
+      - "https://www.vidau.ai/page-sitemap.xml"
+      - "https://www.vidau.ai/page-sitemap2.xml"
+      - "https://www.vidau.ai/post-sitemap3.xml"
+    active: true   
+  - name: "topview[video]"
+    sitemap_urls:
+      - "https://www.topview.ai/sitemap/sitemap_blog.xml"
+      - "https://www.topview.ai/sitemap/sitemap_make_1.xml"
+    active: true  
+  - name: "pykaso[image&video]"
+    sitemap_urls:
+      - "https://www.pykaso.ai/sitemap.xml"
+    active: true  
+  - name: "sendfame[image&video]"
+    sitemap_urls:
+      - "https://sendfame.com/sitemap.xml"
+    active: true  
+  - name: "maxstudio[image&video]"
+    sitemap_urls:
+      - "https://www.maxstudio.ai/sitemap.xml"
+    active: true  
+  - name: "vizard[video]"
+    sitemap_urls:
+      - "https://vizard.ai/sitemap.xml"
+    active: true  
+  - name: "makeugc[video]"
+    sitemap_urls:
+      - "https://www.makeugc.ai/sitemap.xml"
+    active: true  
     
 
 
