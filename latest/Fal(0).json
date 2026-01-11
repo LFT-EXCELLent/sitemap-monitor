@@ -1,5 +1,5 @@
-https://fal.ai/api/invites/template.csv
 https://fal.ai/.well-known/traffic-advice
+https://fal.ai/api/invites/template.csv
 https://fal.ai/3d-models
 https://fal.ai/about
 https://fal.ai/careers
@@ -106,12 +106,18 @@ https://fal.ai/learn
 https://fal.ai/onboarding/business
 https://fal.ai/onboarding/complete
 https://fal.ai/onboarding
+https://fal.ai/models/fal-ai/flux-2-trainer-v2/edit
+https://fal.ai/models/fal-ai/flux-2-trainer-v2/edit/api
+https://fal.ai/models/fal-ai/flux-2-trainer-v2
+https://fal.ai/models/fal-ai/flux-2-trainer-v2/api
 https://fal.ai/models/fal-ai/longcat-multi-avatar/image-audio-to-video
 https://fal.ai/models/fal-ai/longcat-multi-avatar/image-audio-to-video/api
 https://fal.ai/models/fal-ai/silero-vad
 https://fal.ai/models/fal-ai/silero-vad/api
 https://fal.ai/models/fal-ai/deepfilternet3
 https://fal.ai/models/fal-ai/deepfilternet3/api
+https://fal.ai/models/fal-ai/ltx2-v2v-trainer
+https://fal.ai/models/fal-ai/ltx2-v2v-trainer/api
 https://fal.ai/models/fal-ai/qwen-image-edit-2511-multiple-angles
 https://fal.ai/models/fal-ai/qwen-image-edit-2511-multiple-angles/api
 https://fal.ai/models/fal-ai/ltx-2-19b/distilled/video-to-video/lora
