@@ -51,6 +51,8 @@ https://fal.ai/learn/devs/best-way-to-test-generative-ai-models
 https://fal.ai/learn/devs/bria-video-eraser-prompt-guide
 https://fal.ai/learn/devs/building-effective-gen-ai-model-architectures
 https://fal.ai/learn/devs/building-with-longcat-video-developers-guide
+https://fal.ai/learn/devs/crystal-video-upscaler-developer-guide
+https://fal.ai/learn/devs/crystal-video-upscaler-user-guide
 https://fal.ai/learn/devs/elevenlabs-music-user-guide
 https://fal.ai/learn/devs/flux-2-developer-guide
 https://fal.ai/learn/devs/flux-2-flash-developer-guide
@@ -64,6 +66,8 @@ https://fal.ai/learn/devs/gen-ai-application-testing
 https://fal.ai/learn/devs/gen-ai-blender-models
 https://fal.ai/learn/devs/gen-ai-performance-optimization
 https://fal.ai/learn/devs/gen-ai-tools
+https://fal.ai/learn/devs/glm-image-prompt-guide
+https://fal.ai/learn/devs/glm-image-user-guide-production-integration
 https://fal.ai/learn/devs/gpt-image-1-5-prompt-guide
 https://fal.ai/learn/devs/how-to-write-prompts-sora-2
 https://fal.ai/learn/devs/hunyuan-3d-v3-prompt-guide
@@ -79,6 +83,8 @@ https://fal.ai/learn/devs/kling-o1-developer-guide
 https://fal.ai/learn/devs/kling-o1-prompt-guide
 https://fal.ai/learn/devs/kling-o1-vs-kling-2-5-turbo-pro
 https://fal.ai/learn/devs/kling-video-2-6-motion-control-prompt-guide
+https://fal.ai/learn/devs/ltx-2-video-trainer-prompt-guide
+https://fal.ai/learn/devs/ltx-2-video-trainer-user-guide
 https://fal.ai/learn/devs/ltx-video-2-pro-image-to-video-developer-guide
 https://fal.ai/learn/devs/ltx-video-2-pro-image-to-video-prompt-guide
 https://fal.ai/learn/devs/lucy-restyle-long-form-user-guide
@@ -117,6 +123,20 @@ https://fal.ai/learn
 https://fal.ai/onboarding/business
 https://fal.ai/onboarding/complete
 https://fal.ai/onboarding
+https://fal.ai/models/fal-ai/elevenlabs/voice-changer
+https://fal.ai/models/fal-ai/elevenlabs/voice-changer/api
+https://fal.ai/models/fal-ai/elevenlabs/dubbing
+https://fal.ai/models/fal-ai/elevenlabs/dubbing/api
+https://fal.ai/models/fal-ai/elevenlabs/speech-to-text/scribe-v2
+https://fal.ai/models/fal-ai/elevenlabs/speech-to-text/scribe-v2/api
+https://fal.ai/models/fal-ai/glm-image/image-to-image
+https://fal.ai/models/fal-ai/glm-image/image-to-image/api
+https://fal.ai/models/fal-ai/glm-image
+https://fal.ai/models/fal-ai/glm-image/api
+https://fal.ai/models/openrouter/router/video/enterprise
+https://fal.ai/models/openrouter/router/video/enterprise/api
+https://fal.ai/models/openrouter/router/video
+https://fal.ai/models/openrouter/router/video/api
 https://fal.ai/models/fal-ai/nova-sr
 https://fal.ai/models/fal-ai/nova-sr/api
 https://fal.ai/models/fal-ai/flux-2-trainer-v2/edit
