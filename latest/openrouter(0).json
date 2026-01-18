@@ -163,6 +163,7 @@ https://openrouter.ai/minimax/minimax-m1-80k
 https://openrouter.ai/moonshotai/kimi-k2-0905
 https://openrouter.ai/deepcogito/cogito-v2-preview-llama-109b-moe
 https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-32b
+https://openrouter.ai/deepseek/deepseek-v3.2-speciale
 https://openrouter.ai/nvidia/llama-3.1-nemotron-ultra-253b-v1
 https://openrouter.ai/deepcogito/cogito-v2-preview-llama-70b
 https://openrouter.ai/qwen/qwen3-max
@@ -288,7 +289,6 @@ https://openrouter.ai/nvidia/nemotron-nano-9b-v2
 https://openrouter.ai/x-ai/grok-4.1-fast
 https://openrouter.ai/mistralai/mistral-7b-instruct-v0.2
 https://openrouter.ai/baidu/ernie-4.5-21b-a3b-thinking
-https://openrouter.ai/deepseek/deepseek-v3.2-speciale
 https://openrouter.ai/qwen/qwen3-vl-30b-a3b-thinking
 https://openrouter.ai/anthropic/claude-3.5-sonnet
 https://openrouter.ai/qwen/qwen-plus-2025-07-28:thinking
@@ -650,6 +650,7 @@ https://openrouter.ai/docs/guides/best-practices/latency-and-performance
 https://openrouter.ai/docs/guides/best-practices/prompt-caching
 https://openrouter.ai/docs/guides/best-practices/uptime-optimization
 https://openrouter.ai/docs/guides/best-practices/reasoning-tokens
+https://openrouter.ai/docs/guides/guides/api-key-rotation
 https://openrouter.ai/docs/guides/guides/crypto-api
 https://openrouter.ai/docs/guides/guides/mcp-servers
 https://openrouter.ai/docs/guides/guides/claude-code-integration
