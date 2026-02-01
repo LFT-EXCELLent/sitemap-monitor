@@ -46,6 +46,7 @@ https://openrouter.ai/deepseek/deepseek-r1-0528
 https://openrouter.ai/deepseek/deepseek-chat-v3-0324
 https://openrouter.ai/nvidia/nemotron-3-nano-30b-a3b
 https://openrouter.ai/openai/text-embedding-3-large
+https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-32b
 https://openrouter.ai/nousresearch/hermes-3-llama-3.1-405b:free
 https://openrouter.ai/qwen/qwen3-vl-8b-instruct
 https://openrouter.ai/mistralai/devstral-2512
@@ -65,11 +66,11 @@ https://openrouter.ai/google/gemma-3-27b-it
 https://openrouter.ai/meta-llama/llama-3.3-70b-instruct:free
 https://openrouter.ai/google/gemini-2.5-pro-preview-05-06
 https://openrouter.ai/mistralai/mistral-nemo
+https://openrouter.ai/qwen/qwq-32b
 https://openrouter.ai/mistralai/codestral-embed-2505
+https://openrouter.ai/neversleep/llama-3.1-lumimaid-8b
 https://openrouter.ai/anthracite-org/magnum-v4-72b
 https://openrouter.ai/qwen/qwen3-vl-235b-a22b-instruct
-https://openrouter.ai/neversleep/llama-3.1-lumimaid-8b
-https://openrouter.ai/qwen/qwq-32b
 https://openrouter.ai/qwen/qwen3-coder:free
 https://openrouter.ai/switchpoint/router
 https://openrouter.ai/mistralai/pixtral-12b
@@ -79,11 +80,11 @@ https://openrouter.ai/openai/text-embedding-ada-002
 https://openrouter.ai/qwen/qwen3-embedding-8b
 https://openrouter.ai/google/gemma-3n-e4b-it
 https://openrouter.ai/tngtech/deepseek-r1t2-chimera:free
-https://openrouter.ai/undi95/remm-slerp-l2-13b
 https://openrouter.ai/morph/morph-v3-large
+https://openrouter.ai/nousresearch/hermes-3-llama-3.1-70b
 https://openrouter.ai/meta-llama/llama-3.2-3b-instruct
 https://openrouter.ai/qwen/qwen3-235b-a22b-thinking-2507
-https://openrouter.ai/nousresearch/hermes-3-llama-3.1-70b
+https://openrouter.ai/undi95/remm-slerp-l2-13b
 https://openrouter.ai/nvidia/nemotron-nano-12b-v2-vl
 https://openrouter.ai/google/gemini-embedding-001
 https://openrouter.ai/sao10k/l3-lunaris-8b
@@ -93,10 +94,10 @@ https://openrouter.ai/qwen/qwen3-30b-a3b
 https://openrouter.ai/qwen/qwen3-coder
 https://openrouter.ai/qwen/qwen3-embedding-4b
 https://openrouter.ai/nousresearch/hermes-2-pro-llama-3-8b
-https://openrouter.ai/microsoft/phi-4
 https://openrouter.ai/allenai/olmo-3-7b-think
 https://openrouter.ai/openai/gpt-oss-120b
 https://openrouter.ai/moonshotai/kimi-k2-0905:exacto
+https://openrouter.ai/microsoft/phi-4
 https://openrouter.ai/deepseek/deepseek-chat
 https://openrouter.ai/meta-llama/llama-3.3-70b-instruct
 https://openrouter.ai/z-ai/glm-4.5-air
@@ -106,8 +107,8 @@ https://openrouter.ai/tngtech/deepseek-r1t2-chimera
 https://openrouter.ai/qwen/qwen3-4b:free
 https://openrouter.ai/openai/gpt-oss-safeguard-20b
 https://openrouter.ai/qwen/qwen3-235b-a22b-2507
-https://openrouter.ai/neversleep/noromaid-20b
 https://openrouter.ai/openai/o1-pro
+https://openrouter.ai/neversleep/noromaid-20b
 https://openrouter.ai/liquid/lfm-2.2-6b
 https://openrouter.ai/mistralai/ministral-3b
 https://openrouter.ai/allenai/olmo-3-7b-instruct
@@ -126,8 +127,8 @@ https://openrouter.ai/google/gemma-3n-e2b-it:free
 https://openrouter.ai/meta-llama/llama-guard-3-8b
 https://openrouter.ai/x-ai/grok-3-mini
 https://openrouter.ai/qwen/qwen3-14b
-https://openrouter.ai/sao10k/l3.3-euryale-70b
 https://openrouter.ai/sao10k/l3.1-euryale-70b
+https://openrouter.ai/sao10k/l3.3-euryale-70b
 https://openrouter.ai/meta-llama/llama-4-scout
 https://openrouter.ai/anthropic/claude-sonnet-4
 https://openrouter.ai/openai/gpt-5-chat
@@ -188,7 +189,6 @@ https://openrouter.ai/openai/gpt-4o-audio-preview
 https://openrouter.ai/x-ai/grok-code-fast-1
 https://openrouter.ai/minimax/minimax-m1-80k
 https://openrouter.ai/moonshotai/kimi-k2-0905
-https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-32b
 https://openrouter.ai/deepseek/deepseek-v3.2-speciale
 https://openrouter.ai/nvidia/llama-3.1-nemotron-ultra-253b-v1
 https://openrouter.ai/deepcogito/cogito-v2-preview-llama-70b
@@ -730,6 +730,7 @@ https://openrouter.ai/docs/guides/community/tanstack-ai
 https://openrouter.ai/docs/guides/community/vercel-ai-sdk
 https://openrouter.ai/docs/guides/community/xcode
 https://openrouter.ai/docs/guides/community/zapier
+https://openrouter.ai/docs/guides/community/infisical
 https://openrouter.ai/docs/api/reference/overview
 https://openrouter.ai/docs/api/reference/streaming
 https://openrouter.ai/docs/api/reference/embeddings
