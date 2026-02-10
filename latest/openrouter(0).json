@@ -11,6 +11,7 @@ https://openrouter.ai/announcements
 https://openrouter.ai/providers
 https://openrouter.ai/sdk
 https://openrouter.ai/works-with-openrouter
+https://openrouter.ai/works-with-openrouter/Maxim AI
 https://openrouter.ai/works-with-openrouter/agent-zero
 https://openrouter.ai/works-with-openrouter/aiassistworks
 https://openrouter.ai/works-with-openrouter/aider
@@ -24,6 +25,7 @@ https://openrouter.ai/works-with-openrouter/chorus
 https://openrouter.ai/works-with-openrouter/cline
 https://openrouter.ai/works-with-openrouter/cloudflare
 https://openrouter.ai/works-with-openrouter/fal
+https://openrouter.ai/works-with-openrouter/gitbug
 https://openrouter.ai/works-with-openrouter/github-copilot
 https://openrouter.ai/works-with-openrouter/helicone
 https://openrouter.ai/works-with-openrouter/kilocode
@@ -32,6 +34,7 @@ https://openrouter.ai/works-with-openrouter/llamaindex
 https://openrouter.ai/works-with-openrouter/mastra
 https://openrouter.ai/works-with-openrouter/moltbot
 https://openrouter.ai/works-with-openrouter/nanocode
+https://openrouter.ai/works-with-openrouter/nikke-db-story-gen
 https://openrouter.ai/works-with-openrouter/novelcrafter
 https://openrouter.ai/works-with-openrouter/ottex
 https://openrouter.ai/works-with-openrouter/posthog
@@ -74,6 +77,7 @@ https://openrouter.ai/mistralai/codestral-embed-2505
 https://openrouter.ai/neversleep/llama-3.1-lumimaid-8b
 https://openrouter.ai/anthracite-org/magnum-v4-72b
 https://openrouter.ai/qwen/qwen3-vl-235b-a22b-instruct
+https://openrouter.ai/meta-llama/llama-guard-4-12b
 https://openrouter.ai/qwen/qwen3-coder:free
 https://openrouter.ai/switchpoint/router
 https://openrouter.ai/mistralai/pixtral-12b
@@ -105,7 +109,6 @@ https://openrouter.ai/deepseek/deepseek-chat
 https://openrouter.ai/microsoft/phi-4
 https://openrouter.ai/meta-llama/llama-3.3-70b-instruct
 https://openrouter.ai/deepseek/deepseek-v3.2-speciale
-https://openrouter.ai/meta-llama/llama-guard-4-12b
 https://openrouter.ai/mistralai/mistral-embed-2312
 https://openrouter.ai/qwen/qwen3-4b:free
 https://openrouter.ai/openai/gpt-oss-safeguard-20b
@@ -299,7 +302,6 @@ https://openrouter.ai/eleutherai/llemma_7b
 https://openrouter.ai/thenlper/gte-base
 https://openrouter.ai/mistralai/mistral-small-3.1-24b-instruct
 https://openrouter.ai/openai/o3-mini
-https://openrouter.ai/qwen/qwen3-235b-a22b
 https://openrouter.ai/inception/mercury-coder
 https://openrouter.ai/prime-intellect/intellect-3
 https://openrouter.ai/mistralai/mistral-large-2411
@@ -323,6 +325,7 @@ https://openrouter.ai/nvidia/nemotron-nano-9b-v2
 https://openrouter.ai/x-ai/grok-4.1-fast
 https://openrouter.ai/mistralai/mistral-7b-instruct-v0.2
 https://openrouter.ai/baidu/ernie-4.5-21b-a3b-thinking
+https://openrouter.ai/qwen/qwen3-235b-a22b
 https://openrouter.ai/qwen/qwen3-vl-30b-a3b-thinking
 https://openrouter.ai/openai/o3
 https://openrouter.ai/minimax/minimax-m2-her
