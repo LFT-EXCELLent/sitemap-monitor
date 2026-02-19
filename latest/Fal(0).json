@@ -21,6 +21,7 @@ https://fal.ai/pricing
 https://fal.ai/realtime
 https://fal.ai/recraft
 https://fal.ai/recraft-v4
+https://fal.ai/seedance-2.0
 https://fal.ai/stable-diffusion-v3
 https://fal.ai/video
 https://fal.ai/z-image-turbo
@@ -31,6 +32,7 @@ https://fal.ai/customer-case/playai-and-fal
 https://fal.ai/customer-case/quora-poe-and-fal
 https://fal.ai/explore
 https://fal.ai/explore/search
+https://fal.ai/gen-media-report-volume-1
 https://fal.ai/learn/biz
 https://fal.ai/learn/biz/creatify-aurora-prompt-guide
 https://fal.ai/learn/biz/eleven-music-prompt-guide
@@ -130,6 +132,10 @@ https://fal.ai/learn
 https://fal.ai/onboarding/business
 https://fal.ai/onboarding/complete
 https://fal.ai/onboarding
+https://fal.ai/models/fal-ai/workflow-utilities/reverse-video
+https://fal.ai/models/fal-ai/workflow-utilities/reverse-video/api
+https://fal.ai/models/fal-ai/firered-image-edit
+https://fal.ai/models/fal-ai/firered-image-edit/api
 https://fal.ai/models/fal-ai/recraft/v4/pro/text-to-vector
 https://fal.ai/models/fal-ai/recraft/v4/pro/text-to-vector/api
 https://fal.ai/models/fal-ai/recraft/v4/text-to-vector
@@ -284,10 +290,6 @@ https://fal.ai/models/fal-ai/qwen-3-tts/clone-voice/0.6b
 https://fal.ai/models/fal-ai/qwen-3-tts/clone-voice/0.6b/api
 https://fal.ai/models/fal-ai/z-image-turbo-trainer-v2
 https://fal.ai/models/fal-ai/z-image-turbo-trainer-v2/api
-https://fal.ai/models/half-moon-ai/ai-face-swap/faceswapvideo
-https://fal.ai/models/half-moon-ai/ai-face-swap/faceswapvideo/api
-https://fal.ai/models/half-moon-ai/ai-face-swap/faceswapimage
-https://fal.ai/models/half-moon-ai/ai-face-swap/faceswapimage/api
 https://fal.ai/models/bria/fibo-edit/edit/structured_instruction
 https://fal.ai/models/bria/fibo-edit/edit/structured_instruction/api
 https://fal.ai/models/bria/fibo-edit/replace_object_by_text
@@ -450,10 +452,6 @@ https://fal.ai/models/fal-ai/sam-audio/span-separate
 https://fal.ai/models/fal-ai/sam-audio/span-separate/api
 https://fal.ai/models/fal-ai/sam-audio/visual-separate
 https://fal.ai/models/fal-ai/sam-audio/visual-separate/api
-https://fal.ai/models/half-moon-ai/ai-home/style
-https://fal.ai/models/half-moon-ai/ai-home/style/api
-https://fal.ai/models/half-moon-ai/ai-home/edit
-https://fal.ai/models/half-moon-ai/ai-home/edit/api
 https://fal.ai/models/fal-ai/hunyuan-motion/fast
 https://fal.ai/models/fal-ai/hunyuan-motion/fast/api
 https://fal.ai/models/fal-ai/hunyuan-motion
@@ -559,14 +557,6 @@ https://fal.ai/models/fal-ai/flux-2-max
 https://fal.ai/models/fal-ai/flux-2-max/api
 https://fal.ai/models/fal-ai/flux-2-max/edit
 https://fal.ai/models/fal-ai/flux-2-max/edit/api
-https://fal.ai/models/half-moon-ai/ai-baby-and-aging-generator/multi
-https://fal.ai/models/half-moon-ai/ai-baby-and-aging-generator/multi/api
-https://fal.ai/models/half-moon-ai/ai-baby-and-aging-generator/single
-https://fal.ai/models/half-moon-ai/ai-baby-and-aging-generator/single/api
-https://fal.ai/models/half-moon-ai/ai-detector/detect-image
-https://fal.ai/models/half-moon-ai/ai-detector/detect-image/api
-https://fal.ai/models/half-moon-ai/ai-detector/detect-text
-https://fal.ai/models/half-moon-ai/ai-detector/detect-text/api
 https://fal.ai/models/wan/v2.6/text-to-video
 https://fal.ai/models/wan/v2.6/text-to-video/api
 https://fal.ai/models/wan/v2.6/reference-to-video
