@@ -175,7 +175,6 @@ https://openrouter.ai/anthropic/claude-opus-4.1
 https://openrouter.ai/nvidia/nemotron-3-nano-30b-a3b
 https://openrouter.ai/deepseek/deepseek-chat-v3.1
 https://openrouter.ai/qwen/qwen3-coder-next
-https://openrouter.ai/meta-llama/llama-3.1-8b-instruct
 https://openrouter.ai/openai/gpt-3.5-turbo-instruct
 https://openrouter.ai/openai/o3-mini-high
 https://openrouter.ai/qwen/qwen3-coder-flash
@@ -187,8 +186,8 @@ https://openrouter.ai/google/gemini-2.5-flash-image
 https://openrouter.ai/openai/gpt-4o-audio-preview
 https://openrouter.ai/x-ai/grok-code-fast-1
 https://openrouter.ai/amazon/nova-lite-v1
-https://openrouter.ai/moonshotai/kimi-k2-0905
 https://openrouter.ai/google/gemma-3-12b-it
+https://openrouter.ai/moonshotai/kimi-k2-0905
 https://openrouter.ai/nvidia/llama-3.1-nemotron-ultra-253b-v1
 https://openrouter.ai/openai/gpt-audio-mini
 https://openrouter.ai/qwen/qwen3-max
@@ -198,6 +197,7 @@ https://openrouter.ai/google/gemma-2-9b-it
 https://openrouter.ai/google/gemma-3-4b-it:free
 https://openrouter.ai/openai/gpt-5
 https://openrouter.ai/baidu/ernie-4.5-vl-424b-a47b
+https://openrouter.ai/meta-llama/llama-3.1-8b-instruct
 https://openrouter.ai/openai/gpt-audio
 https://openrouter.ai/z-ai/glm-4.5v
 https://openrouter.ai/allenai/olmo-3.1-32b-think
@@ -263,7 +263,6 @@ https://openrouter.ai/google/gemma-3-27b-it:free
 https://openrouter.ai/arcee-ai/spotlight
 https://openrouter.ai/aion-labs/aion-1.0-mini
 https://openrouter.ai/baai/bge-large-en-v1.5
-https://openrouter.ai/moonshotai/kimi-k2.5
 https://openrouter.ai/arcee-ai/trinity-mini:free
 https://openrouter.ai/sentence-transformers/multi-qa-mpnet-base-dot-v1
 https://openrouter.ai/qwen/qwen-2.5-vl-7b-instruct
@@ -282,6 +281,7 @@ https://openrouter.ai/qwen/qwen-2.5-coder-32b-instruct
 https://openrouter.ai/intfloat/multilingual-e5-large
 https://openrouter.ai/intfloat/e5-base-v2
 https://openrouter.ai/arcee-ai/trinity-mini
+https://openrouter.ai/moonshotai/kimi-k2.5
 https://openrouter.ai/google/gemini-2.5-pro
 https://openrouter.ai/mistralai/mistral-7b-instruct-v0.1
 https://openrouter.ai/bytedance-seed/seed-1.6
