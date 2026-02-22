@@ -584,6 +584,7 @@ https://openrouter.ai/provider/inference-net
 https://openrouter.ai/provider/infermatic
 https://openrouter.ai/provider/io-net
 https://openrouter.ai/provider/inflection
+https://openrouter.ai/provider/ionstream
 https://openrouter.ai/provider/inocloud
 https://openrouter.ai/provider/klusterai
 https://openrouter.ai/provider/lambda
@@ -754,6 +755,7 @@ https://openrouter.ai/docs/api/api-reference/o-auth/exchange-auth-code-for-api-k
 https://openrouter.ai/docs/api/api-reference/o-auth/create-auth-keys-code
 https://openrouter.ai/docs/api/api-reference/anthropic-messages/create-messages
 https://openrouter.ai/docs/api/api-reference/analytics/get-user-activity
+https://openrouter.ai/docs/api/api-reference/chat/send-chat-completion-request
 https://openrouter.ai/docs/api/api-reference/credits/get-credits
 https://openrouter.ai/docs/api/api-reference/credits/create-coinbase-charge
 https://openrouter.ai/docs/api/api-reference/embeddings/create-embeddings
@@ -784,7 +786,6 @@ https://openrouter.ai/docs/api/api-reference/guardrails/list-guardrail-member-as
 https://openrouter.ai/docs/api/api-reference/guardrails/bulk-assign-members-to-guardrail
 https://openrouter.ai/docs/api/api-reference/guardrails/bulk-unassign-keys-from-guardrail
 https://openrouter.ai/docs/api/api-reference/guardrails/bulk-unassign-members-from-guardrail
-https://openrouter.ai/docs/api/api-reference/chat/send-chat-completion-request
 https://openrouter.ai/docs/sdks/agentic-usage
 https://openrouter.ai/docs/sdks/dev-tools/devtools
 https://openrouter.ai/docs/sdks/typescript/overview
