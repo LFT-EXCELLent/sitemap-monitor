@@ -133,6 +133,14 @@ https://fal.ai/learn
 https://fal.ai/onboarding/business
 https://fal.ai/onboarding/complete
 https://fal.ai/onboarding
+https://fal.ai/models/fal-ai/cosmos-predict-2.5/distilled/text-to-video
+https://fal.ai/models/fal-ai/cosmos-predict-2.5/distilled/text-to-video/api
+https://fal.ai/models/fal-ai/cosmos-predict-2.5/video-to-video
+https://fal.ai/models/fal-ai/cosmos-predict-2.5/video-to-video/api
+https://fal.ai/models/fal-ai/cosmos-predict-2.5/image-to-video
+https://fal.ai/models/fal-ai/cosmos-predict-2.5/image-to-video/api
+https://fal.ai/models/fal-ai/cosmos-predict-2.5/text-to-video
+https://fal.ai/models/fal-ai/cosmos-predict-2.5/text-to-video/api
 https://fal.ai/models/fal-ai/wan-22-trainer/t2v-a14b
 https://fal.ai/models/fal-ai/wan-22-trainer/t2v-a14b/api
 https://fal.ai/models/fal-ai/wan-22-trainer/i2v-a14b
@@ -143,6 +151,12 @@ https://fal.ai/models/fal-ai/lava-sr
 https://fal.ai/models/fal-ai/lava-sr/api
 https://fal.ai/models/bria/upscale/creative
 https://fal.ai/models/bria/upscale/creative/api
+https://fal.ai/models/fal-ai/bytedance/seedream/v5/lite/edit
+https://fal.ai/models/fal-ai/bytedance/seedream/v5/lite/edit/api
+https://fal.ai/models/fal-ai/bytedance/seedream/v5/lite/edit/examples
+https://fal.ai/models/fal-ai/bytedance/seedream/v5/lite/text-to-image
+https://fal.ai/models/fal-ai/bytedance/seedream/v5/lite/text-to-image/api
+https://fal.ai/models/fal-ai/bytedance/seedream/v5/lite/text-to-image/examples
 https://fal.ai/models/fal-ai/bitdance
 https://fal.ai/models/fal-ai/bitdance/api
 https://fal.ai/models/fal-ai/workflow-utilities/reverse-video
