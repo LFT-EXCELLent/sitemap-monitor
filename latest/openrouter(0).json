@@ -53,7 +53,6 @@ https://openrouter.ai/meta-llama/llama-3.2-11b-vision-instruct
 https://openrouter.ai/deepseek/deepseek-r1-0528
 https://openrouter.ai/deepseek/deepseek-chat-v3-0324
 https://openrouter.ai/openai/text-embedding-3-large
-https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-32b
 https://openrouter.ai/z-ai/glm-4.7
 https://openrouter.ai/nousresearch/hermes-3-llama-3.1-405b:free
 https://openrouter.ai/qwen/qwen3-vl-8b-instruct
@@ -75,7 +74,6 @@ https://openrouter.ai/google/gemma-3-27b-it
 https://openrouter.ai/meta-llama/llama-3.3-70b-instruct
 https://openrouter.ai/google/gemini-2.5-pro-preview-05-06
 https://openrouter.ai/mistralai/mistral-nemo
-https://openrouter.ai/qwen/qwq-32b
 https://openrouter.ai/mistralai/codestral-embed-2505
 https://openrouter.ai/neversleep/llama-3.1-lumimaid-8b
 https://openrouter.ai/anthracite-org/magnum-v4-72b
@@ -100,9 +98,9 @@ https://openrouter.ai/google/gemma-2-27b-it
 https://openrouter.ai/qwen/qwen3-30b-a3b
 https://openrouter.ai/qwen/qwen3-embedding-4b
 https://openrouter.ai/nousresearch/hermes-2-pro-llama-3-8b
+https://openrouter.ai/microsoft/phi-4
 https://openrouter.ai/allenai/olmo-3-7b-think
 https://openrouter.ai/moonshotai/kimi-k2-0905:exacto
-https://openrouter.ai/microsoft/phi-4
 https://openrouter.ai/openai/gpt-oss-120b
 https://openrouter.ai/qwen/qwen3-coder
 https://openrouter.ai/deepseek/deepseek-v3.2-speciale
@@ -125,18 +123,17 @@ https://openrouter.ai/bytedance/ui-tars-1.5-7b
 https://openrouter.ai/allenai/olmo-2-0325-32b-instruct
 https://openrouter.ai/liquid/lfm2-8b-a1b
 https://openrouter.ai/z-ai/glm-4.5
+https://openrouter.ai/sao10k/l3.3-euryale-70b
 https://openrouter.ai/google/gemma-3n-e2b-it:free
 https://openrouter.ai/meta-llama/llama-guard-3-8b
 https://openrouter.ai/x-ai/grok-3-mini
 https://openrouter.ai/qwen/qwen3-14b
 https://openrouter.ai/sao10k/l3.1-euryale-70b
-https://openrouter.ai/sao10k/l3.3-euryale-70b
 https://openrouter.ai/gryphe/mythomax-l2-13b
 https://openrouter.ai/meta-llama/llama-4-scout
 https://openrouter.ai/anthropic/claude-sonnet-4
 https://openrouter.ai/openai/gpt-5-chat
 https://openrouter.ai/x-ai/grok-3
-https://openrouter.ai/z-ai/glm-4.6
 https://openrouter.ai/meta-llama/llama-3.2-3b-instruct:free
 https://openrouter.ai/google/gemma-3-12b-it:free
 https://openrouter.ai/sourceful/riverflow-v2-pro
@@ -153,7 +150,6 @@ https://openrouter.ai/deepseek/deepseek-v3.1-terminus:exacto
 https://openrouter.ai/minimax/minimax-m2
 https://openrouter.ai/openai/gpt-oss-120b:exacto
 https://openrouter.ai/thedrummer/cydonia-24b-v4.1
-https://openrouter.ai/deepseek/deepseek-chat-v3.1
 https://openrouter.ai/nvidia/llama-nemotron-embed-vl-1b-v2:free
 https://openrouter.ai/minimax/minimax-m2.1
 https://openrouter.ai/qwen/qwen3.5-flash-02-23
@@ -175,6 +171,7 @@ https://openrouter.ai/ibm-granite/granite-4.0-h-micro
 https://openrouter.ai/openai/gpt-5-mini
 https://openrouter.ai/anthropic/claude-opus-4.1
 https://openrouter.ai/nvidia/nemotron-3-nano-30b-a3b
+https://openrouter.ai/deepseek/deepseek-chat-v3.1
 https://openrouter.ai/openai/gpt-3.5-turbo-instruct
 https://openrouter.ai/openai/o3-mini-high
 https://openrouter.ai/qwen/qwen3-coder-flash
@@ -200,7 +197,6 @@ https://openrouter.ai/baidu/ernie-4.5-vl-424b-a47b
 https://openrouter.ai/meta-llama/llama-3.1-8b-instruct
 https://openrouter.ai/openai/gpt-audio
 https://openrouter.ai/z-ai/glm-4.5v
-https://openrouter.ai/allenai/olmo-3.1-32b-think
 https://openrouter.ai/meta-llama/llama-4-maverick
 https://openrouter.ai/google/gemini-2.5-flash-lite-preview-09-2025
 https://openrouter.ai/x-ai/grok-4
@@ -251,6 +247,7 @@ https://openrouter.ai/writer/palmyra-x5
 https://openrouter.ai/anthropic/claude-3.5-haiku
 https://openrouter.ai/aion-labs/aion-rp-llama-3.1-8b
 https://openrouter.ai/arcee-ai/maestro-reasoning
+https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-32b
 https://openrouter.ai/qwen/qwen3-30b-a3b-thinking-2507
 https://openrouter.ai/google/gemma-3-4b-it
 https://openrouter.ai/perplexity/sonar-deep-research
@@ -314,6 +311,7 @@ https://openrouter.ai/mistralai/pixtral-large-2411
 https://openrouter.ai/nvidia/nemotron-nano-9b-v2
 https://openrouter.ai/x-ai/grok-4.1-fast
 https://openrouter.ai/baidu/ernie-4.5-21b-a3b-thinking
+https://openrouter.ai/z-ai/glm-4.6
 https://openrouter.ai/qwen/qwen3-vl-30b-a3b-instruct
 https://openrouter.ai/qwen/qwen3-8b
 https://openrouter.ai/openai/o3
@@ -366,6 +364,7 @@ https://openrouter.ai/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/nex-agi/deepseek-v3.1-nex-n1
 https://openrouter.ai/mistralai/mistral-small-creative
 https://openrouter.ai/amazon/nova-2-lite-v1
+https://openrouter.ai/qwen/qwq-32b
 https://openrouter.ai/openai/gpt-3.5-turbo-16k
 https://openrouter.ai/arcee-ai/trinity-large-preview:free
 https://openrouter.ai/alpindale/goliath-120b
@@ -549,6 +548,7 @@ https://openrouter.ai/xiaomi
 https://openrouter.ai/stepfun
 https://openrouter.ai/ google
 https://openrouter.ai/seed
+https://openrouter.ai/phala
 https://openrouter.ai/provider/ai21
 https://openrouter.ai/provider/aion-labs
 https://openrouter.ai/provider/alibaba
@@ -880,7 +880,6 @@ https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/minimax/minimax-m2.1
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/z-ai/glm-4.7
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/google/gemini-3-flash-preview
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/bytedance-seed/seed-2.0-mini
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/bytedance-seed/seed-2.0-mini
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/nvidia/nemotron-3-nano-30b-a3b
@@ -936,6 +935,7 @@ https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/kwaipilot/kat-coder-p
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/bytedance-seed/seed-2.0-mini
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/google/gemini-embedding-001
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/qwen/qwen3.5-35b-a3b
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/qwen/qwen3.5-27b
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/qwen/qwen3.5-122b-a10b
@@ -978,7 +978,6 @@ https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/minimax/mini
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/google/gemini-3.1-flash-image-preview
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/google/gemini-3.1-flash-image-preview
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/google/gemini-3.1-flash-image-preview
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/nvidia/nemotron-3-nano-30b-a3b
@@ -1034,6 +1033,7 @@ https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/kwaipilot/ka
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/google/gemini-3.1-flash-image-preview
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/google/gemini-embedding-001
 https://openrouter.ai/compare/qwen/qwen3.5-27b/qwen/qwen3.5-35b-a3b
 https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/qwen/qwen3.5-35b-a3b
 https://openrouter.ai/compare/qwen/qwen3.5-35b-a3b/qwen/qwen3.5-flash-02-23
@@ -1075,7 +1075,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/qwen/qwen3.5-35b-a3b
 https://openrouter.ai/compare/qwen/qwen3.5-35b-a3b/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/qwen/qwen3.5-35b-a3b
 https://openrouter.ai/compare/mistralai/mistral-small-creative/qwen/qwen3.5-35b-a3b
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/qwen/qwen3.5-35b-a3b
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/qwen/qwen3.5-35b-a3b
 https://openrouter.ai/compare/qwen/qwen3.5-35b-a3b/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/qwen/qwen3.5-35b-a3b
@@ -1131,6 +1130,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/qwen/qwen3.5-35b-a3b
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/qwen/qwen3.5-35b-a3b
 https://openrouter.ai/compare/amazon/nova-premier-v1/qwen/qwen3.5-35b-a3b
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/qwen/qwen3.5-35b-a3b
+https://openrouter.ai/compare/google/gemini-embedding-001/qwen/qwen3.5-35b-a3b
 https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/qwen/qwen3.5-27b
 https://openrouter.ai/compare/qwen/qwen3.5-27b/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/qwen/qwen3.5-27b
@@ -1171,7 +1171,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/qwen/qwen3.5-27b
 https://openrouter.ai/compare/qwen/qwen3.5-27b/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/qwen/qwen3.5-27b
 https://openrouter.ai/compare/mistralai/mistral-small-creative/qwen/qwen3.5-27b
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/qwen/qwen3.5-27b
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/qwen/qwen3.5-27b
 https://openrouter.ai/compare/qwen/qwen3.5-27b/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/qwen/qwen3.5-27b
@@ -1227,6 +1226,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/qwen/qwen3.5-27b
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/qwen/qwen3.5-27b
 https://openrouter.ai/compare/amazon/nova-premier-v1/qwen/qwen3.5-27b
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/qwen/qwen3.5-27b
+https://openrouter.ai/compare/google/gemini-embedding-001/qwen/qwen3.5-27b
 https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/qwen/qwen3.5-122b-a10b
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/qwen/qwen3.5-122b-a10b
@@ -1266,7 +1266,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/qwen/qwen3.5-122b-a10b
 https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/qwen/qwen3.5-122b-a10b
 https://openrouter.ai/compare/mistralai/mistral-small-creative/qwen/qwen3.5-122b-a10b
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/qwen/qwen3.5-122b-a10b
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/qwen/qwen3.5-122b-a10b
 https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/qwen/qwen3.5-122b-a10b
@@ -1322,6 +1321,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/qwen/qwen3.5-122b-a10b
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/qwen/qwen3.5-122b-a10b
 https://openrouter.ai/compare/amazon/nova-premier-v1/qwen/qwen3.5-122b-a10b
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/qwen/qwen3.5-122b-a10b
+https://openrouter.ai/compare/google/gemini-embedding-001/qwen/qwen3.5-122b-a10b
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/nvidia/llama-nemotron-embed-vl-1b-v2/qwen/qwen3.5-flash-02-23
@@ -1360,7 +1360,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/qwen/qwen3.5-flash-02-23/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/mistralai/mistral-small-creative/qwen/qwen3.5-flash-02-23
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/qwen/qwen3.5-flash-02-23/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/qwen/qwen3.5-flash-02-23
@@ -1416,6 +1415,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/amazon/nova-premier-v1/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/qwen/qwen3.5-flash-02-23
+https://openrouter.ai/compare/google/gemini-embedding-001/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/liquid/lfm-2-24b-a2b
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/nvidia/llama-nemotron-embed-vl-1b-v2
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/openai/gpt-5.3-codex
@@ -1453,7 +1453,6 @@ https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/minimax/minimax-m2.1
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/liquid/lfm-2-24b-a2b
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/liquid/lfm-2-24b-a2b
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/liquid/lfm-2-24b-a2b
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/nvidia/nemotron-3-nano-30b-a3b
@@ -1509,6 +1508,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/liquid/lfm-2-24b-a2b
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/liquid/lfm-2-24b-a2b
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-embedding-001/liquid/lfm-2-24b-a2b
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/nvidia/llama-nemotron-embed-vl-1b-v2
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/openai/gpt-5.3-codex
 https://openrouter.ai/compare/aion-labs/aion-2.0/google/gemini-3.1-pro-preview-customtools
@@ -1545,7 +1545,6 @@ https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/minimax/
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/google/gemini-3.1-pro-preview-customtools
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/google/gemini-3.1-pro-preview-customtools
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/google/gemini-3.1-pro-preview-customtools
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/nvidia/nemotron-3-nano-30b-a3b
@@ -1601,6 +1600,7 @@ https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/kwaipilo
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/google/gemini-3.1-pro-preview-customtools
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/google/gemini-embedding-001
 https://openrouter.ai/compare/nvidia/llama-nemotron-embed-vl-1b-v2/openai/gpt-5.3-codex
 https://openrouter.ai/compare/aion-labs/aion-2.0/nvidia/llama-nemotron-embed-vl-1b-v2
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/nvidia/llama-nemotron-embed-vl-1b-v2
@@ -1636,7 +1636,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/nvidia/llama-nemotron-embed-v
 https://openrouter.ai/compare/nvidia/llama-nemotron-embed-vl-1b-v2/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/nvidia/llama-nemotron-embed-vl-1b-v2
 https://openrouter.ai/compare/mistralai/mistral-small-creative/nvidia/llama-nemotron-embed-vl-1b-v2
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/nvidia/llama-nemotron-embed-vl-1b-v2
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/nvidia/llama-nemotron-embed-vl-1b-v2
 https://openrouter.ai/compare/nvidia/llama-nemotron-embed-vl-1b-v2/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/llama-nemotron-embed-vl-1b-v2/nvidia/nemotron-3-nano-30b-a3b
@@ -1692,6 +1691,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/nvidia/llama-nemotron-embe
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/nvidia/llama-nemotron-embed-vl-1b-v2
 https://openrouter.ai/compare/amazon/nova-premier-v1/nvidia/llama-nemotron-embed-vl-1b-v2
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/nvidia/llama-nemotron-embed-vl-1b-v2
+https://openrouter.ai/compare/google/gemini-embedding-001/nvidia/llama-nemotron-embed-vl-1b-v2
 https://openrouter.ai/compare/aion-labs/aion-2.0/openai/gpt-5.3-codex
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/openai/gpt-5.3-codex
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/openai/gpt-5.3-codex
@@ -1726,7 +1726,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/openai/gpt-5.3-codex
 https://openrouter.ai/compare/openai/gpt-5.3-codex/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/openai/gpt-5.3-codex
 https://openrouter.ai/compare/mistralai/mistral-small-creative/openai/gpt-5.3-codex
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/openai/gpt-5.3-codex
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/openai/gpt-5.3-codex
 https://openrouter.ai/compare/openai/gpt-5.3-codex/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/openai/gpt-5.3-codex
@@ -1782,6 +1781,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/openai/gpt-5.3-codex
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/openai/gpt-5.3-codex
 https://openrouter.ai/compare/amazon/nova-premier-v1/openai/gpt-5.3-codex
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/openai/gpt-5.3-codex
+https://openrouter.ai/compare/google/gemini-embedding-001/openai/gpt-5.3-codex
 https://openrouter.ai/compare/aion-labs/aion-2.0/google/gemini-3.1-pro-preview
 https://openrouter.ai/compare/aion-labs/aion-2.0/anthropic/claude-sonnet-4.6
 https://openrouter.ai/compare/aion-labs/aion-2.0/qwen/qwen3.5-plus-02-15
@@ -1815,7 +1815,6 @@ https://openrouter.ai/compare/aion-labs/aion-2.0/minimax/minimax-m2.1
 https://openrouter.ai/compare/aion-labs/aion-2.0/z-ai/glm-4.7
 https://openrouter.ai/compare/aion-labs/aion-2.0/google/gemini-3-flash-preview
 https://openrouter.ai/compare/aion-labs/aion-2.0/mistralai/mistral-small-creative
-https://openrouter.ai/compare/aion-labs/aion-2.0/allenai/olmo-3.1-32b-think
 https://openrouter.ai/compare/aion-labs/aion-2.0/black-forest-labs/flux.2-max
 https://openrouter.ai/compare/aion-labs/aion-2.0/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/aion-labs/aion-2.0/nvidia/nemotron-3-nano-30b-a3b
@@ -1871,6 +1870,7 @@ https://openrouter.ai/compare/aion-labs/aion-2.0/kwaipilot/kat-coder-pro
 https://openrouter.ai/compare/aion-labs/aion-2.0/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/aion-labs/aion-2.0/amazon/nova-premier-v1
 https://openrouter.ai/compare/aion-labs/aion-2.0/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/aion-labs/aion-2.0/google/gemini-embedding-001
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/google/gemini-3.1-pro-preview
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/qwen/qwen3.5-plus-02-15
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/qwen/qwen3.5-397b-a17b
@@ -1903,7 +1903,6 @@ https://openrouter.ai/compare/google/gemini-3.1-pro-preview/minimax/minimax-m2.1
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/google/gemini-3.1-pro-preview
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/google/gemini-3.1-pro-preview
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/google/gemini-3.1-pro-preview
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/nvidia/nemotron-3-nano-30b-a3b
@@ -1959,6 +1958,7 @@ https://openrouter.ai/compare/google/gemini-3.1-pro-preview/kwaipilot/kat-coder-
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/google/gemini-3.1-pro-preview
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-3.1-pro-preview/google/gemini-embedding-001
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/qwen/qwen3.5-plus-02-15
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/qwen/qwen3.5-397b-a17b
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/minimax/minimax-m2.5
@@ -1990,7 +1990,6 @@ https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/minimax/minimax-m2.1
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/z-ai/glm-4.7
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/google/gemini-3-flash-preview
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/anthropic/claude-sonnet-4.6
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/black-forest-labs/flux.2-max
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/nvidia/nemotron-3-nano-30b-a3b
@@ -2046,6 +2045,7 @@ https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/kwaipilot/kat-coder-pr
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/anthropic/claude-sonnet-4.6
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/google/gemini-embedding-001
 https://openrouter.ai/compare/qwen/qwen3.5-397b-a17b/qwen/qwen3.5-plus-02-15
 https://openrouter.ai/compare/minimax/minimax-m2.5/qwen/qwen3.5-plus-02-15
 https://openrouter.ai/compare/qwen/qwen3.5-plus-02-15/z-ai/glm-5
@@ -2076,7 +2076,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/qwen/qwen3.5-plus-02-15
 https://openrouter.ai/compare/qwen/qwen3.5-plus-02-15/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/qwen/qwen3.5-plus-02-15
 https://openrouter.ai/compare/mistralai/mistral-small-creative/qwen/qwen3.5-plus-02-15
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/qwen/qwen3.5-plus-02-15
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/qwen/qwen3.5-plus-02-15
 https://openrouter.ai/compare/qwen/qwen3.5-plus-02-15/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/qwen/qwen3.5-plus-02-15
@@ -2132,6 +2131,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/qwen/qwen3.5-plus-02-15
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/qwen/qwen3.5-plus-02-15
 https://openrouter.ai/compare/amazon/nova-premier-v1/qwen/qwen3.5-plus-02-15
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/qwen/qwen3.5-plus-02-15
+https://openrouter.ai/compare/google/gemini-embedding-001/qwen/qwen3.5-plus-02-15
 https://openrouter.ai/compare/minimax/minimax-m2.5/qwen/qwen3.5-397b-a17b
 https://openrouter.ai/compare/qwen/qwen3.5-397b-a17b/z-ai/glm-5
 https://openrouter.ai/compare/qwen/qwen3-max-thinking/qwen/qwen3.5-397b-a17b
@@ -2161,7 +2161,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/qwen/qwen3.5-397b-a17b
 https://openrouter.ai/compare/qwen/qwen3.5-397b-a17b/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/qwen/qwen3.5-397b-a17b
 https://openrouter.ai/compare/mistralai/mistral-small-creative/qwen/qwen3.5-397b-a17b
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/qwen/qwen3.5-397b-a17b
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/qwen/qwen3.5-397b-a17b
 https://openrouter.ai/compare/qwen/qwen3.5-397b-a17b/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/qwen/qwen3.5-397b-a17b
@@ -2217,6 +2216,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/qwen/qwen3.5-397b-a17b
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/qwen/qwen3.5-397b-a17b
 https://openrouter.ai/compare/amazon/nova-premier-v1/qwen/qwen3.5-397b-a17b
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/qwen/qwen3.5-397b-a17b
+https://openrouter.ai/compare/google/gemini-embedding-001/qwen/qwen3.5-397b-a17b
 https://openrouter.ai/compare/minimax/minimax-m2.5/z-ai/glm-5
 https://openrouter.ai/compare/minimax/minimax-m2.5/qwen/qwen3-max-thinking
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/minimax/minimax-m2.5
@@ -2245,7 +2245,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/minimax/minimax-m2.5
 https://openrouter.ai/compare/minimax/minimax-m2.5/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/minimax/minimax-m2.5
 https://openrouter.ai/compare/minimax/minimax-m2.5/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/minimax/minimax-m2.5
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/minimax/minimax-m2.5
 https://openrouter.ai/compare/minimax/minimax-m2.5/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/minimax/minimax-m2.5/nvidia/nemotron-3-nano-30b-a3b
@@ -2301,6 +2300,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/minimax/minimax-m2.5
 https://openrouter.ai/compare/minimax/minimax-m2.5/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/minimax/minimax-m2.5
 https://openrouter.ai/compare/minimax/minimax-m2.5/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-embedding-001/minimax/minimax-m2.5
 https://openrouter.ai/compare/qwen/qwen3-max-thinking/z-ai/glm-5
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/z-ai/glm-5
 https://openrouter.ai/compare/qwen/qwen3-coder-next/z-ai/glm-5
@@ -2328,7 +2328,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/z-ai/glm-5
 https://openrouter.ai/compare/z-ai/glm-4.7/z-ai/glm-5
 https://openrouter.ai/compare/google/gemini-3-flash-preview/z-ai/glm-5
 https://openrouter.ai/compare/mistralai/mistral-small-creative/z-ai/glm-5
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/z-ai/glm-5
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/z-ai/glm-5
 https://openrouter.ai/compare/xiaomi/mimo-v2-flash/z-ai/glm-5
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/z-ai/glm-5
@@ -2384,6 +2383,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/z-ai/glm-5
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/z-ai/glm-5
 https://openrouter.ai/compare/amazon/nova-premier-v1/z-ai/glm-5
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/z-ai/glm-5
+https://openrouter.ai/compare/google/gemini-embedding-001/z-ai/glm-5
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/qwen/qwen3-max-thinking
 https://openrouter.ai/compare/qwen/qwen3-coder-next/qwen/qwen3-max-thinking
 https://openrouter.ai/compare/qwen/qwen3-max-thinking/sourceful/riverflow-v2-pro
@@ -2410,7 +2410,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/qwen/qwen3-max-thinking
 https://openrouter.ai/compare/qwen/qwen3-max-thinking/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/qwen/qwen3-max-thinking
 https://openrouter.ai/compare/mistralai/mistral-small-creative/qwen/qwen3-max-thinking
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/qwen/qwen3-max-thinking
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/qwen/qwen3-max-thinking
 https://openrouter.ai/compare/qwen/qwen3-max-thinking/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/qwen/qwen3-max-thinking
@@ -2466,6 +2465,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/qwen/qwen3-max-thinking
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/qwen/qwen3-max-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/qwen/qwen3-max-thinking
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/qwen/qwen3-max-thinking
+https://openrouter.ai/compare/google/gemini-embedding-001/qwen/qwen3-max-thinking
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/qwen/qwen3-coder-next
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/sourceful/riverflow-v2-pro
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/sourceful/riverflow-v2-fast
@@ -2491,7 +2491,6 @@ https://openrouter.ai/compare/anthropic/claude-opus-4.6/minimax/minimax-m2.1
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/z-ai/glm-4.7
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/google/gemini-3-flash-preview
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/anthropic/claude-opus-4.6
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/black-forest-labs/flux.2-max
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/nvidia/nemotron-3-nano-30b-a3b
@@ -2547,6 +2546,7 @@ https://openrouter.ai/compare/anthropic/claude-opus-4.6/kwaipilot/kat-coder-pro
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/anthropic/claude-opus-4.6
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/anthropic/claude-opus-4.6/google/gemini-embedding-001
 https://openrouter.ai/compare/qwen/qwen3-coder-next/sourceful/riverflow-v2-pro
 https://openrouter.ai/compare/qwen/qwen3-coder-next/sourceful/riverflow-v2-fast
 https://openrouter.ai/compare/qwen/qwen3-coder-next/stepfun/step-3.5-flash
@@ -2571,7 +2571,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/qwen/qwen3-coder-next
 https://openrouter.ai/compare/qwen/qwen3-coder-next/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/qwen/qwen3-coder-next
 https://openrouter.ai/compare/mistralai/mistral-small-creative/qwen/qwen3-coder-next
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/qwen/qwen3-coder-next
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/qwen/qwen3-coder-next
 https://openrouter.ai/compare/qwen/qwen3-coder-next/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/qwen/qwen3-coder-next
@@ -2627,6 +2626,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/qwen/qwen3-coder-next
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/qwen/qwen3-coder-next
 https://openrouter.ai/compare/amazon/nova-premier-v1/qwen/qwen3-coder-next
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/qwen/qwen3-coder-next
+https://openrouter.ai/compare/google/gemini-embedding-001/qwen/qwen3-coder-next
 https://openrouter.ai/compare/sourceful/riverflow-v2-fast/sourceful/riverflow-v2-pro
 https://openrouter.ai/compare/sourceful/riverflow-v2-pro/stepfun/step-3.5-flash
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/sourceful/riverflow-v2-pro
@@ -2650,7 +2650,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/sourceful/riverflow-v2-pro
 https://openrouter.ai/compare/sourceful/riverflow-v2-pro/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/sourceful/riverflow-v2-pro
 https://openrouter.ai/compare/mistralai/mistral-small-creative/sourceful/riverflow-v2-pro
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/sourceful/riverflow-v2-pro
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/sourceful/riverflow-v2-pro
 https://openrouter.ai/compare/sourceful/riverflow-v2-pro/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/sourceful/riverflow-v2-pro
@@ -2706,6 +2705,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/sourceful/riverflow-v2-pro
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/sourceful/riverflow-v2-pro
 https://openrouter.ai/compare/amazon/nova-premier-v1/sourceful/riverflow-v2-pro
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/sourceful/riverflow-v2-pro
+https://openrouter.ai/compare/google/gemini-embedding-001/sourceful/riverflow-v2-pro
 https://openrouter.ai/compare/sourceful/riverflow-v2-fast/stepfun/step-3.5-flash
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/sourceful/riverflow-v2-fast
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/sourceful/riverflow-v2-fast
@@ -2728,7 +2728,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/sourceful/riverflow-v2-fast
 https://openrouter.ai/compare/sourceful/riverflow-v2-fast/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/sourceful/riverflow-v2-fast
 https://openrouter.ai/compare/mistralai/mistral-small-creative/sourceful/riverflow-v2-fast
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/sourceful/riverflow-v2-fast
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/sourceful/riverflow-v2-fast
 https://openrouter.ai/compare/sourceful/riverflow-v2-fast/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/sourceful/riverflow-v2-fast
@@ -2784,6 +2783,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/sourceful/riverflow-v2-fas
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/sourceful/riverflow-v2-fast
 https://openrouter.ai/compare/amazon/nova-premier-v1/sourceful/riverflow-v2-fast
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/sourceful/riverflow-v2-fast
+https://openrouter.ai/compare/google/gemini-embedding-001/sourceful/riverflow-v2-fast
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/stepfun/step-3.5-flash
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/stepfun/step-3.5-flash
 https://openrouter.ai/compare/stepfun/step-3.5-flash/upstage/solar-pro-3
@@ -2805,7 +2805,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/stepfun/step-3.5-flash
 https://openrouter.ai/compare/stepfun/step-3.5-flash/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/stepfun/step-3.5-flash
 https://openrouter.ai/compare/mistralai/mistral-small-creative/stepfun/step-3.5-flash
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/stepfun/step-3.5-flash
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/stepfun/step-3.5-flash
 https://openrouter.ai/compare/stepfun/step-3.5-flash/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/stepfun/step-3.5-flash
@@ -2861,6 +2860,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/stepfun/step-3.5-flash
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/stepfun/step-3.5-flash
 https://openrouter.ai/compare/amazon/nova-premier-v1/stepfun/step-3.5-flash
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/stepfun/step-3.5-flash
+https://openrouter.ai/compare/google/gemini-embedding-001/stepfun/step-3.5-flash
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/moonshotai/kimi-k2.5
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/upstage/solar-pro-3
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/minimax/minimax-m2-her
@@ -2881,7 +2881,6 @@ https://openrouter.ai/compare/arcee-ai/trinity-large-preview/minimax/minimax-m2.
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/z-ai/glm-4.7
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/google/gemini-3-flash-preview
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/arcee-ai/trinity-large-preview
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/black-forest-labs/flux.2-max
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/nvidia/nemotron-3-nano-30b-a3b
@@ -2937,6 +2936,7 @@ https://openrouter.ai/compare/arcee-ai/trinity-large-preview/kwaipilot/kat-coder
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/arcee-ai/trinity-large-preview
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/arcee-ai/trinity-large-preview/google/gemini-embedding-001
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/upstage/solar-pro-3
 https://openrouter.ai/compare/minimax/minimax-m2-her/moonshotai/kimi-k2.5
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/writer/palmyra-x5
@@ -2956,7 +2956,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/moonshotai/kimi-k2.5
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/moonshotai/kimi-k2.5
 https://openrouter.ai/compare/mistralai/mistral-small-creative/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/moonshotai/kimi-k2.5
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/moonshotai/kimi-k2.5
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/nvidia/nemotron-3-nano-30b-a3b
@@ -3012,6 +3011,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/moonshotai/kimi-k2.5
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/moonshotai/kimi-k2.5
 https://openrouter.ai/compare/amazon/nova-premier-v1/moonshotai/kimi-k2.5
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/moonshotai/kimi-k2.5
+https://openrouter.ai/compare/google/gemini-embedding-001/moonshotai/kimi-k2.5
 https://openrouter.ai/compare/minimax/minimax-m2-her/upstage/solar-pro-3
 https://openrouter.ai/compare/upstage/solar-pro-3/writer/palmyra-x5
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/upstage/solar-pro-3
@@ -3030,7 +3030,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/upstage/solar-pro-3
 https://openrouter.ai/compare/upstage/solar-pro-3/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/upstage/solar-pro-3
 https://openrouter.ai/compare/mistralai/mistral-small-creative/upstage/solar-pro-3
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/upstage/solar-pro-3
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/upstage/solar-pro-3
 https://openrouter.ai/compare/upstage/solar-pro-3/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/upstage/solar-pro-3
@@ -3086,6 +3085,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/upstage/solar-pro-3
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/upstage/solar-pro-3
 https://openrouter.ai/compare/amazon/nova-premier-v1/upstage/solar-pro-3
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/upstage/solar-pro-3
+https://openrouter.ai/compare/google/gemini-embedding-001/upstage/solar-pro-3
 https://openrouter.ai/compare/minimax/minimax-m2-her/writer/palmyra-x5
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/minimax/minimax-m2-her
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/minimax/minimax-m2-her
@@ -3103,7 +3103,6 @@ https://openrouter.ai/compare/minimax/minimax-m2-her/minimax/minimax-m2.1
 https://openrouter.ai/compare/minimax/minimax-m2-her/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/minimax/minimax-m2-her
 https://openrouter.ai/compare/minimax/minimax-m2-her/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/minimax/minimax-m2-her
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/minimax/minimax-m2-her
 https://openrouter.ai/compare/minimax/minimax-m2-her/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/minimax/minimax-m2-her/nvidia/nemotron-3-nano-30b-a3b
@@ -3159,6 +3158,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/minimax/minimax-m2-her
 https://openrouter.ai/compare/minimax/minimax-m2-her/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/minimax/minimax-m2-her
 https://openrouter.ai/compare/minimax/minimax-m2-her/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-embedding-001/minimax/minimax-m2-her
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/writer/palmyra-x5
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/writer/palmyra-x5
 https://openrouter.ai/compare/openai/gpt-audio/writer/palmyra-x5
@@ -3175,7 +3175,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/writer/palmyra-x5
 https://openrouter.ai/compare/writer/palmyra-x5/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/writer/palmyra-x5
 https://openrouter.ai/compare/mistralai/mistral-small-creative/writer/palmyra-x5
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/writer/palmyra-x5
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/writer/palmyra-x5
 https://openrouter.ai/compare/writer/palmyra-x5/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/writer/palmyra-x5
@@ -3231,6 +3230,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/writer/palmyra-x5
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/writer/palmyra-x5
 https://openrouter.ai/compare/amazon/nova-premier-v1/writer/palmyra-x5
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/writer/palmyra-x5
+https://openrouter.ai/compare/google/gemini-embedding-001/writer/palmyra-x5
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/liquid/lfm-2.5-1.2b-thinking
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/openai/gpt-audio
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/openai/gpt-audio-mini
@@ -3246,7 +3246,6 @@ https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/minimax/minimax-m2.1
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/liquid/lfm-2.5-1.2b-thinking
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/liquid/lfm-2.5-1.2b-thinking
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/liquid/lfm-2.5-1.2b-thinking
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/nvidia/nemotron-3-nano-30b-a3b
@@ -3302,6 +3301,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/liquid/lfm-2.5-1.2b-thinki
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/liquid/lfm-2.5-1.2b-thinking
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-embedding-001/liquid/lfm-2.5-1.2b-thinking
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/openai/gpt-audio
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/openai/gpt-audio-mini
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/z-ai/glm-4.7-flash
@@ -3316,7 +3316,6 @@ https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/minimax/minimax-m2.1
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/liquid/lfm-2.5-1.2b-instruct
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/liquid/lfm-2.5-1.2b-instruct
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/liquid/lfm-2.5-1.2b-instruct
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/nvidia/nemotron-3-nano-30b-a3b
@@ -3372,6 +3371,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/liquid/lfm-2.5-1.2b-instru
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/liquid/lfm-2.5-1.2b-instruct
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-embedding-001/liquid/lfm-2.5-1.2b-instruct
 https://openrouter.ai/compare/openai/gpt-audio/openai/gpt-audio-mini
 https://openrouter.ai/compare/openai/gpt-audio/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/openai/gpt-audio
@@ -3385,7 +3385,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/openai/gpt-audio
 https://openrouter.ai/compare/openai/gpt-audio/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/openai/gpt-audio
 https://openrouter.ai/compare/mistralai/mistral-small-creative/openai/gpt-audio
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/openai/gpt-audio
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/openai/gpt-audio
 https://openrouter.ai/compare/openai/gpt-audio/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/openai/gpt-audio
@@ -3441,6 +3440,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/openai/gpt-audio
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/openai/gpt-audio
 https://openrouter.ai/compare/amazon/nova-premier-v1/openai/gpt-audio
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/openai/gpt-audio
+https://openrouter.ai/compare/google/gemini-embedding-001/openai/gpt-audio
 https://openrouter.ai/compare/openai/gpt-audio-mini/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/openai/gpt-audio-mini
 https://openrouter.ai/compare/openai/gpt-5.2-codex/openai/gpt-audio-mini
@@ -3453,7 +3453,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/openai/gpt-audio-mini
 https://openrouter.ai/compare/openai/gpt-audio-mini/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/openai/gpt-audio-mini
 https://openrouter.ai/compare/mistralai/mistral-small-creative/openai/gpt-audio-mini
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/openai/gpt-audio-mini
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/openai/gpt-audio-mini
 https://openrouter.ai/compare/openai/gpt-audio-mini/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/openai/gpt-audio-mini
@@ -3509,6 +3508,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/openai/gpt-audio-mini
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/openai/gpt-audio-mini
 https://openrouter.ai/compare/amazon/nova-premier-v1/openai/gpt-audio-mini
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/openai/gpt-audio-mini
+https://openrouter.ai/compare/google/gemini-embedding-001/openai/gpt-audio-mini
 https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/openai/gpt-5.2-codex/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/allenai/molmo-2-8b/z-ai/glm-4.7-flash
@@ -3520,7 +3520,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/z-ai/glm-4.7/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/google/gemini-3-flash-preview/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/mistralai/mistral-small-creative/z-ai/glm-4.7-flash
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/xiaomi/mimo-v2-flash/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/z-ai/glm-4.7-flash
@@ -3576,6 +3575,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/amazon/nova-premier-v1/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/z-ai/glm-4.7-flash
+https://openrouter.ai/compare/google/gemini-embedding-001/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/openai/gpt-5.2-codex
 https://openrouter.ai/compare/allenai/molmo-2-8b/black-forest-labs/flux.2-klein-4b
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/black-forest-labs/flux.2-klein-4b
@@ -3586,7 +3586,6 @@ https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/minimax/minimax-
 https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/z-ai/glm-4.7
 https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/google/gemini-3-flash-preview
 https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/black-forest-labs/flux.2-klein-4b
 https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/black-forest-labs/flux.2-max
 https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/nvidia/nemotron-3-nano-30b-a3b
@@ -3642,6 +3641,7 @@ https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/kwaipilot/kat-co
 https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/black-forest-labs/flux.2-klein-4b
 https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/google/gemini-embedding-001
 https://openrouter.ai/compare/allenai/molmo-2-8b/openai/gpt-5.2-codex
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/openai/gpt-5.2-codex
 https://openrouter.ai/compare/bytedance-seed/seedream-4.5/openai/gpt-5.2-codex
@@ -3651,7 +3651,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/openai/gpt-5.2-codex
 https://openrouter.ai/compare/openai/gpt-5.2-codex/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/openai/gpt-5.2-codex
 https://openrouter.ai/compare/mistralai/mistral-small-creative/openai/gpt-5.2-codex
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/openai/gpt-5.2-codex
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/openai/gpt-5.2-codex
 https://openrouter.ai/compare/openai/gpt-5.2-codex/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/openai/gpt-5.2-codex
@@ -3707,6 +3706,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/openai/gpt-5.2-codex
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/openai/gpt-5.2-codex
 https://openrouter.ai/compare/amazon/nova-premier-v1/openai/gpt-5.2-codex
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/openai/gpt-5.2-codex
+https://openrouter.ai/compare/google/gemini-embedding-001/openai/gpt-5.2-codex
 https://openrouter.ai/compare/allenai/molmo-2-8b/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/allenai/molmo-2-8b/bytedance-seed/seedream-4.5
 https://openrouter.ai/compare/allenai/molmo-2-8b/bytedance-seed/seed-1.6-flash
@@ -3715,7 +3715,6 @@ https://openrouter.ai/compare/allenai/molmo-2-8b/minimax/minimax-m2.1
 https://openrouter.ai/compare/allenai/molmo-2-8b/z-ai/glm-4.7
 https://openrouter.ai/compare/allenai/molmo-2-8b/google/gemini-3-flash-preview
 https://openrouter.ai/compare/allenai/molmo-2-8b/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/molmo-2-8b/allenai/olmo-3.1-32b-think
 https://openrouter.ai/compare/allenai/molmo-2-8b/black-forest-labs/flux.2-max
 https://openrouter.ai/compare/allenai/molmo-2-8b/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/allenai/molmo-2-8b/nvidia/nemotron-3-nano-30b-a3b
@@ -3771,6 +3770,7 @@ https://openrouter.ai/compare/allenai/molmo-2-8b/kwaipilot/kat-coder-pro
 https://openrouter.ai/compare/allenai/molmo-2-8b/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/allenai/molmo-2-8b/amazon/nova-premier-v1
 https://openrouter.ai/compare/allenai/molmo-2-8b/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/allenai/molmo-2-8b/google/gemini-embedding-001
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/bytedance-seed/seedream-4.5
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/bytedance-seed/seed-1.6-flash
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/bytedance-seed/seed-1.6
@@ -3778,7 +3778,6 @@ https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/minimax/minimax-m2.1
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/z-ai/glm-4.7
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/google/gemini-3-flash-preview
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/allenai/olmo-3.1-32b-think
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/black-forest-labs/flux.2-max
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/nvidia/nemotron-3-nano-30b-a3b
@@ -3834,13 +3833,13 @@ https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/kwaipilot/kat-coder-
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/amazon/nova-premier-v1
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/google/gemini-embedding-001
 https://openrouter.ai/compare/bytedance-seed/seed-1.6-flash/bytedance-seed/seedream-4.5
 https://openrouter.ai/compare/bytedance-seed/seed-1.6/bytedance-seed/seedream-4.5
 https://openrouter.ai/compare/bytedance-seed/seedream-4.5/minimax/minimax-m2.1
 https://openrouter.ai/compare/bytedance-seed/seedream-4.5/z-ai/glm-4.7
 https://openrouter.ai/compare/bytedance-seed/seedream-4.5/google/gemini-3-flash-preview
 https://openrouter.ai/compare/bytedance-seed/seedream-4.5/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/bytedance-seed/seedream-4.5
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/bytedance-seed/seedream-4.5
 https://openrouter.ai/compare/bytedance-seed/seedream-4.5/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/bytedance-seed/seedream-4.5/nvidia/nemotron-3-nano-30b-a3b
@@ -3896,12 +3895,12 @@ https://openrouter.ai/compare/bytedance-seed/seedream-4.5/kwaipilot/kat-coder-pr
 https://openrouter.ai/compare/bytedance-seed/seedream-4.5/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/bytedance-seed/seedream-4.5
 https://openrouter.ai/compare/bytedance-seed/seedream-4.5/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/bytedance-seed/seedream-4.5/google/gemini-embedding-001
 https://openrouter.ai/compare/bytedance-seed/seed-1.6/bytedance-seed/seed-1.6-flash
 https://openrouter.ai/compare/bytedance-seed/seed-1.6-flash/minimax/minimax-m2.1
 https://openrouter.ai/compare/bytedance-seed/seed-1.6-flash/z-ai/glm-4.7
 https://openrouter.ai/compare/bytedance-seed/seed-1.6-flash/google/gemini-3-flash-preview
 https://openrouter.ai/compare/bytedance-seed/seed-1.6-flash/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/bytedance-seed/seed-1.6-flash
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/bytedance-seed/seed-1.6-flash
 https://openrouter.ai/compare/bytedance-seed/seed-1.6-flash/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/bytedance-seed/seed-1.6-flash/nvidia/nemotron-3-nano-30b-a3b
@@ -3957,11 +3956,11 @@ https://openrouter.ai/compare/bytedance-seed/seed-1.6-flash/kwaipilot/kat-coder-
 https://openrouter.ai/compare/bytedance-seed/seed-1.6-flash/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/bytedance-seed/seed-1.6-flash
 https://openrouter.ai/compare/bytedance-seed/seed-1.6-flash/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/bytedance-seed/seed-1.6-flash/google/gemini-embedding-001
 https://openrouter.ai/compare/bytedance-seed/seed-1.6/minimax/minimax-m2.1
 https://openrouter.ai/compare/bytedance-seed/seed-1.6/z-ai/glm-4.7
 https://openrouter.ai/compare/bytedance-seed/seed-1.6/google/gemini-3-flash-preview
 https://openrouter.ai/compare/bytedance-seed/seed-1.6/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/bytedance-seed/seed-1.6
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/bytedance-seed/seed-1.6
 https://openrouter.ai/compare/bytedance-seed/seed-1.6/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/bytedance-seed/seed-1.6/nvidia/nemotron-3-nano-30b-a3b
@@ -4017,10 +4016,10 @@ https://openrouter.ai/compare/bytedance-seed/seed-1.6/kwaipilot/kat-coder-pro
 https://openrouter.ai/compare/bytedance-seed/seed-1.6/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/bytedance-seed/seed-1.6
 https://openrouter.ai/compare/bytedance-seed/seed-1.6/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/bytedance-seed/seed-1.6/google/gemini-embedding-001
 https://openrouter.ai/compare/minimax/minimax-m2.1/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/minimax/minimax-m2.1
 https://openrouter.ai/compare/minimax/minimax-m2.1/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/minimax/minimax-m2.1
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/minimax/minimax-m2.1
 https://openrouter.ai/compare/minimax/minimax-m2.1/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/minimax/minimax-m2.1/nvidia/nemotron-3-nano-30b-a3b
@@ -4076,9 +4075,9 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/minimax/minimax-m2.1
 https://openrouter.ai/compare/minimax/minimax-m2.1/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/minimax/minimax-m2.1
 https://openrouter.ai/compare/minimax/minimax-m2.1/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-embedding-001/minimax/minimax-m2.1
 https://openrouter.ai/compare/google/gemini-3-flash-preview/z-ai/glm-4.7
 https://openrouter.ai/compare/mistralai/mistral-small-creative/z-ai/glm-4.7
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/z-ai/glm-4.7
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/z-ai/glm-4.7
 https://openrouter.ai/compare/xiaomi/mimo-v2-flash/z-ai/glm-4.7
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/z-ai/glm-4.7
@@ -4134,8 +4133,8 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/z-ai/glm-4.7
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/z-ai/glm-4.7
 https://openrouter.ai/compare/amazon/nova-premier-v1/z-ai/glm-4.7
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/z-ai/glm-4.7
+https://openrouter.ai/compare/google/gemini-embedding-001/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/google/gemini-3-flash-preview
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/google/gemini-3-flash-preview
 https://openrouter.ai/compare/google/gemini-3-flash-preview/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/google/gemini-3-flash-preview/nvidia/nemotron-3-nano-30b-a3b
@@ -4191,7 +4190,7 @@ https://openrouter.ai/compare/google/gemini-3-flash-preview/kwaipilot/kat-coder-
 https://openrouter.ai/compare/google/gemini-3-flash-preview/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/google/gemini-3-flash-preview
 https://openrouter.ai/compare/google/gemini-3-flash-preview/mistralai/mistral-embed-2312
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/mistralai/mistral-small-creative
+https://openrouter.ai/compare/google/gemini-3-flash-preview/google/gemini-embedding-001
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/mistralai/mistral-small-creative
 https://openrouter.ai/compare/mistralai/mistral-small-creative/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/mistralai/mistral-small-creative/nvidia/nemotron-3-nano-30b-a3b
@@ -4247,61 +4246,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/mistralai/mistral-small-cr
 https://openrouter.ai/compare/mistralai/mistral-small-creative/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/mistralai/mistral-small-creative
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/black-forest-labs/flux.2-max
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/xiaomi/mimo-v2-flash
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/nvidia/nemotron-3-nano-30b-a3b
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/openai/gpt-5.2-chat
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/openai/gpt-5.2-pro
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/openai/gpt-5.2
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/mistralai/devstral-2512
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/sourceful/riverflow-v2-max-preview
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/sourceful/riverflow-v2-standard-preview
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/sourceful/riverflow-v2-fast-preview
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/relace/relace-search
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/z-ai/glm-4.6v
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/nex-agi/deepseek-v3.1-nex-n1
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/essentialai/rnj-1-instruct
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/openai/gpt-5.1-codex-max
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/amazon/nova-2-lite-v1
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/mistralai/ministral-14b-2512
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/mistralai/ministral-8b-2512
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/mistralai/ministral-3b-2512
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/mistralai/mistral-large-2512
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/arcee-ai/trinity-mini
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/deepseek/deepseek-v3.2-speciale
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/deepseek/deepseek-v3.2
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/prime-intellect/intellect-3
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/black-forest-labs/flux.2-flex
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/black-forest-labs/flux.2-pro
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/anthropic/claude-opus-4.5
-https://openrouter.ai/compare/allenai/olmo-3-32b-think/allenai/olmo-3.1-32b-think
-https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/allenai/olmo-3.1-32b-think
-https://openrouter.ai/compare/allenai/olmo-3-7b-think/allenai/olmo-3.1-32b-think
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/google/gemini-3-pro-image-preview
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/x-ai/grok-4.1-fast
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/google/gemini-3-pro-preview
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/thenlper/gte-base
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/thenlper/gte-large
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/intfloat/e5-large-v2
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/intfloat/e5-base-v2
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/intfloat/multilingual-e5-large
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/sentence-transformers/paraphrase-minilm-l6-v2
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/sentence-transformers/all-minilm-l12-v2
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/baai/bge-base-en-v1.5
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/baai/bge-large-en-v1.5
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/baai/bge-m3
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/sentence-transformers/all-mpnet-base-v2
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/sentence-transformers/all-minilm-l6-v2
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/deepcogito/cogito-v2.1-671b
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/openai/gpt-5.1
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/openai/gpt-5.1-chat
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/openai/gpt-5.1-codex
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/openai/gpt-5.1-codex-mini
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/kwaipilot/kat-coder-pro
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/moonshotai/kimi-k2-thinking
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/amazon/nova-premier-v1
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-embedding-001/mistralai/mistral-small-creative
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/nvidia/nemotron-3-nano-30b-a3b
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/openai/gpt-5.2-chat
@@ -4356,6 +4301,7 @@ https://openrouter.ai/compare/black-forest-labs/flux.2-max/kwaipilot/kat-coder-p
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/black-forest-labs/flux.2-max
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/black-forest-labs/flux.2-max/google/gemini-embedding-001
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/openai/gpt-5.2-chat/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/openai/gpt-5.2-pro/xiaomi/mimo-v2-flash
@@ -4409,6 +4355,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/amazon/nova-premier-v1/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/xiaomi/mimo-v2-flash
+https://openrouter.ai/compare/google/gemini-embedding-001/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/openai/gpt-5.2-chat
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/openai/gpt-5.2-pro
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/openai/gpt-5.2
@@ -4461,6 +4408,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/nvidia/nemotron-3-nano-30b
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/nvidia/nemotron-3-nano-30b-a3b
 https://openrouter.ai/compare/amazon/nova-premier-v1/nvidia/nemotron-3-nano-30b-a3b
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/nvidia/nemotron-3-nano-30b-a3b
+https://openrouter.ai/compare/google/gemini-embedding-001/nvidia/nemotron-3-nano-30b-a3b
 https://openrouter.ai/compare/openai/gpt-5.2-chat/openai/gpt-5.2-pro
 https://openrouter.ai/compare/openai/gpt-5.2/openai/gpt-5.2-chat
 https://openrouter.ai/compare/mistralai/devstral-2512/openai/gpt-5.2-chat
@@ -4512,6 +4460,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/openai/gpt-5.2-chat
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/openai/gpt-5.2-chat
 https://openrouter.ai/compare/amazon/nova-premier-v1/openai/gpt-5.2-chat
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/openai/gpt-5.2-chat
+https://openrouter.ai/compare/google/gemini-embedding-001/openai/gpt-5.2-chat
 https://openrouter.ai/compare/openai/gpt-5.2/openai/gpt-5.2-pro
 https://openrouter.ai/compare/mistralai/devstral-2512/openai/gpt-5.2-pro
 https://openrouter.ai/compare/openai/gpt-5.2-pro/sourceful/riverflow-v2-max-preview
@@ -4562,6 +4511,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/openai/gpt-5.2-pro
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/openai/gpt-5.2-pro
 https://openrouter.ai/compare/amazon/nova-premier-v1/openai/gpt-5.2-pro
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/openai/gpt-5.2-pro
+https://openrouter.ai/compare/google/gemini-embedding-001/openai/gpt-5.2-pro
 https://openrouter.ai/compare/mistralai/devstral-2512/openai/gpt-5.2
 https://openrouter.ai/compare/openai/gpt-5.2/sourceful/riverflow-v2-max-preview
 https://openrouter.ai/compare/openai/gpt-5.2/sourceful/riverflow-v2-standard-preview
@@ -4611,6 +4561,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/openai/gpt-5.2
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/openai/gpt-5.2
 https://openrouter.ai/compare/amazon/nova-premier-v1/openai/gpt-5.2
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/openai/gpt-5.2
+https://openrouter.ai/compare/google/gemini-embedding-001/openai/gpt-5.2
 https://openrouter.ai/compare/mistralai/devstral-2512/sourceful/riverflow-v2-max-preview
 https://openrouter.ai/compare/mistralai/devstral-2512/sourceful/riverflow-v2-standard-preview
 https://openrouter.ai/compare/mistralai/devstral-2512/sourceful/riverflow-v2-fast-preview
@@ -4659,6 +4610,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/mistralai/devstral-2512
 https://openrouter.ai/compare/mistralai/devstral-2512/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/mistralai/devstral-2512
 https://openrouter.ai/compare/mistralai/devstral-2512/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-embedding-001/mistralai/devstral-2512
 https://openrouter.ai/compare/sourceful/riverflow-v2-max-preview/sourceful/riverflow-v2-standard-preview
 https://openrouter.ai/compare/sourceful/riverflow-v2-fast-preview/sourceful/riverflow-v2-max-preview
 https://openrouter.ai/compare/relace/relace-search/sourceful/riverflow-v2-max-preview
@@ -4706,6 +4658,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/sourceful/riverflow-v2-max
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/sourceful/riverflow-v2-max-preview
 https://openrouter.ai/compare/amazon/nova-premier-v1/sourceful/riverflow-v2-max-preview
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/sourceful/riverflow-v2-max-preview
+https://openrouter.ai/compare/google/gemini-embedding-001/sourceful/riverflow-v2-max-preview
 https://openrouter.ai/compare/sourceful/riverflow-v2-fast-preview/sourceful/riverflow-v2-standard-preview
 https://openrouter.ai/compare/relace/relace-search/sourceful/riverflow-v2-standard-preview
 https://openrouter.ai/compare/sourceful/riverflow-v2-standard-preview/z-ai/glm-4.6v
@@ -4752,6 +4705,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/sourceful/riverflow-v2-sta
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/sourceful/riverflow-v2-standard-preview
 https://openrouter.ai/compare/amazon/nova-premier-v1/sourceful/riverflow-v2-standard-preview
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/sourceful/riverflow-v2-standard-preview
+https://openrouter.ai/compare/google/gemini-embedding-001/sourceful/riverflow-v2-standard-preview
 https://openrouter.ai/compare/relace/relace-search/sourceful/riverflow-v2-fast-preview
 https://openrouter.ai/compare/sourceful/riverflow-v2-fast-preview/z-ai/glm-4.6v
 https://openrouter.ai/compare/nex-agi/deepseek-v3.1-nex-n1/sourceful/riverflow-v2-fast-preview
@@ -4797,6 +4751,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/sourceful/riverflow-v2-fas
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/sourceful/riverflow-v2-fast-preview
 https://openrouter.ai/compare/amazon/nova-premier-v1/sourceful/riverflow-v2-fast-preview
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/sourceful/riverflow-v2-fast-preview
+https://openrouter.ai/compare/google/gemini-embedding-001/sourceful/riverflow-v2-fast-preview
 https://openrouter.ai/compare/relace/relace-search/z-ai/glm-4.6v
 https://openrouter.ai/compare/nex-agi/deepseek-v3.1-nex-n1/relace/relace-search
 https://openrouter.ai/compare/essentialai/rnj-1-instruct/relace/relace-search
@@ -4841,6 +4796,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/relace/relace-search
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/relace/relace-search
 https://openrouter.ai/compare/amazon/nova-premier-v1/relace/relace-search
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/relace/relace-search
+https://openrouter.ai/compare/google/gemini-embedding-001/relace/relace-search
 https://openrouter.ai/compare/nex-agi/deepseek-v3.1-nex-n1/z-ai/glm-4.6v
 https://openrouter.ai/compare/essentialai/rnj-1-instruct/z-ai/glm-4.6v
 https://openrouter.ai/compare/openai/gpt-5.1-codex-max/z-ai/glm-4.6v
@@ -4884,6 +4840,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/z-ai/glm-4.6v
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/z-ai/glm-4.6v
 https://openrouter.ai/compare/amazon/nova-premier-v1/z-ai/glm-4.6v
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/z-ai/glm-4.6v
+https://openrouter.ai/compare/google/gemini-embedding-001/z-ai/glm-4.6v
 https://openrouter.ai/compare/essentialai/rnj-1-instruct/nex-agi/deepseek-v3.1-nex-n1
 https://openrouter.ai/compare/nex-agi/deepseek-v3.1-nex-n1/openai/gpt-5.1-codex-max
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/nex-agi/deepseek-v3.1-nex-n1
@@ -4926,6 +4883,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/nex-agi/deepseek-v3.1-nex-
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/nex-agi/deepseek-v3.1-nex-n1
 https://openrouter.ai/compare/amazon/nova-premier-v1/nex-agi/deepseek-v3.1-nex-n1
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/nex-agi/deepseek-v3.1-nex-n1
+https://openrouter.ai/compare/google/gemini-embedding-001/nex-agi/deepseek-v3.1-nex-n1
 https://openrouter.ai/compare/essentialai/rnj-1-instruct/openai/gpt-5.1-codex-max
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/essentialai/rnj-1-instruct
 https://openrouter.ai/compare/essentialai/rnj-1-instruct/mistralai/ministral-14b-2512
@@ -4967,6 +4925,7 @@ https://openrouter.ai/compare/essentialai/rnj-1-instruct/kwaipilot/kat-coder-pro
 https://openrouter.ai/compare/essentialai/rnj-1-instruct/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/essentialai/rnj-1-instruct
 https://openrouter.ai/compare/essentialai/rnj-1-instruct/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/essentialai/rnj-1-instruct/google/gemini-embedding-001
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/openai/gpt-5.1-codex-max
 https://openrouter.ai/compare/mistralai/ministral-14b-2512/openai/gpt-5.1-codex-max
 https://openrouter.ai/compare/mistralai/ministral-8b-2512/openai/gpt-5.1-codex-max
@@ -5007,6 +4966,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/openai/gpt-5.1-codex-max
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/openai/gpt-5.1-codex-max
 https://openrouter.ai/compare/amazon/nova-premier-v1/openai/gpt-5.1-codex-max
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/openai/gpt-5.1-codex-max
+https://openrouter.ai/compare/google/gemini-embedding-001/openai/gpt-5.1-codex-max
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/mistralai/ministral-14b-2512
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/mistralai/ministral-8b-2512
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/mistralai/ministral-3b-2512
@@ -5046,6 +5006,7 @@ https://openrouter.ai/compare/amazon/nova-2-lite-v1/kwaipilot/kat-coder-pro
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/amazon/nova-premier-v1
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/amazon/nova-2-lite-v1/google/gemini-embedding-001
 https://openrouter.ai/compare/mistralai/ministral-14b-2512/mistralai/ministral-8b-2512
 https://openrouter.ai/compare/mistralai/ministral-14b-2512/mistralai/ministral-3b-2512
 https://openrouter.ai/compare/mistralai/ministral-14b-2512/mistralai/mistral-large-2512
@@ -5084,6 +5045,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/mistralai/ministral-14b-25
 https://openrouter.ai/compare/mistralai/ministral-14b-2512/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/mistralai/ministral-14b-2512
 https://openrouter.ai/compare/mistralai/ministral-14b-2512/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-embedding-001/mistralai/ministral-14b-2512
 https://openrouter.ai/compare/mistralai/ministral-3b-2512/mistralai/ministral-8b-2512
 https://openrouter.ai/compare/mistralai/ministral-8b-2512/mistralai/mistral-large-2512
 https://openrouter.ai/compare/arcee-ai/trinity-mini/mistralai/ministral-8b-2512
@@ -5121,6 +5083,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/mistralai/ministral-8b-251
 https://openrouter.ai/compare/mistralai/ministral-8b-2512/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/mistralai/ministral-8b-2512
 https://openrouter.ai/compare/mistralai/ministral-8b-2512/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-embedding-001/mistralai/ministral-8b-2512
 https://openrouter.ai/compare/mistralai/ministral-3b-2512/mistralai/mistral-large-2512
 https://openrouter.ai/compare/arcee-ai/trinity-mini/mistralai/ministral-3b-2512
 https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/mistralai/ministral-3b-2512
@@ -5157,6 +5120,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/mistralai/ministral-3b-251
 https://openrouter.ai/compare/mistralai/ministral-3b-2512/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/mistralai/ministral-3b-2512
 https://openrouter.ai/compare/mistralai/ministral-3b-2512/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-embedding-001/mistralai/ministral-3b-2512
 https://openrouter.ai/compare/arcee-ai/trinity-mini/mistralai/mistral-large-2512
 https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/mistralai/mistral-large-2512
 https://openrouter.ai/compare/deepseek/deepseek-v3.2/mistralai/mistral-large-2512
@@ -5192,6 +5156,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/mistralai/mistral-large-25
 https://openrouter.ai/compare/mistralai/mistral-large-2512/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/mistralai/mistral-large-2512
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/mistralai/mistral-large-2512
+https://openrouter.ai/compare/google/gemini-embedding-001/mistralai/mistral-large-2512
 https://openrouter.ai/compare/arcee-ai/trinity-mini/deepseek/deepseek-v3.2-speciale
 https://openrouter.ai/compare/arcee-ai/trinity-mini/deepseek/deepseek-v3.2
 https://openrouter.ai/compare/arcee-ai/trinity-mini/prime-intellect/intellect-3
@@ -5226,6 +5191,7 @@ https://openrouter.ai/compare/arcee-ai/trinity-mini/kwaipilot/kat-coder-pro
 https://openrouter.ai/compare/arcee-ai/trinity-mini/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/arcee-ai/trinity-mini
 https://openrouter.ai/compare/arcee-ai/trinity-mini/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/arcee-ai/trinity-mini/google/gemini-embedding-001
 https://openrouter.ai/compare/deepseek/deepseek-v3.2/deepseek/deepseek-v3.2-speciale
 https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/prime-intellect/intellect-3
 https://openrouter.ai/compare/black-forest-labs/flux.2-flex/deepseek/deepseek-v3.2-speciale
@@ -5259,6 +5225,7 @@ https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/kwaipilot/kat-code
 https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/deepseek/deepseek-v3.2-speciale
 https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/google/gemini-embedding-001
 https://openrouter.ai/compare/deepseek/deepseek-v3.2/prime-intellect/intellect-3
 https://openrouter.ai/compare/black-forest-labs/flux.2-flex/deepseek/deepseek-v3.2
 https://openrouter.ai/compare/black-forest-labs/flux.2-pro/deepseek/deepseek-v3.2
@@ -5291,6 +5258,7 @@ https://openrouter.ai/compare/deepseek/deepseek-v3.2/kwaipilot/kat-coder-pro
 https://openrouter.ai/compare/deepseek/deepseek-v3.2/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/deepseek/deepseek-v3.2
 https://openrouter.ai/compare/deepseek/deepseek-v3.2/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/deepseek/deepseek-v3.2/google/gemini-embedding-001
 https://openrouter.ai/compare/black-forest-labs/flux.2-flex/prime-intellect/intellect-3
 https://openrouter.ai/compare/black-forest-labs/flux.2-pro/prime-intellect/intellect-3
 https://openrouter.ai/compare/anthropic/claude-opus-4.5/prime-intellect/intellect-3
@@ -5322,6 +5290,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/prime-intellect/intellect-
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/prime-intellect/intellect-3
 https://openrouter.ai/compare/amazon/nova-premier-v1/prime-intellect/intellect-3
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/prime-intellect/intellect-3
+https://openrouter.ai/compare/google/gemini-embedding-001/prime-intellect/intellect-3
 https://openrouter.ai/compare/black-forest-labs/flux.2-flex/black-forest-labs/flux.2-pro
 https://openrouter.ai/compare/anthropic/claude-opus-4.5/black-forest-labs/flux.2-flex
 https://openrouter.ai/compare/allenai/olmo-3-32b-think/black-forest-labs/flux.2-flex
@@ -5352,6 +5321,7 @@ https://openrouter.ai/compare/black-forest-labs/flux.2-flex/kwaipilot/kat-coder-
 https://openrouter.ai/compare/black-forest-labs/flux.2-flex/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/black-forest-labs/flux.2-flex
 https://openrouter.ai/compare/black-forest-labs/flux.2-flex/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/black-forest-labs/flux.2-flex/google/gemini-embedding-001
 https://openrouter.ai/compare/anthropic/claude-opus-4.5/black-forest-labs/flux.2-pro
 https://openrouter.ai/compare/allenai/olmo-3-32b-think/black-forest-labs/flux.2-pro
 https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/black-forest-labs/flux.2-pro
@@ -5381,6 +5351,7 @@ https://openrouter.ai/compare/black-forest-labs/flux.2-pro/kwaipilot/kat-coder-p
 https://openrouter.ai/compare/black-forest-labs/flux.2-pro/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/black-forest-labs/flux.2-pro
 https://openrouter.ai/compare/black-forest-labs/flux.2-pro/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/black-forest-labs/flux.2-pro/google/gemini-embedding-001
 https://openrouter.ai/compare/allenai/olmo-3-32b-think/anthropic/claude-opus-4.5
 https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/anthropic/claude-opus-4.5
 https://openrouter.ai/compare/allenai/olmo-3-7b-think/anthropic/claude-opus-4.5
@@ -5409,6 +5380,7 @@ https://openrouter.ai/compare/anthropic/claude-opus-4.5/kwaipilot/kat-coder-pro
 https://openrouter.ai/compare/anthropic/claude-opus-4.5/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/anthropic/claude-opus-4.5
 https://openrouter.ai/compare/anthropic/claude-opus-4.5/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/anthropic/claude-opus-4.5/google/gemini-embedding-001
 https://openrouter.ai/compare/allenai/olmo-3-32b-think/allenai/olmo-3-7b-instruct
 https://openrouter.ai/compare/allenai/olmo-3-32b-think/allenai/olmo-3-7b-think
 https://openrouter.ai/compare/allenai/olmo-3-32b-think/google/gemini-3-pro-image-preview
@@ -5436,6 +5408,7 @@ https://openrouter.ai/compare/allenai/olmo-3-32b-think/kwaipilot/kat-coder-pro
 https://openrouter.ai/compare/allenai/olmo-3-32b-think/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/allenai/olmo-3-32b-think/amazon/nova-premier-v1
 https://openrouter.ai/compare/allenai/olmo-3-32b-think/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/allenai/olmo-3-32b-think/google/gemini-embedding-001
 https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/allenai/olmo-3-7b-think
 https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/google/gemini-3-pro-image-preview
 https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/x-ai/grok-4.1-fast
@@ -5462,6 +5435,7 @@ https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/kwaipilot/kat-coder-pro
 https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/amazon/nova-premier-v1
 https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/google/gemini-embedding-001
 https://openrouter.ai/compare/allenai/olmo-3-7b-think/google/gemini-3-pro-image-preview
 https://openrouter.ai/compare/allenai/olmo-3-7b-think/x-ai/grok-4.1-fast
 https://openrouter.ai/compare/allenai/olmo-3-7b-think/google/gemini-3-pro-preview
@@ -5487,6 +5461,7 @@ https://openrouter.ai/compare/allenai/olmo-3-7b-think/kwaipilot/kat-coder-pro
 https://openrouter.ai/compare/allenai/olmo-3-7b-think/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/allenai/olmo-3-7b-think/amazon/nova-premier-v1
 https://openrouter.ai/compare/allenai/olmo-3-7b-think/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/allenai/olmo-3-7b-think/google/gemini-embedding-001
 https://openrouter.ai/compare/google/gemini-3-pro-image-preview/x-ai/grok-4.1-fast
 https://openrouter.ai/compare/google/gemini-3-pro-image-preview/google/gemini-3-pro-preview
 https://openrouter.ai/compare/google/gemini-3-pro-image-preview/thenlper/gte-base
@@ -5511,6 +5486,7 @@ https://openrouter.ai/compare/google/gemini-3-pro-image-preview/kwaipilot/kat-co
 https://openrouter.ai/compare/google/gemini-3-pro-image-preview/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/google/gemini-3-pro-image-preview
 https://openrouter.ai/compare/google/gemini-3-pro-image-preview/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-3-pro-image-preview/google/gemini-embedding-001
 https://openrouter.ai/compare/google/gemini-3-pro-preview/x-ai/grok-4.1-fast
 https://openrouter.ai/compare/thenlper/gte-base/x-ai/grok-4.1-fast
 https://openrouter.ai/compare/thenlper/gte-large/x-ai/grok-4.1-fast
@@ -5534,6 +5510,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/x-ai/grok-4.1-fast
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/x-ai/grok-4.1-fast
 https://openrouter.ai/compare/amazon/nova-premier-v1/x-ai/grok-4.1-fast
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/x-ai/grok-4.1-fast
+https://openrouter.ai/compare/google/gemini-embedding-001/x-ai/grok-4.1-fast
 https://openrouter.ai/compare/google/gemini-3-pro-preview/thenlper/gte-base
 https://openrouter.ai/compare/google/gemini-3-pro-preview/thenlper/gte-large
 https://openrouter.ai/compare/google/gemini-3-pro-preview/intfloat/e5-large-v2
@@ -5556,6 +5533,7 @@ https://openrouter.ai/compare/google/gemini-3-pro-preview/kwaipilot/kat-coder-pr
 https://openrouter.ai/compare/google/gemini-3-pro-preview/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/google/gemini-3-pro-preview
 https://openrouter.ai/compare/google/gemini-3-pro-preview/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-3-pro-preview/google/gemini-embedding-001
 https://openrouter.ai/compare/thenlper/gte-base/thenlper/gte-large
 https://openrouter.ai/compare/intfloat/e5-large-v2/thenlper/gte-base
 https://openrouter.ai/compare/intfloat/e5-base-v2/thenlper/gte-base
@@ -5577,6 +5555,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/thenlper/gte-base
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/thenlper/gte-base
 https://openrouter.ai/compare/amazon/nova-premier-v1/thenlper/gte-base
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/thenlper/gte-base
+https://openrouter.ai/compare/google/gemini-embedding-001/thenlper/gte-base
 https://openrouter.ai/compare/intfloat/e5-large-v2/thenlper/gte-large
 https://openrouter.ai/compare/intfloat/e5-base-v2/thenlper/gte-large
 https://openrouter.ai/compare/intfloat/multilingual-e5-large/thenlper/gte-large
@@ -5597,6 +5576,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/thenlper/gte-large
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/thenlper/gte-large
 https://openrouter.ai/compare/amazon/nova-premier-v1/thenlper/gte-large
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/thenlper/gte-large
+https://openrouter.ai/compare/google/gemini-embedding-001/thenlper/gte-large
 https://openrouter.ai/compare/intfloat/e5-base-v2/intfloat/e5-large-v2
 https://openrouter.ai/compare/intfloat/e5-large-v2/intfloat/multilingual-e5-large
 https://openrouter.ai/compare/intfloat/e5-large-v2/sentence-transformers/paraphrase-minilm-l6-v2
@@ -5616,6 +5596,7 @@ https://openrouter.ai/compare/intfloat/e5-large-v2/kwaipilot/kat-coder-pro
 https://openrouter.ai/compare/intfloat/e5-large-v2/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/intfloat/e5-large-v2
 https://openrouter.ai/compare/intfloat/e5-large-v2/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-embedding-001/intfloat/e5-large-v2
 https://openrouter.ai/compare/intfloat/e5-base-v2/intfloat/multilingual-e5-large
 https://openrouter.ai/compare/intfloat/e5-base-v2/sentence-transformers/paraphrase-minilm-l6-v2
 https://openrouter.ai/compare/intfloat/e5-base-v2/sentence-transformers/all-minilm-l12-v2
@@ -5634,6 +5615,7 @@ https://openrouter.ai/compare/intfloat/e5-base-v2/kwaipilot/kat-coder-pro
 https://openrouter.ai/compare/intfloat/e5-base-v2/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/intfloat/e5-base-v2
 https://openrouter.ai/compare/intfloat/e5-base-v2/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-embedding-001/intfloat/e5-base-v2
 https://openrouter.ai/compare/intfloat/multilingual-e5-large/sentence-transformers/paraphrase-minilm-l6-v2
 https://openrouter.ai/compare/intfloat/multilingual-e5-large/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/intfloat/multilingual-e5-large
@@ -5651,6 +5633,7 @@ https://openrouter.ai/compare/intfloat/multilingual-e5-large/kwaipilot/kat-coder
 https://openrouter.ai/compare/intfloat/multilingual-e5-large/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/intfloat/multilingual-e5-large
 https://openrouter.ai/compare/intfloat/multilingual-e5-large/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-embedding-001/intfloat/multilingual-e5-large
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/sentence-transformers/paraphrase-minilm-l6-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/sentence-transformers/paraphrase-minilm-l6-v2
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/sentence-transformers/paraphrase-minilm-l6-v2
@@ -5667,6 +5650,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/sentence-transformers/para
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/sentence-transformers/paraphrase-minilm-l6-v2
 https://openrouter.ai/compare/amazon/nova-premier-v1/sentence-transformers/paraphrase-minilm-l6-v2
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/sentence-transformers/paraphrase-minilm-l6-v2
+https://openrouter.ai/compare/google/gemini-embedding-001/sentence-transformers/paraphrase-minilm-l6-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/sentence-transformers/multi-qa-mpnet-base-dot-v1
 https://openrouter.ai/compare/baai/bge-large-en-v1.5/sentence-transformers/all-minilm-l12-v2
@@ -5682,6 +5666,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/sentence-transformers/all-
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/amazon/nova-premier-v1/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/sentence-transformers/all-minilm-l12-v2
+https://openrouter.ai/compare/google/gemini-embedding-001/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/sentence-transformers/multi-qa-mpnet-base-dot-v1
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/baai/bge-large-en-v1.5
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/baai/bge-m3
@@ -5696,6 +5681,7 @@ https://openrouter.ai/compare/baai/bge-base-en-v1.5/kwaipilot/kat-coder-pro
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/baai/bge-base-en-v1.5
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/baai/bge-base-en-v1.5/google/gemini-embedding-001
 https://openrouter.ai/compare/baai/bge-large-en-v1.5/sentence-transformers/multi-qa-mpnet-base-dot-v1
 https://openrouter.ai/compare/baai/bge-m3/sentence-transformers/multi-qa-mpnet-base-dot-v1
 https://openrouter.ai/compare/sentence-transformers/all-mpnet-base-v2/sentence-transformers/multi-qa-mpnet-base-dot-v1
@@ -5709,6 +5695,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/sentence-transformers/mult
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/sentence-transformers/multi-qa-mpnet-base-dot-v1
 https://openrouter.ai/compare/amazon/nova-premier-v1/sentence-transformers/multi-qa-mpnet-base-dot-v1
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/sentence-transformers/multi-qa-mpnet-base-dot-v1
+https://openrouter.ai/compare/google/gemini-embedding-001/sentence-transformers/multi-qa-mpnet-base-dot-v1
 https://openrouter.ai/compare/baai/bge-large-en-v1.5/baai/bge-m3
 https://openrouter.ai/compare/baai/bge-large-en-v1.5/sentence-transformers/all-mpnet-base-v2
 https://openrouter.ai/compare/baai/bge-large-en-v1.5/sentence-transformers/all-minilm-l6-v2
@@ -5721,6 +5708,7 @@ https://openrouter.ai/compare/baai/bge-large-en-v1.5/kwaipilot/kat-coder-pro
 https://openrouter.ai/compare/baai/bge-large-en-v1.5/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/baai/bge-large-en-v1.5
 https://openrouter.ai/compare/baai/bge-large-en-v1.5/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/baai/bge-large-en-v1.5/google/gemini-embedding-001
 https://openrouter.ai/compare/baai/bge-m3/sentence-transformers/all-mpnet-base-v2
 https://openrouter.ai/compare/baai/bge-m3/sentence-transformers/all-minilm-l6-v2
 https://openrouter.ai/compare/baai/bge-m3/deepcogito/cogito-v2.1-671b
@@ -5732,6 +5720,7 @@ https://openrouter.ai/compare/baai/bge-m3/kwaipilot/kat-coder-pro
 https://openrouter.ai/compare/baai/bge-m3/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/baai/bge-m3
 https://openrouter.ai/compare/baai/bge-m3/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/baai/bge-m3/google/gemini-embedding-001
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l6-v2/sentence-transformers/all-mpnet-base-v2
 https://openrouter.ai/compare/deepcogito/cogito-v2.1-671b/sentence-transformers/all-mpnet-base-v2
 https://openrouter.ai/compare/openai/gpt-5.1/sentence-transformers/all-mpnet-base-v2
@@ -5742,6 +5731,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/sentence-transformers/all-
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/sentence-transformers/all-mpnet-base-v2
 https://openrouter.ai/compare/amazon/nova-premier-v1/sentence-transformers/all-mpnet-base-v2
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/sentence-transformers/all-mpnet-base-v2
+https://openrouter.ai/compare/google/gemini-embedding-001/sentence-transformers/all-mpnet-base-v2
 https://openrouter.ai/compare/deepcogito/cogito-v2.1-671b/sentence-transformers/all-minilm-l6-v2
 https://openrouter.ai/compare/openai/gpt-5.1/sentence-transformers/all-minilm-l6-v2
 https://openrouter.ai/compare/openai/gpt-5.1-chat/sentence-transformers/all-minilm-l6-v2
@@ -5751,6 +5741,7 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/sentence-transformers/all-
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/sentence-transformers/all-minilm-l6-v2
 https://openrouter.ai/compare/amazon/nova-premier-v1/sentence-transformers/all-minilm-l6-v2
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/sentence-transformers/all-minilm-l6-v2
+https://openrouter.ai/compare/google/gemini-embedding-001/sentence-transformers/all-minilm-l6-v2
 https://openrouter.ai/compare/deepcogito/cogito-v2.1-671b/openai/gpt-5.1
 https://openrouter.ai/compare/deepcogito/cogito-v2.1-671b/openai/gpt-5.1-chat
 https://openrouter.ai/compare/deepcogito/cogito-v2.1-671b/openai/gpt-5.1-codex
@@ -5759,6 +5750,7 @@ https://openrouter.ai/compare/deepcogito/cogito-v2.1-671b/kwaipilot/kat-coder-pr
 https://openrouter.ai/compare/deepcogito/cogito-v2.1-671b/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/deepcogito/cogito-v2.1-671b
 https://openrouter.ai/compare/deepcogito/cogito-v2.1-671b/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/deepcogito/cogito-v2.1-671b/google/gemini-embedding-001
 https://openrouter.ai/compare/openai/gpt-5.1/openai/gpt-5.1-chat
 https://openrouter.ai/compare/openai/gpt-5.1/openai/gpt-5.1-codex
 https://openrouter.ai/compare/openai/gpt-5.1/openai/gpt-5.1-codex-mini
@@ -5766,27 +5758,35 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro/openai/gpt-5.1
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/openai/gpt-5.1
 https://openrouter.ai/compare/amazon/nova-premier-v1/openai/gpt-5.1
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/openai/gpt-5.1
+https://openrouter.ai/compare/google/gemini-embedding-001/openai/gpt-5.1
 https://openrouter.ai/compare/openai/gpt-5.1-chat/openai/gpt-5.1-codex
 https://openrouter.ai/compare/openai/gpt-5.1-chat/openai/gpt-5.1-codex-mini
 https://openrouter.ai/compare/kwaipilot/kat-coder-pro/openai/gpt-5.1-chat
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/openai/gpt-5.1-chat
 https://openrouter.ai/compare/amazon/nova-premier-v1/openai/gpt-5.1-chat
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/openai/gpt-5.1-chat
+https://openrouter.ai/compare/google/gemini-embedding-001/openai/gpt-5.1-chat
 https://openrouter.ai/compare/openai/gpt-5.1-codex/openai/gpt-5.1-codex-mini
 https://openrouter.ai/compare/kwaipilot/kat-coder-pro/openai/gpt-5.1-codex
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/openai/gpt-5.1-codex
 https://openrouter.ai/compare/amazon/nova-premier-v1/openai/gpt-5.1-codex
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/openai/gpt-5.1-codex
+https://openrouter.ai/compare/google/gemini-embedding-001/openai/gpt-5.1-codex
 https://openrouter.ai/compare/kwaipilot/kat-coder-pro/openai/gpt-5.1-codex-mini
 https://openrouter.ai/compare/moonshotai/kimi-k2-thinking/openai/gpt-5.1-codex-mini
 https://openrouter.ai/compare/amazon/nova-premier-v1/openai/gpt-5.1-codex-mini
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/openai/gpt-5.1-codex-mini
+https://openrouter.ai/compare/google/gemini-embedding-001/openai/gpt-5.1-codex-mini
 https://openrouter.ai/compare/kwaipilot/kat-coder-pro/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/kwaipilot/kat-coder-pro
 https://openrouter.ai/compare/kwaipilot/kat-coder-pro/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/google/gemini-embedding-001/kwaipilot/kat-coder-pro
 https://openrouter.ai/compare/amazon/nova-premier-v1/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/mistralai/mistral-embed-2312/moonshotai/kimi-k2-thinking
+https://openrouter.ai/compare/google/gemini-embedding-001/moonshotai/kimi-k2-thinking
 https://openrouter.ai/compare/amazon/nova-premier-v1/mistralai/mistral-embed-2312
+https://openrouter.ai/compare/amazon/nova-premier-v1/google/gemini-embedding-001
+https://openrouter.ai/compare/google/gemini-embedding-001/mistralai/mistral-embed-2312
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview
 https://openrouter.ai/compare/qwen/qwen3.5-35b-a3b

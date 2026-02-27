@@ -10,6 +10,7 @@ https://fal.ai/flux-kontext/chat
 https://fal.ai/flux-kontext
 https://fal.ai/flux-tools
 https://fal.ai/grants
+https://fal.ai/grok-imagine
 https://fal.ai/ideogram
 https://fal.ai/image-utils
 https://fal.ai/kling-3
@@ -17,6 +18,7 @@ https://fal.ai/kling-v2-1
 https://fal.ai/legal
 https://fal.ai/lucy-2
 https://fal.ai/nano-banana-2
+https://fal.ai/nano-banana-pro
 https://fal.ai
 https://fal.ai/pricing
 https://fal.ai/qwen-image-2.0
@@ -155,6 +157,16 @@ https://fal.ai/models/fal-ai/cosmos-predict-2.5/image-to-video
 https://fal.ai/models/fal-ai/cosmos-predict-2.5/image-to-video/api
 https://fal.ai/models/fal-ai/cosmos-predict-2.5/text-to-video
 https://fal.ai/models/fal-ai/cosmos-predict-2.5/text-to-video/api
+https://fal.ai/models/fal-ai/heygen/v2/translate/speed
+https://fal.ai/models/fal-ai/heygen/v2/translate/speed/api
+https://fal.ai/models/fal-ai/heygen/v2/translate/precision
+https://fal.ai/models/fal-ai/heygen/v2/translate/precision/api
+https://fal.ai/models/fal-ai/heygen/avatar4/image-to-video
+https://fal.ai/models/fal-ai/heygen/avatar4/image-to-video/api
+https://fal.ai/models/fal-ai/heygen/avatar4/digital-twin
+https://fal.ai/models/fal-ai/heygen/avatar4/digital-twin/api
+https://fal.ai/models/fal-ai/heygen/avatar3/digital-twin
+https://fal.ai/models/fal-ai/heygen/avatar3/digital-twin/api
 https://fal.ai/models/fal-ai/wan-22-trainer/t2v-a14b
 https://fal.ai/models/fal-ai/wan-22-trainer/t2v-a14b/api
 https://fal.ai/models/fal-ai/wan-22-trainer/i2v-a14b
@@ -185,6 +197,8 @@ https://fal.ai/models/fal-ai/recraft/v4/text-to-vector
 https://fal.ai/models/fal-ai/recraft/v4/text-to-vector/api
 https://fal.ai/models/fal-ai/workflow-utilities/scale-video
 https://fal.ai/models/fal-ai/workflow-utilities/scale-video/api
+https://fal.ai/models/fal-ai/heygen/v2/video-agent
+https://fal.ai/models/fal-ai/heygen/v2/video-agent/api
 https://fal.ai/models/fal-ai/genfocus/all-in-focus
 https://fal.ai/models/fal-ai/genfocus/all-in-focus/api
 https://fal.ai/models/fal-ai/genfocus
