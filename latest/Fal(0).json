@@ -235,8 +235,6 @@ https://fal.ai/models/fal-ai/workflow-utilities/blend-video
 https://fal.ai/models/fal-ai/workflow-utilities/blend-video/api
 https://fal.ai/models/fal-ai/workflow-utilities/audio-compressor
 https://fal.ai/models/fal-ai/workflow-utilities/audio-compressor/api
-https://fal.ai/models/fal-ai/kling-video/v3/pro/text-to-video
-https://fal.ai/models/fal-ai/kling-video/v3/pro/text-to-video/api
 https://fal.ai/models/fal-ai/kling-video/o3/pro/image-to-video
 https://fal.ai/models/fal-ai/kling-video/o3/pro/image-to-video/api
 https://fal.ai/models/fal-ai/kling-video/o3/pro/reference-to-video
@@ -265,6 +263,8 @@ https://fal.ai/models/fal-ai/kling-video/v3/pro/image-to-video/api
 https://fal.ai/models/fal-ai/kling-video/v3/pro/image-to-video/examples
 https://fal.ai/models/fal-ai/kling-video/o3/pro/video-to-video/reference
 https://fal.ai/models/fal-ai/kling-video/o3/pro/video-to-video/reference/api
+https://fal.ai/models/fal-ai/kling-video/v3/pro/text-to-video
+https://fal.ai/models/fal-ai/kling-video/v3/pro/text-to-video/api
 https://fal.ai/models/fal-ai/minimax/speech-2.8-hd
 https://fal.ai/models/fal-ai/minimax/speech-2.8-hd/api
 https://fal.ai/models/fal-ai/minimax/speech-2.8-turbo
