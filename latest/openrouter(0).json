@@ -29,12 +29,12 @@ https://openrouter.ai/apps?url=https%3A%2F%2Fdescript.com%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fvidmuse.ai%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Ftl.rulate.ru%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fnovelcrafter.com%2F
-https://openrouter.ai/apps?url=https%3A%2F%2Ffish.audio%2F
+https://openrouter.ai/apps?url=https%3A%2F%2Fwww.coffeecatai.com%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fopenclaw.ai%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fgobii.ai%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fopenwebui.com%2F
+https://openrouter.ai/apps?url=https%3A%2F%2Fboldin.com%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fbuddypro.ai%2F
-https://openrouter.ai/apps?url=https%3A%2F%2Fgalaxy.ai%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fjanitorai.com%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fwww.isekai.world%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fsillytavern.app%2F
@@ -185,7 +185,6 @@ https://openrouter.ai/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/nvidia/llama-nemotron-embed-vl-1b-v2:free
 https://openrouter.ai/minimax/minimax-m2.1
 https://openrouter.ai/qwen/qwen3.5-flash-02-23
-https://openrouter.ai/qwen/qwen3-coder-next
 https://openrouter.ai/qwen/qwen3-coder:exacto
 https://openrouter.ai/kwaipilot/kat-coder-pro
 https://openrouter.ai/z-ai/glm-5
@@ -207,6 +206,7 @@ https://openrouter.ai/openai/gpt-5-mini
 https://openrouter.ai/anthropic/claude-opus-4.1
 https://openrouter.ai/nvidia/nemotron-3-nano-30b-a3b
 https://openrouter.ai/deepseek/deepseek-chat-v3.1
+https://openrouter.ai/qwen/qwen3-coder-next
 https://openrouter.ai/openai/gpt-3.5-turbo-instruct
 https://openrouter.ai/openai/o3-mini-high
 https://openrouter.ai/qwen/qwen3-vl-235b-a22b-instruct
@@ -593,6 +593,7 @@ https://openrouter.ai/ google
 https://openrouter.ai/seed
 https://openrouter.ai/phala
 https://openrouter.ai/oogle
+https://openrouter.ai/provider/akash
 https://openrouter.ai/provider/ai21
 https://openrouter.ai/provider/aion-labs
 https://openrouter.ai/provider/alibaba
@@ -764,11 +765,12 @@ https://openrouter.ai/docs/guides/best-practices/reasoning-tokens
 https://openrouter.ai/docs/guides/guides/administration/activity-export
 https://openrouter.ai/docs/guides/guides/administration/api-key-rotation
 https://openrouter.ai/docs/guides/guides/administration/crypto-api
-https://openrouter.ai/docs/use-cases/organization-management
+https://openrouter.ai/docs/organization-management
 https://openrouter.ai/docs/guides/guides/administration/usage-accounting
 https://openrouter.ai/docs/guides/guides/administration/user-tracking
 https://openrouter.ai/docs/guides/guides/coding-agents/claude-code-integration
 https://openrouter.ai/docs/guides/guides/coding-agents/codex-cli
+https://openrouter.ai/docs/guides/guides/coding-agents/junie
 https://openrouter.ai/docs/guides/guides/coding-agents/mcp-servers
 https://openrouter.ai/docs/guides/guides/coding-agents/openclaw-integration
 https://openrouter.ai/docs/guides/guides/evaluate-and-optimize/distillation
