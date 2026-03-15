@@ -22,8 +22,8 @@ https://openrouter.ai/apps/category/entertainment/roleplay
 https://openrouter.ai/apps/category/entertainment/game
 https://openrouter.ai/apps?url=https%3A%2F%2Fkilocode.ai%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fblackbox.ai%2F
-https://openrouter.ai/apps?url=https%3A%2F%2Fcline.bot%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fclaude.ai%2F
+https://openrouter.ai/apps?url=https%3A%2F%2Fcline.bot%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fgithub.com%2FRooVetGit%2FRoo-Cline
 https://openrouter.ai/apps?url=https%3A%2F%2Fdescript.com%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fvidmuse.ai%2F
@@ -431,7 +431,6 @@ https://openrouter.ai/qwen/qwen3-vl-8b-thinking
 https://openrouter.ai/openai/o3-deep-research
 https://openrouter.ai/openai/o4-mini-deep-research
 https://openrouter.ai/mistralai/mistral-medium-3.1
-https://openrouter.ai/openrouter/hunter-alpha
 https://openrouter.ai/openai/gpt-5-image
 https://openrouter.ai/openai/gpt-5-image-mini
 https://openrouter.ai/openai/gpt-5-pro
@@ -448,6 +447,7 @@ https://openrouter.ai/google/gemini-3-pro-preview
 https://openrouter.ai/morph/morph-v3-large
 https://openrouter.ai/qwen/qwen3.5-27b
 https://openrouter.ai/morph/morph-v3-fast
+https://openrouter.ai/minimax/minimax-m2.5:free
 https://openrouter.ai/google/gemini-3.1-pro-preview-customtools
 https://openrouter.ai/meituan/longcat-flash-chat
 https://openrouter.ai/bytedance-seed/seed-2.0-mini
@@ -457,10 +457,12 @@ https://openrouter.ai/liquid/lfm-2-24b-a2b
 https://openrouter.ai/google/gemini-2.5-flash-lite-preview-09-2025
 https://openrouter.ai/google/gemini-3.1-flash-lite-preview
 https://openrouter.ai/x-ai/grok-4.20-beta
+https://openrouter.ai/z-ai/glm-5-turbo
 https://openrouter.ai/qwen/qwen3.5-9b
 https://openrouter.ai/bytedance-seed/seed-2.0-lite
 https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b:free
 https://openrouter.ai/openrouter/healer-alpha
+https://openrouter.ai/openrouter/hunter-alpha
 https://openrouter.ai/xwin-lm
 https://openrouter.ai/upstage
 https://openrouter.ai/anthracite-org
@@ -884,6 +886,105 @@ https://openrouter.ai/docs/sdks/python/api-reference/models/models
 https://openrouter.ai/docs/sdks/python/api-reference/oauth
 https://openrouter.ai/docs/sdks/python/api-reference/providers
 https://openrouter.ai/docs/sdks/python/api-reference/responses
+https://openrouter.ai/compare/x-ai/grok-4.20-multi-agent-beta/z-ai/glm-5-turbo
+https://openrouter.ai/compare/x-ai/grok-4.20-beta/z-ai/glm-5-turbo
+https://openrouter.ai/compare/openrouter/hunter-alpha/z-ai/glm-5-turbo
+https://openrouter.ai/compare/openrouter/healer-alpha/z-ai/glm-5-turbo
+https://openrouter.ai/compare/nvidia/nemotron-3-super-120b-a12b/z-ai/glm-5-turbo
+https://openrouter.ai/compare/bytedance-seed/seed-2.0-lite/z-ai/glm-5-turbo
+https://openrouter.ai/compare/qwen/qwen3.5-9b/z-ai/glm-5-turbo
+https://openrouter.ai/compare/openai/gpt-5.4-pro/z-ai/glm-5-turbo
+https://openrouter.ai/compare/openai/gpt-5.4/z-ai/glm-5-turbo
+https://openrouter.ai/compare/inception/mercury-2/z-ai/glm-5-turbo
+https://openrouter.ai/compare/openai/gpt-5.3-chat/z-ai/glm-5-turbo
+https://openrouter.ai/compare/google/gemini-3.1-flash-lite-preview/z-ai/glm-5-turbo
+https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/z-ai/glm-5-turbo
+https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/z-ai/glm-5-turbo
+https://openrouter.ai/compare/qwen/qwen3.5-35b-a3b/z-ai/glm-5-turbo
+https://openrouter.ai/compare/qwen/qwen3.5-27b/z-ai/glm-5-turbo
+https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/z-ai/glm-5-turbo
+https://openrouter.ai/compare/qwen/qwen3.5-flash-02-23/z-ai/glm-5-turbo
+https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/z-ai/glm-5-turbo
+https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/z-ai/glm-5-turbo
+https://openrouter.ai/compare/nvidia/llama-nemotron-embed-vl-1b-v2/z-ai/glm-5-turbo
+https://openrouter.ai/compare/openai/gpt-5.3-codex/z-ai/glm-5-turbo
+https://openrouter.ai/compare/aion-labs/aion-2.0/z-ai/glm-5-turbo
+https://openrouter.ai/compare/google/gemini-3.1-pro-preview/z-ai/glm-5-turbo
+https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/z-ai/glm-5-turbo
+https://openrouter.ai/compare/qwen/qwen3.5-plus-02-15/z-ai/glm-5-turbo
+https://openrouter.ai/compare/qwen/qwen3.5-397b-a17b/z-ai/glm-5-turbo
+https://openrouter.ai/compare/minimax/minimax-m2.5/z-ai/glm-5-turbo
+https://openrouter.ai/compare/z-ai/glm-5/z-ai/glm-5-turbo
+https://openrouter.ai/compare/qwen/qwen3-max-thinking/z-ai/glm-5-turbo
+https://openrouter.ai/compare/anthropic/claude-opus-4.6/z-ai/glm-5-turbo
+https://openrouter.ai/compare/qwen/qwen3-coder-next/z-ai/glm-5-turbo
+https://openrouter.ai/compare/sourceful/riverflow-v2-pro/z-ai/glm-5-turbo
+https://openrouter.ai/compare/sourceful/riverflow-v2-fast/z-ai/glm-5-turbo
+https://openrouter.ai/compare/stepfun/step-3.5-flash/z-ai/glm-5-turbo
+https://openrouter.ai/compare/arcee-ai/trinity-large-preview/z-ai/glm-5-turbo
+https://openrouter.ai/compare/moonshotai/kimi-k2.5/z-ai/glm-5-turbo
+https://openrouter.ai/compare/upstage/solar-pro-3/z-ai/glm-5-turbo
+https://openrouter.ai/compare/minimax/minimax-m2-her/z-ai/glm-5-turbo
+https://openrouter.ai/compare/writer/palmyra-x5/z-ai/glm-5-turbo
+https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/z-ai/glm-5-turbo
+https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/z-ai/glm-5-turbo
+https://openrouter.ai/compare/openai/gpt-audio/z-ai/glm-5-turbo
+https://openrouter.ai/compare/openai/gpt-audio-mini/z-ai/glm-5-turbo
+https://openrouter.ai/compare/z-ai/glm-4.7-flash/z-ai/glm-5-turbo
+https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/z-ai/glm-5-turbo
+https://openrouter.ai/compare/openai/gpt-5.2-codex/z-ai/glm-5-turbo
+https://openrouter.ai/compare/allenai/molmo-2-8b/z-ai/glm-5-turbo
+https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/z-ai/glm-5-turbo
+https://openrouter.ai/compare/bytedance-seed/seedream-4.5/z-ai/glm-5-turbo
+https://openrouter.ai/compare/bytedance-seed/seed-1.6-flash/z-ai/glm-5-turbo
+https://openrouter.ai/compare/bytedance-seed/seed-1.6/z-ai/glm-5-turbo
+https://openrouter.ai/compare/minimax/minimax-m2.1/z-ai/glm-5-turbo
+https://openrouter.ai/compare/z-ai/glm-4.7/z-ai/glm-5-turbo
+https://openrouter.ai/compare/google/gemini-3-flash-preview/z-ai/glm-5-turbo
+https://openrouter.ai/compare/mistralai/mistral-small-creative/z-ai/glm-5-turbo
+https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/z-ai/glm-5-turbo
+https://openrouter.ai/compare/black-forest-labs/flux.2-max/z-ai/glm-5-turbo
+https://openrouter.ai/compare/xiaomi/mimo-v2-flash/z-ai/glm-5-turbo
+https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/z-ai/glm-5-turbo
+https://openrouter.ai/compare/openai/gpt-5.2-chat/z-ai/glm-5-turbo
+https://openrouter.ai/compare/openai/gpt-5.2-pro/z-ai/glm-5-turbo
+https://openrouter.ai/compare/openai/gpt-5.2/z-ai/glm-5-turbo
+https://openrouter.ai/compare/mistralai/devstral-2512/z-ai/glm-5-turbo
+https://openrouter.ai/compare/sourceful/riverflow-v2-max-preview/z-ai/glm-5-turbo
+https://openrouter.ai/compare/sourceful/riverflow-v2-standard-preview/z-ai/glm-5-turbo
+https://openrouter.ai/compare/sourceful/riverflow-v2-fast-preview/z-ai/glm-5-turbo
+https://openrouter.ai/compare/relace/relace-search/z-ai/glm-5-turbo
+https://openrouter.ai/compare/z-ai/glm-4.6v/z-ai/glm-5-turbo
+https://openrouter.ai/compare/nex-agi/deepseek-v3.1-nex-n1/z-ai/glm-5-turbo
+https://openrouter.ai/compare/essentialai/rnj-1-instruct/z-ai/glm-5-turbo
+https://openrouter.ai/compare/openai/gpt-5.1-codex-max/z-ai/glm-5-turbo
+https://openrouter.ai/compare/amazon/nova-2-lite-v1/z-ai/glm-5-turbo
+https://openrouter.ai/compare/mistralai/ministral-14b-2512/z-ai/glm-5-turbo
+https://openrouter.ai/compare/mistralai/ministral-8b-2512/z-ai/glm-5-turbo
+https://openrouter.ai/compare/mistralai/ministral-3b-2512/z-ai/glm-5-turbo
+https://openrouter.ai/compare/mistralai/mistral-large-2512/z-ai/glm-5-turbo
+https://openrouter.ai/compare/arcee-ai/trinity-mini/z-ai/glm-5-turbo
+https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/z-ai/glm-5-turbo
+https://openrouter.ai/compare/deepseek/deepseek-v3.2/z-ai/glm-5-turbo
+https://openrouter.ai/compare/prime-intellect/intellect-3/z-ai/glm-5-turbo
+https://openrouter.ai/compare/black-forest-labs/flux.2-flex/z-ai/glm-5-turbo
+https://openrouter.ai/compare/black-forest-labs/flux.2-pro/z-ai/glm-5-turbo
+https://openrouter.ai/compare/anthropic/claude-opus-4.5/z-ai/glm-5-turbo
+https://openrouter.ai/compare/allenai/olmo-3-32b-think/z-ai/glm-5-turbo
+https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/z-ai/glm-5-turbo
+https://openrouter.ai/compare/allenai/olmo-3-7b-think/z-ai/glm-5-turbo
+https://openrouter.ai/compare/google/gemini-3-pro-image-preview/z-ai/glm-5-turbo
+https://openrouter.ai/compare/x-ai/grok-4.1-fast/z-ai/glm-5-turbo
+https://openrouter.ai/compare/google/gemini-3-pro-preview/z-ai/glm-5-turbo
+https://openrouter.ai/compare/thenlper/gte-base/z-ai/glm-5-turbo
+https://openrouter.ai/compare/thenlper/gte-large/z-ai/glm-5-turbo
+https://openrouter.ai/compare/intfloat/e5-large-v2/z-ai/glm-5-turbo
+https://openrouter.ai/compare/intfloat/e5-base-v2/z-ai/glm-5-turbo
+https://openrouter.ai/compare/intfloat/multilingual-e5-large/z-ai/glm-5-turbo
+https://openrouter.ai/compare/sentence-transformers/paraphrase-minilm-l6-v2/z-ai/glm-5-turbo
+https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/z-ai/glm-5-turbo
+https://openrouter.ai/compare/baai/bge-base-en-v1.5/z-ai/glm-5-turbo
+https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/z-ai/glm-5-turbo
 https://openrouter.ai/compare/x-ai/grok-4.20-beta/x-ai/grok-4.20-multi-agent-beta
 https://openrouter.ai/compare/openrouter/hunter-alpha/x-ai/grok-4.20-multi-agent-beta
 https://openrouter.ai/compare/openrouter/healer-alpha/x-ai/grok-4.20-multi-agent-beta
@@ -982,7 +1083,6 @@ https://openrouter.ai/compare/sentence-transformers/paraphrase-minilm-l6-v2/x-ai
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/x-ai/grok-4.20-multi-agent-beta
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/x-ai/grok-4.20-multi-agent-beta
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/x-ai/grok-4.20-multi-agent-beta
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/x-ai/grok-4.20-multi-agent-beta
 https://openrouter.ai/compare/openrouter/hunter-alpha/x-ai/grok-4.20-beta
 https://openrouter.ai/compare/openrouter/healer-alpha/x-ai/grok-4.20-beta
 https://openrouter.ai/compare/nvidia/nemotron-3-super-120b-a12b/x-ai/grok-4.20-beta
@@ -1080,7 +1180,6 @@ https://openrouter.ai/compare/sentence-transformers/paraphrase-minilm-l6-v2/x-ai
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/x-ai/grok-4.20-beta
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/x-ai/grok-4.20-beta
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/x-ai/grok-4.20-beta
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/x-ai/grok-4.20-beta
 https://openrouter.ai/compare/openrouter/healer-alpha/openrouter/hunter-alpha
 https://openrouter.ai/compare/nvidia/nemotron-3-super-120b-a12b/openrouter/hunter-alpha
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-lite/openrouter/hunter-alpha
@@ -1177,7 +1276,6 @@ https://openrouter.ai/compare/openrouter/hunter-alpha/sentence-transformers/para
 https://openrouter.ai/compare/openrouter/hunter-alpha/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/openrouter/hunter-alpha
 https://openrouter.ai/compare/openrouter/hunter-alpha/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/openrouter/hunter-alpha
 https://openrouter.ai/compare/nvidia/nemotron-3-super-120b-a12b/openrouter/healer-alpha
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-lite/openrouter/healer-alpha
 https://openrouter.ai/compare/openrouter/healer-alpha/qwen/qwen3.5-9b
@@ -1273,7 +1371,6 @@ https://openrouter.ai/compare/openrouter/healer-alpha/sentence-transformers/para
 https://openrouter.ai/compare/openrouter/healer-alpha/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/openrouter/healer-alpha
 https://openrouter.ai/compare/openrouter/healer-alpha/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/openrouter/healer-alpha
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-lite/nvidia/nemotron-3-super-120b-a12b
 https://openrouter.ai/compare/nvidia/nemotron-3-super-120b-a12b/qwen/qwen3.5-9b
 https://openrouter.ai/compare/nvidia/nemotron-3-super-120b-a12b/openai/gpt-5.4-pro
@@ -1368,7 +1465,6 @@ https://openrouter.ai/compare/nvidia/nemotron-3-super-120b-a12b/sentence-transfo
 https://openrouter.ai/compare/nvidia/nemotron-3-super-120b-a12b/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/nvidia/nemotron-3-super-120b-a12b
 https://openrouter.ai/compare/nvidia/nemotron-3-super-120b-a12b/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/nvidia/nemotron-3-super-120b-a12b
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-lite/qwen/qwen3.5-9b
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-lite/openai/gpt-5.4-pro
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-lite/openai/gpt-5.4
@@ -1462,7 +1558,6 @@ https://openrouter.ai/compare/bytedance-seed/seed-2.0-lite/sentence-transformers
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-lite/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/bytedance-seed/seed-2.0-lite
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-lite/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/bytedance-seed/seed-2.0-lite
 https://openrouter.ai/compare/openai/gpt-5.4-pro/qwen/qwen3.5-9b
 https://openrouter.ai/compare/openai/gpt-5.4/qwen/qwen3.5-9b
 https://openrouter.ai/compare/inception/mercury-2/qwen/qwen3.5-9b
@@ -1555,7 +1650,6 @@ https://openrouter.ai/compare/qwen/qwen3.5-9b/sentence-transformers/paraphrase-m
 https://openrouter.ai/compare/qwen/qwen3.5-9b/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/qwen/qwen3.5-9b
 https://openrouter.ai/compare/qwen/qwen3.5-9b/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/qwen/qwen3.5-9b
 https://openrouter.ai/compare/openai/gpt-5.4/openai/gpt-5.4-pro
 https://openrouter.ai/compare/inception/mercury-2/openai/gpt-5.4-pro
 https://openrouter.ai/compare/openai/gpt-5.3-chat/openai/gpt-5.4-pro
@@ -1647,7 +1741,6 @@ https://openrouter.ai/compare/openai/gpt-5.4-pro/sentence-transformers/paraphras
 https://openrouter.ai/compare/openai/gpt-5.4-pro/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/openai/gpt-5.4-pro
 https://openrouter.ai/compare/openai/gpt-5.4-pro/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/openai/gpt-5.4-pro
 https://openrouter.ai/compare/inception/mercury-2/openai/gpt-5.4
 https://openrouter.ai/compare/openai/gpt-5.3-chat/openai/gpt-5.4
 https://openrouter.ai/compare/google/gemini-3.1-flash-lite-preview/openai/gpt-5.4
@@ -1738,7 +1831,6 @@ https://openrouter.ai/compare/openai/gpt-5.4/sentence-transformers/paraphrase-mi
 https://openrouter.ai/compare/openai/gpt-5.4/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/openai/gpt-5.4
 https://openrouter.ai/compare/openai/gpt-5.4/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/openai/gpt-5.4
 https://openrouter.ai/compare/inception/mercury-2/openai/gpt-5.3-chat
 https://openrouter.ai/compare/google/gemini-3.1-flash-lite-preview/inception/mercury-2
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/inception/mercury-2
@@ -1828,7 +1920,6 @@ https://openrouter.ai/compare/inception/mercury-2/sentence-transformers/paraphra
 https://openrouter.ai/compare/inception/mercury-2/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/inception/mercury-2
 https://openrouter.ai/compare/inception/mercury-2/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/inception/mercury-2
 https://openrouter.ai/compare/google/gemini-3.1-flash-lite-preview/openai/gpt-5.3-chat
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/openai/gpt-5.3-chat
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/openai/gpt-5.3-chat
@@ -1917,7 +2008,6 @@ https://openrouter.ai/compare/openai/gpt-5.3-chat/sentence-transformers/paraphra
 https://openrouter.ai/compare/openai/gpt-5.3-chat/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/openai/gpt-5.3-chat
 https://openrouter.ai/compare/openai/gpt-5.3-chat/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/openai/gpt-5.3-chat
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/google/gemini-3.1-flash-lite-preview
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/google/gemini-3.1-flash-lite-preview
 https://openrouter.ai/compare/google/gemini-3.1-flash-lite-preview/qwen/qwen3.5-35b-a3b
@@ -2005,7 +2095,6 @@ https://openrouter.ai/compare/google/gemini-3.1-flash-lite-preview/sentence-tran
 https://openrouter.ai/compare/google/gemini-3.1-flash-lite-preview/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/google/gemini-3.1-flash-lite-preview
 https://openrouter.ai/compare/google/gemini-3.1-flash-lite-preview/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/google/gemini-3.1-flash-lite-preview
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/google/gemini-3.1-flash-image-preview
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/qwen/qwen3.5-35b-a3b
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/qwen/qwen3.5-27b
@@ -2092,7 +2181,6 @@ https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/sentence-transformers
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/bytedance-seed/seed-2.0-mini
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/bytedance-seed/seed-2.0-mini
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/qwen/qwen3.5-35b-a3b
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/qwen/qwen3.5-27b
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/qwen/qwen3.5-122b-a10b
@@ -2178,7 +2266,6 @@ https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/sentence-tra
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/google/gemini-3.1-flash-image-preview
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/google/gemini-3.1-flash-image-preview
 https://openrouter.ai/compare/qwen/qwen3.5-27b/qwen/qwen3.5-35b-a3b
 https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/qwen/qwen3.5-35b-a3b
 https://openrouter.ai/compare/qwen/qwen3.5-35b-a3b/qwen/qwen3.5-flash-02-23
@@ -2263,7 +2350,6 @@ https://openrouter.ai/compare/qwen/qwen3.5-35b-a3b/sentence-transformers/paraphr
 https://openrouter.ai/compare/qwen/qwen3.5-35b-a3b/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/qwen/qwen3.5-35b-a3b
 https://openrouter.ai/compare/qwen/qwen3.5-35b-a3b/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/qwen/qwen3.5-35b-a3b
 https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/qwen/qwen3.5-27b
 https://openrouter.ai/compare/qwen/qwen3.5-27b/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/qwen/qwen3.5-27b
@@ -2347,7 +2433,6 @@ https://openrouter.ai/compare/qwen/qwen3.5-27b/sentence-transformers/paraphrase-
 https://openrouter.ai/compare/qwen/qwen3.5-27b/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/qwen/qwen3.5-27b
 https://openrouter.ai/compare/qwen/qwen3.5-27b/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/qwen/qwen3.5-27b
 https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/qwen/qwen3.5-122b-a10b
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/qwen/qwen3.5-122b-a10b
@@ -2430,7 +2515,6 @@ https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/sentence-transformers/parap
 https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/qwen/qwen3.5-122b-a10b
 https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/qwen/qwen3.5-122b-a10b
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/nvidia/llama-nemotron-embed-vl-1b-v2/qwen/qwen3.5-flash-02-23
@@ -2512,7 +2596,6 @@ https://openrouter.ai/compare/qwen/qwen3.5-flash-02-23/sentence-transformers/par
 https://openrouter.ai/compare/qwen/qwen3.5-flash-02-23/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/qwen/qwen3.5-flash-02-23/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/liquid/lfm-2-24b-a2b
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/nvidia/llama-nemotron-embed-vl-1b-v2
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/openai/gpt-5.3-codex
@@ -2593,7 +2676,6 @@ https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/sentence-transformers/paraphr
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/liquid/lfm-2-24b-a2b
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/liquid/lfm-2-24b-a2b
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/nvidia/llama-nemotron-embed-vl-1b-v2
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/openai/gpt-5.3-codex
 https://openrouter.ai/compare/aion-labs/aion-2.0/google/gemini-3.1-pro-preview-customtools
@@ -2673,7 +2755,6 @@ https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/sentence
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/google/gemini-3.1-pro-preview-customtools
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/google/gemini-3.1-pro-preview-customtools
 https://openrouter.ai/compare/nvidia/llama-nemotron-embed-vl-1b-v2/openai/gpt-5.3-codex
 https://openrouter.ai/compare/aion-labs/aion-2.0/nvidia/llama-nemotron-embed-vl-1b-v2
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/nvidia/llama-nemotron-embed-vl-1b-v2
@@ -2752,7 +2833,6 @@ https://openrouter.ai/compare/nvidia/llama-nemotron-embed-vl-1b-v2/sentence-tran
 https://openrouter.ai/compare/nvidia/llama-nemotron-embed-vl-1b-v2/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/nvidia/llama-nemotron-embed-vl-1b-v2
 https://openrouter.ai/compare/nvidia/llama-nemotron-embed-vl-1b-v2/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/nvidia/llama-nemotron-embed-vl-1b-v2
 https://openrouter.ai/compare/aion-labs/aion-2.0/openai/gpt-5.3-codex
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/openai/gpt-5.3-codex
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/openai/gpt-5.3-codex
@@ -2830,7 +2910,6 @@ https://openrouter.ai/compare/openai/gpt-5.3-codex/sentence-transformers/paraphr
 https://openrouter.ai/compare/openai/gpt-5.3-codex/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/openai/gpt-5.3-codex
 https://openrouter.ai/compare/openai/gpt-5.3-codex/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/openai/gpt-5.3-codex
 https://openrouter.ai/compare/aion-labs/aion-2.0/google/gemini-3.1-pro-preview
 https://openrouter.ai/compare/aion-labs/aion-2.0/anthropic/claude-sonnet-4.6
 https://openrouter.ai/compare/aion-labs/aion-2.0/qwen/qwen3.5-plus-02-15
@@ -2907,7 +2986,6 @@ https://openrouter.ai/compare/aion-labs/aion-2.0/sentence-transformers/paraphras
 https://openrouter.ai/compare/aion-labs/aion-2.0/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/aion-labs/aion-2.0/baai/bge-base-en-v1.5
 https://openrouter.ai/compare/aion-labs/aion-2.0/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/aion-labs/aion-2.0/baai/bge-large-en-v1.5
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/google/gemini-3.1-pro-preview
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/qwen/qwen3.5-plus-02-15
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/qwen/qwen3.5-397b-a17b
@@ -2983,7 +3061,6 @@ https://openrouter.ai/compare/google/gemini-3.1-pro-preview/sentence-transformer
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/google/gemini-3.1-pro-preview
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/google/gemini-3.1-pro-preview
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/qwen/qwen3.5-plus-02-15
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/qwen/qwen3.5-397b-a17b
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/minimax/minimax-m2.5
@@ -3058,7 +3135,6 @@ https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/sentence-transformers/
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/baai/bge-base-en-v1.5
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/baai/bge-large-en-v1.5
 https://openrouter.ai/compare/qwen/qwen3.5-397b-a17b/qwen/qwen3.5-plus-02-15
 https://openrouter.ai/compare/minimax/minimax-m2.5/qwen/qwen3.5-plus-02-15
 https://openrouter.ai/compare/qwen/qwen3.5-plus-02-15/z-ai/glm-5
@@ -3132,7 +3208,6 @@ https://openrouter.ai/compare/qwen/qwen3.5-plus-02-15/sentence-transformers/para
 https://openrouter.ai/compare/qwen/qwen3.5-plus-02-15/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/qwen/qwen3.5-plus-02-15
 https://openrouter.ai/compare/qwen/qwen3.5-plus-02-15/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/qwen/qwen3.5-plus-02-15
 https://openrouter.ai/compare/minimax/minimax-m2.5/qwen/qwen3.5-397b-a17b
 https://openrouter.ai/compare/qwen/qwen3.5-397b-a17b/z-ai/glm-5
 https://openrouter.ai/compare/qwen/qwen3-max-thinking/qwen/qwen3.5-397b-a17b
@@ -3205,7 +3280,6 @@ https://openrouter.ai/compare/qwen/qwen3.5-397b-a17b/sentence-transformers/parap
 https://openrouter.ai/compare/qwen/qwen3.5-397b-a17b/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/qwen/qwen3.5-397b-a17b
 https://openrouter.ai/compare/qwen/qwen3.5-397b-a17b/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/qwen/qwen3.5-397b-a17b
 https://openrouter.ai/compare/minimax/minimax-m2.5/z-ai/glm-5
 https://openrouter.ai/compare/minimax/minimax-m2.5/qwen/qwen3-max-thinking
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/minimax/minimax-m2.5
@@ -3277,7 +3351,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.5/sentence-transformers/paraphr
 https://openrouter.ai/compare/minimax/minimax-m2.5/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/minimax/minimax-m2.5
 https://openrouter.ai/compare/minimax/minimax-m2.5/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/minimax/minimax-m2.5
 https://openrouter.ai/compare/qwen/qwen3-max-thinking/z-ai/glm-5
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/z-ai/glm-5
 https://openrouter.ai/compare/qwen/qwen3-coder-next/z-ai/glm-5
@@ -3348,7 +3421,6 @@ https://openrouter.ai/compare/sentence-transformers/paraphrase-minilm-l6-v2/z-ai
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/z-ai/glm-5
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/z-ai/glm-5
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/z-ai/glm-5
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/z-ai/glm-5
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/qwen/qwen3-max-thinking
 https://openrouter.ai/compare/qwen/qwen3-coder-next/qwen/qwen3-max-thinking
 https://openrouter.ai/compare/qwen/qwen3-max-thinking/sourceful/riverflow-v2-pro
@@ -3418,7 +3490,6 @@ https://openrouter.ai/compare/qwen/qwen3-max-thinking/sentence-transformers/para
 https://openrouter.ai/compare/qwen/qwen3-max-thinking/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/qwen/qwen3-max-thinking
 https://openrouter.ai/compare/qwen/qwen3-max-thinking/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/qwen/qwen3-max-thinking
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/qwen/qwen3-coder-next
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/sourceful/riverflow-v2-pro
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/sourceful/riverflow-v2-fast
@@ -3487,7 +3558,6 @@ https://openrouter.ai/compare/anthropic/claude-opus-4.6/sentence-transformers/pa
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/baai/bge-base-en-v1.5
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/anthropic/claude-opus-4.6/baai/bge-large-en-v1.5
 https://openrouter.ai/compare/qwen/qwen3-coder-next/sourceful/riverflow-v2-pro
 https://openrouter.ai/compare/qwen/qwen3-coder-next/sourceful/riverflow-v2-fast
 https://openrouter.ai/compare/qwen/qwen3-coder-next/stepfun/step-3.5-flash
@@ -3555,7 +3625,6 @@ https://openrouter.ai/compare/qwen/qwen3-coder-next/sentence-transformers/paraph
 https://openrouter.ai/compare/qwen/qwen3-coder-next/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/qwen/qwen3-coder-next
 https://openrouter.ai/compare/qwen/qwen3-coder-next/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/qwen/qwen3-coder-next
 https://openrouter.ai/compare/sourceful/riverflow-v2-fast/sourceful/riverflow-v2-pro
 https://openrouter.ai/compare/sourceful/riverflow-v2-pro/stepfun/step-3.5-flash
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/sourceful/riverflow-v2-pro
@@ -3622,7 +3691,6 @@ https://openrouter.ai/compare/sentence-transformers/paraphrase-minilm-l6-v2/sour
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/sourceful/riverflow-v2-pro
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/sourceful/riverflow-v2-pro
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/sourceful/riverflow-v2-pro
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/sourceful/riverflow-v2-pro
 https://openrouter.ai/compare/sourceful/riverflow-v2-fast/stepfun/step-3.5-flash
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/sourceful/riverflow-v2-fast
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/sourceful/riverflow-v2-fast
@@ -3688,7 +3756,6 @@ https://openrouter.ai/compare/sentence-transformers/paraphrase-minilm-l6-v2/sour
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/sourceful/riverflow-v2-fast
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/sourceful/riverflow-v2-fast
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/sourceful/riverflow-v2-fast
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/sourceful/riverflow-v2-fast
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/stepfun/step-3.5-flash
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/stepfun/step-3.5-flash
 https://openrouter.ai/compare/stepfun/step-3.5-flash/upstage/solar-pro-3
@@ -3753,7 +3820,6 @@ https://openrouter.ai/compare/sentence-transformers/paraphrase-minilm-l6-v2/step
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/stepfun/step-3.5-flash
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/stepfun/step-3.5-flash
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/stepfun/step-3.5-flash
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/stepfun/step-3.5-flash
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/moonshotai/kimi-k2.5
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/upstage/solar-pro-3
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/minimax/minimax-m2-her
@@ -3817,7 +3883,6 @@ https://openrouter.ai/compare/arcee-ai/trinity-large-preview/sentence-transforme
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/baai/bge-base-en-v1.5
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/arcee-ai/trinity-large-preview/baai/bge-large-en-v1.5
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/upstage/solar-pro-3
 https://openrouter.ai/compare/minimax/minimax-m2-her/moonshotai/kimi-k2.5
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/writer/palmyra-x5
@@ -3880,7 +3945,6 @@ https://openrouter.ai/compare/moonshotai/kimi-k2.5/sentence-transformers/paraphr
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/moonshotai/kimi-k2.5
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/moonshotai/kimi-k2.5
 https://openrouter.ai/compare/minimax/minimax-m2-her/upstage/solar-pro-3
 https://openrouter.ai/compare/upstage/solar-pro-3/writer/palmyra-x5
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/upstage/solar-pro-3
@@ -3942,7 +4006,6 @@ https://openrouter.ai/compare/sentence-transformers/paraphrase-minilm-l6-v2/upst
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/upstage/solar-pro-3
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/upstage/solar-pro-3
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/upstage/solar-pro-3
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/upstage/solar-pro-3
 https://openrouter.ai/compare/minimax/minimax-m2-her/writer/palmyra-x5
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/minimax/minimax-m2-her
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/minimax/minimax-m2-her
@@ -4003,7 +4066,6 @@ https://openrouter.ai/compare/minimax/minimax-m2-her/sentence-transformers/parap
 https://openrouter.ai/compare/minimax/minimax-m2-her/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/minimax/minimax-m2-her
 https://openrouter.ai/compare/minimax/minimax-m2-her/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/minimax/minimax-m2-her
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/writer/palmyra-x5
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/writer/palmyra-x5
 https://openrouter.ai/compare/openai/gpt-audio/writer/palmyra-x5
@@ -4063,7 +4125,6 @@ https://openrouter.ai/compare/sentence-transformers/paraphrase-minilm-l6-v2/writ
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/writer/palmyra-x5
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/writer/palmyra-x5
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/writer/palmyra-x5
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/writer/palmyra-x5
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/liquid/lfm-2.5-1.2b-thinking
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/openai/gpt-audio
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/openai/gpt-audio-mini
@@ -4122,7 +4183,6 @@ https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/sentence-transformers
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/liquid/lfm-2.5-1.2b-thinking
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-thinking/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/liquid/lfm-2.5-1.2b-thinking
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/openai/gpt-audio
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/openai/gpt-audio-mini
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/z-ai/glm-4.7-flash
@@ -4180,7 +4240,6 @@ https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/sentence-transformers
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/liquid/lfm-2.5-1.2b-instruct
 https://openrouter.ai/compare/liquid/lfm-2.5-1.2b-instruct/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/liquid/lfm-2.5-1.2b-instruct
 https://openrouter.ai/compare/openai/gpt-audio/openai/gpt-audio-mini
 https://openrouter.ai/compare/openai/gpt-audio/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/openai/gpt-audio
@@ -4237,7 +4296,6 @@ https://openrouter.ai/compare/openai/gpt-audio/sentence-transformers/paraphrase-
 https://openrouter.ai/compare/openai/gpt-audio/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/openai/gpt-audio
 https://openrouter.ai/compare/openai/gpt-audio/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/openai/gpt-audio
 https://openrouter.ai/compare/openai/gpt-audio-mini/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/openai/gpt-audio-mini
 https://openrouter.ai/compare/openai/gpt-5.2-codex/openai/gpt-audio-mini
@@ -4293,7 +4351,6 @@ https://openrouter.ai/compare/openai/gpt-audio-mini/sentence-transformers/paraph
 https://openrouter.ai/compare/openai/gpt-audio-mini/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/openai/gpt-audio-mini
 https://openrouter.ai/compare/openai/gpt-audio-mini/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/openai/gpt-audio-mini
 https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/openai/gpt-5.2-codex/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/allenai/molmo-2-8b/z-ai/glm-4.7-flash
@@ -4348,7 +4405,6 @@ https://openrouter.ai/compare/sentence-transformers/paraphrase-minilm-l6-v2/z-ai
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/z-ai/glm-4.7-flash
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/z-ai/glm-4.7-flash
 https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/openai/gpt-5.2-codex
 https://openrouter.ai/compare/allenai/molmo-2-8b/black-forest-labs/flux.2-klein-4b
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/black-forest-labs/flux.2-klein-4b
@@ -4402,7 +4458,6 @@ https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/sentence-transfo
 https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/black-forest-labs/flux.2-klein-4b
 https://openrouter.ai/compare/black-forest-labs/flux.2-klein-4b/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/black-forest-labs/flux.2-klein-4b
 https://openrouter.ai/compare/allenai/molmo-2-8b/openai/gpt-5.2-codex
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/openai/gpt-5.2-codex
 https://openrouter.ai/compare/bytedance-seed/seedream-4.5/openai/gpt-5.2-codex
@@ -4455,7 +4510,6 @@ https://openrouter.ai/compare/openai/gpt-5.2-codex/sentence-transformers/paraphr
 https://openrouter.ai/compare/openai/gpt-5.2-codex/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/openai/gpt-5.2-codex
 https://openrouter.ai/compare/openai/gpt-5.2-codex/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/openai/gpt-5.2-codex
 https://openrouter.ai/compare/allenai/molmo-2-8b/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/allenai/molmo-2-8b/bytedance-seed/seedream-4.5
 https://openrouter.ai/compare/allenai/molmo-2-8b/bytedance-seed/seed-1.6-flash
@@ -4507,7 +4561,6 @@ https://openrouter.ai/compare/allenai/molmo-2-8b/sentence-transformers/paraphras
 https://openrouter.ai/compare/allenai/molmo-2-8b/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/allenai/molmo-2-8b/baai/bge-base-en-v1.5
 https://openrouter.ai/compare/allenai/molmo-2-8b/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/allenai/molmo-2-8b/baai/bge-large-en-v1.5
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/bytedance-seed/seedream-4.5
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/bytedance-seed/seed-1.6-flash
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/bytedance-seed/seed-1.6
@@ -4558,7 +4611,6 @@ https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/sentence-transformer
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/baai/bge-base-en-v1.5
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/baai/bge-large-en-v1.5
 https://openrouter.ai/compare/bytedance-seed/seed-1.6-flash/bytedance-seed/seedream-4.5
 https://openrouter.ai/compare/bytedance-seed/seed-1.6/bytedance-seed/seedream-4.5
 https://openrouter.ai/compare/bytedance-seed/seedream-4.5/minimax/minimax-m2.1
@@ -4608,7 +4660,6 @@ https://openrouter.ai/compare/bytedance-seed/seedream-4.5/sentence-transformers/
 https://openrouter.ai/compare/bytedance-seed/seedream-4.5/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/bytedance-seed/seedream-4.5
 https://openrouter.ai/compare/bytedance-seed/seedream-4.5/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/bytedance-seed/seedream-4.5
 https://openrouter.ai/compare/bytedance-seed/seed-1.6/bytedance-seed/seed-1.6-flash
 https://openrouter.ai/compare/bytedance-seed/seed-1.6-flash/minimax/minimax-m2.1
 https://openrouter.ai/compare/bytedance-seed/seed-1.6-flash/z-ai/glm-4.7
@@ -4657,7 +4708,6 @@ https://openrouter.ai/compare/bytedance-seed/seed-1.6-flash/sentence-transformer
 https://openrouter.ai/compare/bytedance-seed/seed-1.6-flash/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/bytedance-seed/seed-1.6-flash
 https://openrouter.ai/compare/bytedance-seed/seed-1.6-flash/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/bytedance-seed/seed-1.6-flash
 https://openrouter.ai/compare/bytedance-seed/seed-1.6/minimax/minimax-m2.1
 https://openrouter.ai/compare/bytedance-seed/seed-1.6/z-ai/glm-4.7
 https://openrouter.ai/compare/bytedance-seed/seed-1.6/google/gemini-3-flash-preview
@@ -4705,7 +4755,6 @@ https://openrouter.ai/compare/bytedance-seed/seed-1.6/sentence-transformers/para
 https://openrouter.ai/compare/bytedance-seed/seed-1.6/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/bytedance-seed/seed-1.6
 https://openrouter.ai/compare/bytedance-seed/seed-1.6/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/bytedance-seed/seed-1.6
 https://openrouter.ai/compare/minimax/minimax-m2.1/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/minimax/minimax-m2.1
 https://openrouter.ai/compare/minimax/minimax-m2.1/mistralai/mistral-small-creative
@@ -4752,7 +4801,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.1/sentence-transformers/paraphr
 https://openrouter.ai/compare/minimax/minimax-m2.1/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/minimax/minimax-m2.1
 https://openrouter.ai/compare/minimax/minimax-m2.1/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/minimax/minimax-m2.1
 https://openrouter.ai/compare/google/gemini-3-flash-preview/z-ai/glm-4.7
 https://openrouter.ai/compare/mistralai/mistral-small-creative/z-ai/glm-4.7
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/z-ai/glm-4.7
@@ -4798,7 +4846,6 @@ https://openrouter.ai/compare/sentence-transformers/paraphrase-minilm-l6-v2/z-ai
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/z-ai/glm-4.7
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/z-ai/glm-4.7
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/z-ai/glm-4.7
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/z-ai/glm-4.7
 https://openrouter.ai/compare/google/gemini-3-flash-preview/mistralai/mistral-small-creative
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/google/gemini-3-flash-preview
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/google/gemini-3-flash-preview
@@ -4843,7 +4890,6 @@ https://openrouter.ai/compare/google/gemini-3-flash-preview/sentence-transformer
 https://openrouter.ai/compare/google/gemini-3-flash-preview/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/google/gemini-3-flash-preview
 https://openrouter.ai/compare/google/gemini-3-flash-preview/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/google/gemini-3-flash-preview
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/mistralai/mistral-small-creative
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/mistralai/mistral-small-creative
 https://openrouter.ai/compare/mistralai/mistral-small-creative/xiaomi/mimo-v2-flash
@@ -4887,7 +4933,6 @@ https://openrouter.ai/compare/mistralai/mistral-small-creative/sentence-transfor
 https://openrouter.ai/compare/mistralai/mistral-small-creative/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/mistralai/mistral-small-creative
 https://openrouter.ai/compare/mistralai/mistral-small-creative/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/mistralai/mistral-small-creative
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/black-forest-labs/flux.2-max
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/nvidia/nemotron-3-nano-30b-a3b
@@ -4930,7 +4975,6 @@ https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/sentence-transformers/p
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/baai/bge-base-en-v1.5
 https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-think/baai/bge-large-en-v1.5
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/nvidia/nemotron-3-nano-30b-a3b
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/openai/gpt-5.2-chat
@@ -4972,7 +5016,6 @@ https://openrouter.ai/compare/black-forest-labs/flux.2-max/sentence-transformers
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/black-forest-labs/flux.2-max
 https://openrouter.ai/compare/black-forest-labs/flux.2-max/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/black-forest-labs/flux.2-max
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/openai/gpt-5.2-chat/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/openai/gpt-5.2-pro/xiaomi/mimo-v2-flash
@@ -5013,7 +5056,6 @@ https://openrouter.ai/compare/sentence-transformers/paraphrase-minilm-l6-v2/xiao
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/xiaomi/mimo-v2-flash
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/xiaomi/mimo-v2-flash
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/openai/gpt-5.2-chat
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/openai/gpt-5.2-pro
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/openai/gpt-5.2
@@ -5053,7 +5095,6 @@ https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/sentence-transforme
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/nvidia/nemotron-3-nano-30b-a3b
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/nvidia/nemotron-3-nano-30b-a3b
 https://openrouter.ai/compare/openai/gpt-5.2-chat/openai/gpt-5.2-pro
 https://openrouter.ai/compare/openai/gpt-5.2/openai/gpt-5.2-chat
 https://openrouter.ai/compare/mistralai/devstral-2512/openai/gpt-5.2-chat
@@ -5092,7 +5133,6 @@ https://openrouter.ai/compare/openai/gpt-5.2-chat/sentence-transformers/paraphra
 https://openrouter.ai/compare/openai/gpt-5.2-chat/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/openai/gpt-5.2-chat
 https://openrouter.ai/compare/openai/gpt-5.2-chat/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/openai/gpt-5.2-chat
 https://openrouter.ai/compare/openai/gpt-5.2/openai/gpt-5.2-pro
 https://openrouter.ai/compare/mistralai/devstral-2512/openai/gpt-5.2-pro
 https://openrouter.ai/compare/openai/gpt-5.2-pro/sourceful/riverflow-v2-max-preview
@@ -5130,7 +5170,6 @@ https://openrouter.ai/compare/openai/gpt-5.2-pro/sentence-transformers/paraphras
 https://openrouter.ai/compare/openai/gpt-5.2-pro/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/openai/gpt-5.2-pro
 https://openrouter.ai/compare/openai/gpt-5.2-pro/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/openai/gpt-5.2-pro
 https://openrouter.ai/compare/mistralai/devstral-2512/openai/gpt-5.2
 https://openrouter.ai/compare/openai/gpt-5.2/sourceful/riverflow-v2-max-preview
 https://openrouter.ai/compare/openai/gpt-5.2/sourceful/riverflow-v2-standard-preview
@@ -5167,7 +5206,6 @@ https://openrouter.ai/compare/openai/gpt-5.2/sentence-transformers/paraphrase-mi
 https://openrouter.ai/compare/openai/gpt-5.2/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/openai/gpt-5.2
 https://openrouter.ai/compare/openai/gpt-5.2/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/openai/gpt-5.2
 https://openrouter.ai/compare/mistralai/devstral-2512/sourceful/riverflow-v2-max-preview
 https://openrouter.ai/compare/mistralai/devstral-2512/sourceful/riverflow-v2-standard-preview
 https://openrouter.ai/compare/mistralai/devstral-2512/sourceful/riverflow-v2-fast-preview
@@ -5203,7 +5241,6 @@ https://openrouter.ai/compare/mistralai/devstral-2512/sentence-transformers/para
 https://openrouter.ai/compare/mistralai/devstral-2512/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/mistralai/devstral-2512
 https://openrouter.ai/compare/mistralai/devstral-2512/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/mistralai/devstral-2512
 https://openrouter.ai/compare/sourceful/riverflow-v2-max-preview/sourceful/riverflow-v2-standard-preview
 https://openrouter.ai/compare/sourceful/riverflow-v2-fast-preview/sourceful/riverflow-v2-max-preview
 https://openrouter.ai/compare/relace/relace-search/sourceful/riverflow-v2-max-preview
@@ -5238,7 +5275,6 @@ https://openrouter.ai/compare/sentence-transformers/paraphrase-minilm-l6-v2/sour
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/sourceful/riverflow-v2-max-preview
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/sourceful/riverflow-v2-max-preview
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/sourceful/riverflow-v2-max-preview
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/sourceful/riverflow-v2-max-preview
 https://openrouter.ai/compare/sourceful/riverflow-v2-fast-preview/sourceful/riverflow-v2-standard-preview
 https://openrouter.ai/compare/relace/relace-search/sourceful/riverflow-v2-standard-preview
 https://openrouter.ai/compare/sourceful/riverflow-v2-standard-preview/z-ai/glm-4.6v
@@ -5272,7 +5308,6 @@ https://openrouter.ai/compare/sentence-transformers/paraphrase-minilm-l6-v2/sour
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/sourceful/riverflow-v2-standard-preview
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/sourceful/riverflow-v2-standard-preview
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/sourceful/riverflow-v2-standard-preview
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/sourceful/riverflow-v2-standard-preview
 https://openrouter.ai/compare/relace/relace-search/sourceful/riverflow-v2-fast-preview
 https://openrouter.ai/compare/sourceful/riverflow-v2-fast-preview/z-ai/glm-4.6v
 https://openrouter.ai/compare/nex-agi/deepseek-v3.1-nex-n1/sourceful/riverflow-v2-fast-preview
@@ -5305,7 +5340,6 @@ https://openrouter.ai/compare/sentence-transformers/paraphrase-minilm-l6-v2/sour
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/sourceful/riverflow-v2-fast-preview
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/sourceful/riverflow-v2-fast-preview
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/sourceful/riverflow-v2-fast-preview
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/sourceful/riverflow-v2-fast-preview
 https://openrouter.ai/compare/relace/relace-search/z-ai/glm-4.6v
 https://openrouter.ai/compare/nex-agi/deepseek-v3.1-nex-n1/relace/relace-search
 https://openrouter.ai/compare/essentialai/rnj-1-instruct/relace/relace-search
@@ -5337,7 +5371,6 @@ https://openrouter.ai/compare/relace/relace-search/sentence-transformers/paraphr
 https://openrouter.ai/compare/relace/relace-search/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/relace/relace-search
 https://openrouter.ai/compare/relace/relace-search/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/relace/relace-search
 https://openrouter.ai/compare/nex-agi/deepseek-v3.1-nex-n1/z-ai/glm-4.6v
 https://openrouter.ai/compare/essentialai/rnj-1-instruct/z-ai/glm-4.6v
 https://openrouter.ai/compare/openai/gpt-5.1-codex-max/z-ai/glm-4.6v
@@ -5368,7 +5401,6 @@ https://openrouter.ai/compare/sentence-transformers/paraphrase-minilm-l6-v2/z-ai
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/z-ai/glm-4.6v
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/z-ai/glm-4.6v
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/z-ai/glm-4.6v
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/z-ai/glm-4.6v
 https://openrouter.ai/compare/essentialai/rnj-1-instruct/nex-agi/deepseek-v3.1-nex-n1
 https://openrouter.ai/compare/nex-agi/deepseek-v3.1-nex-n1/openai/gpt-5.1-codex-max
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/nex-agi/deepseek-v3.1-nex-n1
@@ -5398,7 +5430,6 @@ https://openrouter.ai/compare/nex-agi/deepseek-v3.1-nex-n1/sentence-transformers
 https://openrouter.ai/compare/nex-agi/deepseek-v3.1-nex-n1/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/nex-agi/deepseek-v3.1-nex-n1
 https://openrouter.ai/compare/nex-agi/deepseek-v3.1-nex-n1/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/nex-agi/deepseek-v3.1-nex-n1
 https://openrouter.ai/compare/essentialai/rnj-1-instruct/openai/gpt-5.1-codex-max
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/essentialai/rnj-1-instruct
 https://openrouter.ai/compare/essentialai/rnj-1-instruct/mistralai/ministral-14b-2512
@@ -5427,7 +5458,6 @@ https://openrouter.ai/compare/essentialai/rnj-1-instruct/sentence-transformers/p
 https://openrouter.ai/compare/essentialai/rnj-1-instruct/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/essentialai/rnj-1-instruct
 https://openrouter.ai/compare/essentialai/rnj-1-instruct/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/essentialai/rnj-1-instruct
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/openai/gpt-5.1-codex-max
 https://openrouter.ai/compare/mistralai/ministral-14b-2512/openai/gpt-5.1-codex-max
 https://openrouter.ai/compare/mistralai/ministral-8b-2512/openai/gpt-5.1-codex-max
@@ -5455,7 +5485,6 @@ https://openrouter.ai/compare/openai/gpt-5.1-codex-max/sentence-transformers/par
 https://openrouter.ai/compare/openai/gpt-5.1-codex-max/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/openai/gpt-5.1-codex-max
 https://openrouter.ai/compare/openai/gpt-5.1-codex-max/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/openai/gpt-5.1-codex-max
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/mistralai/ministral-14b-2512
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/mistralai/ministral-8b-2512
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/mistralai/ministral-3b-2512
@@ -5482,7 +5511,6 @@ https://openrouter.ai/compare/amazon/nova-2-lite-v1/sentence-transformers/paraph
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/baai/bge-base-en-v1.5
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/amazon/nova-2-lite-v1/baai/bge-large-en-v1.5
 https://openrouter.ai/compare/mistralai/ministral-14b-2512/mistralai/ministral-8b-2512
 https://openrouter.ai/compare/mistralai/ministral-14b-2512/mistralai/ministral-3b-2512
 https://openrouter.ai/compare/mistralai/ministral-14b-2512/mistralai/mistral-large-2512
@@ -5508,7 +5536,6 @@ https://openrouter.ai/compare/mistralai/ministral-14b-2512/sentence-transformers
 https://openrouter.ai/compare/mistralai/ministral-14b-2512/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/mistralai/ministral-14b-2512
 https://openrouter.ai/compare/mistralai/ministral-14b-2512/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/mistralai/ministral-14b-2512
 https://openrouter.ai/compare/mistralai/ministral-3b-2512/mistralai/ministral-8b-2512
 https://openrouter.ai/compare/mistralai/ministral-8b-2512/mistralai/mistral-large-2512
 https://openrouter.ai/compare/arcee-ai/trinity-mini/mistralai/ministral-8b-2512
@@ -5533,7 +5560,6 @@ https://openrouter.ai/compare/mistralai/ministral-8b-2512/sentence-transformers/
 https://openrouter.ai/compare/mistralai/ministral-8b-2512/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/mistralai/ministral-8b-2512
 https://openrouter.ai/compare/mistralai/ministral-8b-2512/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/mistralai/ministral-8b-2512
 https://openrouter.ai/compare/mistralai/ministral-3b-2512/mistralai/mistral-large-2512
 https://openrouter.ai/compare/arcee-ai/trinity-mini/mistralai/ministral-3b-2512
 https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/mistralai/ministral-3b-2512
@@ -5557,7 +5583,6 @@ https://openrouter.ai/compare/mistralai/ministral-3b-2512/sentence-transformers/
 https://openrouter.ai/compare/mistralai/ministral-3b-2512/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/mistralai/ministral-3b-2512
 https://openrouter.ai/compare/mistralai/ministral-3b-2512/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/mistralai/ministral-3b-2512
 https://openrouter.ai/compare/arcee-ai/trinity-mini/mistralai/mistral-large-2512
 https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/mistralai/mistral-large-2512
 https://openrouter.ai/compare/deepseek/deepseek-v3.2/mistralai/mistral-large-2512
@@ -5580,7 +5605,6 @@ https://openrouter.ai/compare/mistralai/mistral-large-2512/sentence-transformers
 https://openrouter.ai/compare/mistralai/mistral-large-2512/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/mistralai/mistral-large-2512
 https://openrouter.ai/compare/mistralai/mistral-large-2512/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/mistralai/mistral-large-2512
 https://openrouter.ai/compare/arcee-ai/trinity-mini/deepseek/deepseek-v3.2-speciale
 https://openrouter.ai/compare/arcee-ai/trinity-mini/deepseek/deepseek-v3.2
 https://openrouter.ai/compare/arcee-ai/trinity-mini/prime-intellect/intellect-3
@@ -5602,7 +5626,6 @@ https://openrouter.ai/compare/arcee-ai/trinity-mini/sentence-transformers/paraph
 https://openrouter.ai/compare/arcee-ai/trinity-mini/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/arcee-ai/trinity-mini/baai/bge-base-en-v1.5
 https://openrouter.ai/compare/arcee-ai/trinity-mini/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/arcee-ai/trinity-mini/baai/bge-large-en-v1.5
 https://openrouter.ai/compare/deepseek/deepseek-v3.2/deepseek/deepseek-v3.2-speciale
 https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/prime-intellect/intellect-3
 https://openrouter.ai/compare/black-forest-labs/flux.2-flex/deepseek/deepseek-v3.2-speciale
@@ -5623,7 +5646,6 @@ https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/sentence-transform
 https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/deepseek/deepseek-v3.2-speciale
 https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/deepseek/deepseek-v3.2-speciale
 https://openrouter.ai/compare/deepseek/deepseek-v3.2/prime-intellect/intellect-3
 https://openrouter.ai/compare/black-forest-labs/flux.2-flex/deepseek/deepseek-v3.2
 https://openrouter.ai/compare/black-forest-labs/flux.2-pro/deepseek/deepseek-v3.2
@@ -5643,7 +5665,6 @@ https://openrouter.ai/compare/deepseek/deepseek-v3.2/sentence-transformers/parap
 https://openrouter.ai/compare/deepseek/deepseek-v3.2/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/deepseek/deepseek-v3.2
 https://openrouter.ai/compare/deepseek/deepseek-v3.2/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/deepseek/deepseek-v3.2
 https://openrouter.ai/compare/black-forest-labs/flux.2-flex/prime-intellect/intellect-3
 https://openrouter.ai/compare/black-forest-labs/flux.2-pro/prime-intellect/intellect-3
 https://openrouter.ai/compare/anthropic/claude-opus-4.5/prime-intellect/intellect-3
@@ -5662,7 +5683,6 @@ https://openrouter.ai/compare/prime-intellect/intellect-3/sentence-transformers/
 https://openrouter.ai/compare/prime-intellect/intellect-3/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/prime-intellect/intellect-3
 https://openrouter.ai/compare/prime-intellect/intellect-3/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/prime-intellect/intellect-3
 https://openrouter.ai/compare/black-forest-labs/flux.2-flex/black-forest-labs/flux.2-pro
 https://openrouter.ai/compare/anthropic/claude-opus-4.5/black-forest-labs/flux.2-flex
 https://openrouter.ai/compare/allenai/olmo-3-32b-think/black-forest-labs/flux.2-flex
@@ -5680,7 +5700,6 @@ https://openrouter.ai/compare/black-forest-labs/flux.2-flex/sentence-transformer
 https://openrouter.ai/compare/black-forest-labs/flux.2-flex/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/black-forest-labs/flux.2-flex
 https://openrouter.ai/compare/black-forest-labs/flux.2-flex/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/black-forest-labs/flux.2-flex
 https://openrouter.ai/compare/anthropic/claude-opus-4.5/black-forest-labs/flux.2-pro
 https://openrouter.ai/compare/allenai/olmo-3-32b-think/black-forest-labs/flux.2-pro
 https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/black-forest-labs/flux.2-pro
@@ -5697,7 +5716,6 @@ https://openrouter.ai/compare/black-forest-labs/flux.2-pro/sentence-transformers
 https://openrouter.ai/compare/black-forest-labs/flux.2-pro/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/black-forest-labs/flux.2-pro
 https://openrouter.ai/compare/black-forest-labs/flux.2-pro/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/black-forest-labs/flux.2-pro
 https://openrouter.ai/compare/allenai/olmo-3-32b-think/anthropic/claude-opus-4.5
 https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/anthropic/claude-opus-4.5
 https://openrouter.ai/compare/allenai/olmo-3-7b-think/anthropic/claude-opus-4.5
@@ -5713,7 +5731,6 @@ https://openrouter.ai/compare/anthropic/claude-opus-4.5/sentence-transformers/pa
 https://openrouter.ai/compare/anthropic/claude-opus-4.5/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/anthropic/claude-opus-4.5/baai/bge-base-en-v1.5
 https://openrouter.ai/compare/anthropic/claude-opus-4.5/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/anthropic/claude-opus-4.5/baai/bge-large-en-v1.5
 https://openrouter.ai/compare/allenai/olmo-3-32b-think/allenai/olmo-3-7b-instruct
 https://openrouter.ai/compare/allenai/olmo-3-32b-think/allenai/olmo-3-7b-think
 https://openrouter.ai/compare/allenai/olmo-3-32b-think/google/gemini-3-pro-image-preview
@@ -5728,7 +5745,6 @@ https://openrouter.ai/compare/allenai/olmo-3-32b-think/sentence-transformers/par
 https://openrouter.ai/compare/allenai/olmo-3-32b-think/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/allenai/olmo-3-32b-think/baai/bge-base-en-v1.5
 https://openrouter.ai/compare/allenai/olmo-3-32b-think/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/allenai/olmo-3-32b-think/baai/bge-large-en-v1.5
 https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/allenai/olmo-3-7b-think
 https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/google/gemini-3-pro-image-preview
 https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/x-ai/grok-4.1-fast
@@ -5742,7 +5758,6 @@ https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/sentence-transformers/p
 https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/baai/bge-base-en-v1.5
 https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/allenai/olmo-3-7b-instruct/baai/bge-large-en-v1.5
 https://openrouter.ai/compare/allenai/olmo-3-7b-think/google/gemini-3-pro-image-preview
 https://openrouter.ai/compare/allenai/olmo-3-7b-think/x-ai/grok-4.1-fast
 https://openrouter.ai/compare/allenai/olmo-3-7b-think/google/gemini-3-pro-preview
@@ -5755,7 +5770,6 @@ https://openrouter.ai/compare/allenai/olmo-3-7b-think/sentence-transformers/para
 https://openrouter.ai/compare/allenai/olmo-3-7b-think/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/allenai/olmo-3-7b-think/baai/bge-base-en-v1.5
 https://openrouter.ai/compare/allenai/olmo-3-7b-think/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/allenai/olmo-3-7b-think/baai/bge-large-en-v1.5
 https://openrouter.ai/compare/google/gemini-3-pro-image-preview/x-ai/grok-4.1-fast
 https://openrouter.ai/compare/google/gemini-3-pro-image-preview/google/gemini-3-pro-preview
 https://openrouter.ai/compare/google/gemini-3-pro-image-preview/thenlper/gte-base
@@ -5767,7 +5781,6 @@ https://openrouter.ai/compare/google/gemini-3-pro-image-preview/sentence-transfo
 https://openrouter.ai/compare/google/gemini-3-pro-image-preview/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/google/gemini-3-pro-image-preview
 https://openrouter.ai/compare/google/gemini-3-pro-image-preview/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/google/gemini-3-pro-image-preview
 https://openrouter.ai/compare/google/gemini-3-pro-preview/x-ai/grok-4.1-fast
 https://openrouter.ai/compare/thenlper/gte-base/x-ai/grok-4.1-fast
 https://openrouter.ai/compare/thenlper/gte-large/x-ai/grok-4.1-fast
@@ -5778,7 +5791,6 @@ https://openrouter.ai/compare/sentence-transformers/paraphrase-minilm-l6-v2/x-ai
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/x-ai/grok-4.1-fast
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/x-ai/grok-4.1-fast
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/x-ai/grok-4.1-fast
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/x-ai/grok-4.1-fast
 https://openrouter.ai/compare/google/gemini-3-pro-preview/thenlper/gte-base
 https://openrouter.ai/compare/google/gemini-3-pro-preview/thenlper/gte-large
 https://openrouter.ai/compare/google/gemini-3-pro-preview/intfloat/e5-large-v2
@@ -5788,7 +5800,6 @@ https://openrouter.ai/compare/google/gemini-3-pro-preview/sentence-transformers/
 https://openrouter.ai/compare/google/gemini-3-pro-preview/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/google/gemini-3-pro-preview
 https://openrouter.ai/compare/google/gemini-3-pro-preview/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/google/gemini-3-pro-preview
 https://openrouter.ai/compare/thenlper/gte-base/thenlper/gte-large
 https://openrouter.ai/compare/intfloat/e5-large-v2/thenlper/gte-base
 https://openrouter.ai/compare/intfloat/e5-base-v2/thenlper/gte-base
@@ -5797,7 +5808,6 @@ https://openrouter.ai/compare/sentence-transformers/paraphrase-minilm-l6-v2/then
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/thenlper/gte-base
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/thenlper/gte-base
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/thenlper/gte-base
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/thenlper/gte-base
 https://openrouter.ai/compare/intfloat/e5-large-v2/thenlper/gte-large
 https://openrouter.ai/compare/intfloat/e5-base-v2/thenlper/gte-large
 https://openrouter.ai/compare/intfloat/multilingual-e5-large/thenlper/gte-large
@@ -5805,35 +5815,28 @@ https://openrouter.ai/compare/sentence-transformers/paraphrase-minilm-l6-v2/then
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/thenlper/gte-large
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/thenlper/gte-large
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/thenlper/gte-large
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/thenlper/gte-large
 https://openrouter.ai/compare/intfloat/e5-base-v2/intfloat/e5-large-v2
 https://openrouter.ai/compare/intfloat/e5-large-v2/intfloat/multilingual-e5-large
 https://openrouter.ai/compare/intfloat/e5-large-v2/sentence-transformers/paraphrase-minilm-l6-v2
 https://openrouter.ai/compare/intfloat/e5-large-v2/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/intfloat/e5-large-v2
 https://openrouter.ai/compare/intfloat/e5-large-v2/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/intfloat/e5-large-v2
 https://openrouter.ai/compare/intfloat/e5-base-v2/intfloat/multilingual-e5-large
 https://openrouter.ai/compare/intfloat/e5-base-v2/sentence-transformers/paraphrase-minilm-l6-v2
 https://openrouter.ai/compare/intfloat/e5-base-v2/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/intfloat/e5-base-v2
 https://openrouter.ai/compare/intfloat/e5-base-v2/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/intfloat/e5-base-v2
 https://openrouter.ai/compare/intfloat/multilingual-e5-large/sentence-transformers/paraphrase-minilm-l6-v2
 https://openrouter.ai/compare/intfloat/multilingual-e5-large/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/intfloat/multilingual-e5-large
 https://openrouter.ai/compare/intfloat/multilingual-e5-large/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/intfloat/multilingual-e5-large
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/sentence-transformers/paraphrase-minilm-l6-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/sentence-transformers/paraphrase-minilm-l6-v2
 https://openrouter.ai/compare/sentence-transformers/multi-qa-mpnet-base-dot-v1/sentence-transformers/paraphrase-minilm-l6-v2
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/sentence-transformers/paraphrase-minilm-l6-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/sentence-transformers/all-minilm-l12-v2/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/compare/baai/bge-base-en-v1.5/sentence-transformers/multi-qa-mpnet-base-dot-v1
-https://openrouter.ai/compare/baai/bge-base-en-v1.5/baai/bge-large-en-v1.5
-https://openrouter.ai/compare/baai/bge-large-en-v1.5/sentence-transformers/multi-qa-mpnet-base-dot-v1
+https://openrouter.ai/compare/z-ai/glm-5-turbo
 https://openrouter.ai/compare/x-ai/grok-4.20-multi-agent-beta
 https://openrouter.ai/compare/x-ai/grok-4.20-beta
 https://openrouter.ai/compare/openrouter/hunter-alpha
@@ -5853,7 +5856,9 @@ https://openrouter.ai/compare/qwen/qwen3.5-27b
 https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b
 https://openrouter.ai/compare/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b
-https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools
+https://openrouter.ai/z-ai/glm-5-turbo/providers
+https://openrouter.ai/z-ai/glm-5-turbo/uptime
+https://openrouter.ai/z-ai/glm-5-turbo/api
 https://openrouter.ai/x-ai/grok-4.20-multi-agent-beta/providers
 https://openrouter.ai/x-ai/grok-4.20-multi-agent-beta/uptime
 https://openrouter.ai/x-ai/grok-4.20-multi-agent-beta/api
@@ -5881,9 +5886,6 @@ https://openrouter.ai/openai/gpt-5.4-pro/api
 https://openrouter.ai/openai/gpt-5.4/providers
 https://openrouter.ai/openai/gpt-5.4/uptime
 https://openrouter.ai/openai/gpt-5.4/api
-https://openrouter.ai/inception/mercury-2/providers
-https://openrouter.ai/inception/mercury-2/uptime
-https://openrouter.ai/inception/mercury-2/api
 https://openrouter.ai/announcements/auto-exacto
 https://openrouter.ai/announcements/february-release-spotlight
 https://openrouter.ai/announcements/openrouter-outages-on-february-17-and-19-2026
