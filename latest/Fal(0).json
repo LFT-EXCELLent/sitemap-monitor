@@ -144,6 +144,7 @@ https://fal.ai/learn/tools/ai-image-generators
 https://fal.ai/learn/tools/ai-image-to-video-generators
 https://fal.ai/learn/tools/ai-video-generators
 https://fal.ai/learn/tools/ai-voice-generators
+https://fal.ai/learn/tools/flux-vs-qwen-image
 https://fal.ai/learn/tools/how-to-use-flux
 https://fal.ai/learn/tools/how-to-use-nano-banana-2
 https://fal.ai/learn/tools/how-to-use-qwen-image-2
@@ -162,6 +163,8 @@ https://fal.ai/models/fal-ai/flux-2/klein/4b/lora
 https://fal.ai/models/fal-ai/flux-2/klein/4b/lora/api
 https://fal.ai/models/fal-ai/goal-force
 https://fal.ai/models/fal-ai/goal-force/api
+https://fal.ai/models/fal-ai/bytedance/seed/v2/mini
+https://fal.ai/models/fal-ai/bytedance/seed/v2/mini/api
 https://fal.ai/models/fal-ai/z-image/turbo/tiling/lora
 https://fal.ai/models/fal-ai/z-image/turbo/tiling/lora/api
 https://fal.ai/models/fal-ai/z-image/turbo/tiling
@@ -919,6 +922,7 @@ https://fal.ai/models/fal-ai/sam-3/video-rle
 https://fal.ai/models/fal-ai/sam-3/video-rle/api
 https://fal.ai/models/fal-ai/sam-3/video
 https://fal.ai/models/fal-ai/sam-3/video/api
+https://fal.ai/models/fal-ai/sam-3/video/examples
 https://fal.ai/models/fal-ai/sam-3/image
 https://fal.ai/models/fal-ai/sam-3/image/api
 https://fal.ai/models/fal-ai/gemini-3-pro-image-preview/edit
