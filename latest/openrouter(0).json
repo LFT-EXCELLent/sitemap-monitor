@@ -226,6 +226,7 @@ https://openrouter.ai/openai/gpt-audio
 https://openrouter.ai/allenai/olmo-3.1-32b-think
 https://openrouter.ai/z-ai/glm-4.5v
 https://openrouter.ai/meta-llama/llama-4-maverick
+https://openrouter.ai/moonshotai/kimi-k2.5
 https://openrouter.ai/x-ai/grok-4
 https://openrouter.ai/deepseek/deepseek-r1-distill-llama-70b
 https://openrouter.ai/openai/o3-pro
@@ -240,6 +241,7 @@ https://openrouter.ai/openai/gpt-5-codex
 https://openrouter.ai/nvidia/nemotron-3-nano-30b-a3b:free
 https://openrouter.ai/perplexity/sonar
 https://openrouter.ai/mistralai/mistral-small-24b-instruct-2501
+https://openrouter.ai/mistralai/mistral-small-3.1-24b-instruct
 https://openrouter.ai/perplexity/sonar-pro
 https://openrouter.ai/cohere/command-a
 https://openrouter.ai/moonshotai/kimi-k2
@@ -289,7 +291,6 @@ https://openrouter.ai/arcee-ai/trinity-mini:free
 https://openrouter.ai/sentence-transformers/multi-qa-mpnet-base-dot-v1
 https://openrouter.ai/aion-labs/aion-1.0
 https://openrouter.ai/baai/bge-base-en-v1.5
-https://openrouter.ai/moonshotai/kimi-k2.5
 https://openrouter.ai/qwen/qwen-2.5-vl-7b-instruct
 https://openrouter.ai/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/qwen/qwen3-vl-30b-a3b-thinking
@@ -314,7 +315,6 @@ https://openrouter.ai/undi95/remm-slerp-l2-13b
 https://openrouter.ai/openai/o3-mini
 https://openrouter.ai/inception/mercury-coder
 https://openrouter.ai/prime-intellect/intellect-3
-https://openrouter.ai/mistralai/mistral-small-3.1-24b-instruct
 https://openrouter.ai/mistralai/mistral-large-2411
 https://openrouter.ai/deepseek/deepseek-v3.2
 https://openrouter.ai/google/gemma-3n-e4b-it:free
@@ -456,10 +456,10 @@ https://openrouter.ai/google/gemini-2.5-pro-preview
 https://openrouter.ai/liquid/lfm-2-24b-a2b
 https://openrouter.ai/google/gemini-2.5-flash-lite-preview-09-2025
 https://openrouter.ai/google/gemini-3.1-flash-lite-preview
+https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b
 https://openrouter.ai/deepseek/deepseek-r1-distill-qwen-32b
 https://openrouter.ai/x-ai/grok-4.20-beta
 https://openrouter.ai/z-ai/glm-5-turbo
-https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b
 https://openrouter.ai/qwen/qwen3.5-9b
 https://openrouter.ai/bytedance-seed/seed-2.0-lite
 https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b:free
@@ -678,6 +678,7 @@ https://openrouter.ai/provider/perplexity
 https://openrouter.ai/provider/phala
 https://openrouter.ai/provider/recursal
 https://openrouter.ai/provider/reflection
+https://openrouter.ai/provider/reka
 https://openrouter.ai/provider/relace
 https://openrouter.ai/provider/replicate
 https://openrouter.ai/provider/sambanova
