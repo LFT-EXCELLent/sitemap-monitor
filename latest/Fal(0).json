@@ -155,6 +155,10 @@ https://fal.ai/learn
 https://fal.ai/onboarding/business
 https://fal.ai/onboarding/complete
 https://fal.ai/onboarding
+https://fal.ai/models/fal-ai/seedvr/upscale/image/seamless
+https://fal.ai/models/fal-ai/seedvr/upscale/image/seamless/api
+https://fal.ai/models/fal-ai/gemini-tts
+https://fal.ai/models/fal-ai/gemini-tts/api
 https://fal.ai/models/fal-ai/flux-2/klein/9b/edit/lora
 https://fal.ai/models/fal-ai/flux-2/klein/9b/edit/lora/api
 https://fal.ai/models/fal-ai/flux-2/klein/9b/lora
@@ -336,6 +340,9 @@ https://fal.ai/models/fal-ai/workflow-utilities/blend-video
 https://fal.ai/models/fal-ai/workflow-utilities/blend-video/api
 https://fal.ai/models/fal-ai/workflow-utilities/audio-compressor
 https://fal.ai/models/fal-ai/workflow-utilities/audio-compressor/api
+https://fal.ai/models/fal-ai/kling-video/o3/pro/image-to-video
+https://fal.ai/models/fal-ai/kling-video/o3/pro/image-to-video/api
+https://fal.ai/models/fal-ai/kling-video/o3/pro/image-to-video/examples
 https://fal.ai/models/fal-ai/kling-video/o3/pro/text-to-video
 https://fal.ai/models/fal-ai/kling-video/o3/pro/text-to-video/api
 https://fal.ai/models/fal-ai/kling-video/o3/standard/text-to-video
@@ -355,8 +362,6 @@ https://fal.ai/models/fal-ai/kling-video/v3/standard/image-to-video/api
 https://fal.ai/models/fal-ai/kling-video/v3/standard/image-to-video/examples
 https://fal.ai/models/fal-ai/kling-video/v3/pro/text-to-video
 https://fal.ai/models/fal-ai/kling-video/v3/pro/text-to-video/api
-https://fal.ai/models/fal-ai/kling-video/o3/pro/image-to-video
-https://fal.ai/models/fal-ai/kling-video/o3/pro/image-to-video/api
 https://fal.ai/models/fal-ai/kling-video/o3/pro/reference-to-video
 https://fal.ai/models/fal-ai/kling-video/o3/pro/reference-to-video/api
 https://fal.ai/models/fal-ai/kling-video/o3/standard/video-to-video/reference
