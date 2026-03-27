@@ -750,6 +750,7 @@ https://openrouter.ai/docs/guides/features/zero-completion-insurance
 https://openrouter.ai/docs/guides/features/zdr
 https://openrouter.ai/docs/app-attribution
 https://openrouter.ai/docs/guides/features/guardrails
+https://openrouter.ai/docs/guides/features/service-tiers
 https://openrouter.ai/docs/guides/features/broadcast/overview
 https://openrouter.ai/docs/guides/features/broadcast/arize
 https://openrouter.ai/docs/guides/features/broadcast/braintrust
@@ -870,6 +871,7 @@ https://openrouter.ai/docs/sdks/typescript/call-model/streaming
 https://openrouter.ai/docs/sdks/typescript/call-model/text-generation
 https://openrouter.ai/docs/sdks/typescript/call-model/message-formats
 https://openrouter.ai/docs/sdks/typescript/call-model/tools
+https://openrouter.ai/docs/sdks/typescript/call-model/tool-approval-state
 https://openrouter.ai/docs/sdks/typescript/call-model/examples/weather-tool
 https://openrouter.ai/docs/sdks/typescript/call-model/examples/skills-loader
 https://openrouter.ai/docs/sdks/typescript/api-reference/analytics
