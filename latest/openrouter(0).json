@@ -24,14 +24,13 @@ https://openrouter.ai/apps?url=https%3A%2F%2Fkilocode.ai%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fclaude.ai%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fcline.bot%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fblackbox.ai%2F
-https://openrouter.ai/apps?url=https%3A%2F%2Fgithub.com%2FRooVetGit%2FRoo-Cline
+https://openrouter.ai/apps?url=https%3A%2F%2Fhermes-agent.nousresearch.com%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fdescript.com%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fvidmuse.ai%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fnovelcrafter.com%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fwww.coffeecatai.com%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Ffish.audio%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fopenclaw.ai%2F
-https://openrouter.ai/apps?url=https%3A%2F%2Fhermes-agent.nousresearch.com%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fgobii.ai%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fopenwebui.com%2F
 https://openrouter.ai/apps?url=https%3A%2F%2Fbuddypro.ai%2F
@@ -895,6 +894,7 @@ https://openrouter.ai/docs/sdks/typescript/api-reference/generations
 https://openrouter.ai/docs/sdks/typescript/api-reference/guardrails
 https://openrouter.ai/docs/sdks/typescript/api-reference/models/models
 https://openrouter.ai/docs/sdks/typescript/api-reference/oauth
+https://openrouter.ai/docs/sdks/typescript/api-reference/organization
 https://openrouter.ai/docs/sdks/typescript/api-reference/providers
 https://openrouter.ai/docs/sdks/typescript/api-reference/responses
 https://openrouter.ai/docs/sdks/python/overview
@@ -908,6 +908,7 @@ https://openrouter.ai/docs/sdks/python/api-reference/generations
 https://openrouter.ai/docs/sdks/python/api-reference/guardrails
 https://openrouter.ai/docs/sdks/python/api-reference/models/models
 https://openrouter.ai/docs/sdks/python/api-reference/oauth
+https://openrouter.ai/docs/sdks/python/api-reference/organization
 https://openrouter.ai/docs/sdks/python/api-reference/providers
 https://openrouter.ai/docs/sdks/python/api-reference/responses
 https://openrouter.ai/docs/sdks/agent-migration
