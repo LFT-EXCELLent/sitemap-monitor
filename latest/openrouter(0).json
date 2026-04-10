@@ -194,7 +194,6 @@ https://openrouter.ai/google/gemini-3-flash-preview
 https://openrouter.ai/google/gemini-2.5-flash-image
 https://openrouter.ai/amazon/nova-lite-v1
 https://openrouter.ai/qwen/qwen3.5-27b
-https://openrouter.ai/arcee-ai/trinity-large-thinking
 https://openrouter.ai/google/gemma-3-12b-it
 https://openrouter.ai/qwen/qwen3-max
 https://openrouter.ai/moonshotai/kimi-k2-0905
@@ -407,6 +406,7 @@ https://openrouter.ai/mistralai/voxtral-small-24b-2507
 https://openrouter.ai/cognitivecomputations/dolphin-mistral-24b-venice-edition:free
 https://openrouter.ai/mistralai/codestral-2508
 https://openrouter.ai/mistralai/mistral-embed-2312
+https://openrouter.ai/arcee-ai/trinity-large-thinking
 https://openrouter.ai/qwen/qwen3-vl-32b-instruct
 https://openrouter.ai/qwen/qwen3-vl-8b-thinking
 https://openrouter.ai/openai/o3-deep-research
@@ -441,7 +441,6 @@ https://openrouter.ai/liquid/lfm-2-24b-a2b
 https://openrouter.ai/nousresearch/hermes-2-pro-llama-3-8b
 https://openrouter.ai/google/gemini-2.5-pro-preview-05-06
 https://openrouter.ai/nvidia/nemotron-nano-12b-v2-vl
-https://openrouter.ai/arcee-ai/trinity-mini:free
 https://openrouter.ai/sentence-transformers/all-minilm-l12-v2
 https://openrouter.ai/sentence-transformers/paraphrase-minilm-l6-v2
 https://openrouter.ai/google/gemini-3.1-flash-lite-preview
