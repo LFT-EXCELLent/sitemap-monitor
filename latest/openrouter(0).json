@@ -138,7 +138,6 @@ https://openrouter.ai/openai/o1-pro
 https://openrouter.ai/qwen/qwen3-30b-a3b-instruct-2507
 https://openrouter.ai/bytedance/ui-tars-1.5-7b
 https://openrouter.ai/qwen/qwen3-next-80b-a3b-instruct
-https://openrouter.ai/allenai/olmo-2-0325-32b-instruct
 https://openrouter.ai/z-ai/glm-4.5
 https://openrouter.ai/google/gemma-3n-e2b-it:free
 https://openrouter.ai/x-ai/grok-3-mini
@@ -198,6 +197,7 @@ https://openrouter.ai/amazon/nova-lite-v1
 https://openrouter.ai/qwen/qwen3.5-27b
 https://openrouter.ai/google/gemma-3-12b-it
 https://openrouter.ai/openai/gpt-3.5-turbo-0613
+https://openrouter.ai/qwen/qwen3.5-397b-a17b
 https://openrouter.ai/qwen/qwen3-max
 https://openrouter.ai/moonshotai/kimi-k2-0905
 https://openrouter.ai/z-ai/glm-5
@@ -212,7 +212,6 @@ https://openrouter.ai/openai/gpt-audio-mini
 https://openrouter.ai/openai/gpt-audio
 https://openrouter.ai/qwen/qwen3-coder
 https://openrouter.ai/meta-llama/llama-4-maverick
-https://openrouter.ai/deepseek/deepseek-r1-distill-llama-70b
 https://openrouter.ai/openai/o3-pro
 https://openrouter.ai/deepseek/deepseek-v3.2
 https://openrouter.ai/relace/relace-apply-3
@@ -313,7 +312,7 @@ https://openrouter.ai/x-ai/grok-3-mini-beta
 https://openrouter.ai/openai/o4-mini
 https://openrouter.ai/mistralai/pixtral-large-2411
 https://openrouter.ai/baidu/ernie-4.5-21b-a3b-thinking
-https://openrouter.ai/qwen/qwen3.5-397b-a17b
+https://openrouter.ai/deepseek/deepseek-r1-distill-llama-70b
 https://openrouter.ai/openai/gpt-5.1
 https://openrouter.ai/qwen/qwen3-8b
 https://openrouter.ai/openai/o3
@@ -474,6 +473,7 @@ https://openrouter.ai/bytedance/seedance-1-5-pro
 https://openrouter.ai/bytedance/seedance-2.0
 https://openrouter.ai/openai/gpt-oss-20b:free
 https://openrouter.ai/bytedance/seedance-2.0-fast
+https://openrouter.ai/anthropic/claude-opus-4.7
 https://openrouter.ai/xwin-lm
 https://openrouter.ai/upstage
 https://openrouter.ai/anthracite-org
@@ -803,6 +803,7 @@ https://openrouter.ai/docs/guides/coding-agents/junie
 https://openrouter.ai/docs/guides/coding-agents/mcp-servers
 https://openrouter.ai/docs/guides/coding-agents/openclaw-integration
 https://openrouter.ai/docs/guides/evaluate-and-optimize/distillation
+https://openrouter.ai/docs/guides/evaluate-and-optimize/model-migrations/claude-4-7
 https://openrouter.ai/docs/guides/evaluate-and-optimize/model-migrations/claude-4-6
 https://openrouter.ai/docs/guides/evaluate-and-optimize/model-migrations/gpt-5-4
 https://openrouter.ai/docs/guides/evaluate-and-optimize/rag
@@ -811,6 +812,7 @@ https://openrouter.ai/docs/guides/get-started/enterprise-quickstart
 https://openrouter.ai/docs/guides/get-started/for-providers
 https://openrouter.ai/docs/guides/get-started/free-models-router-playground
 https://openrouter.ai/docs/guides/get-started/sovereign-ai
+https://openrouter.ai/docs/guides/get-started/stripe-projects
 https://openrouter.ai/docs/guides/community/frameworks-and-integrations-overview
 https://openrouter.ai/docs/guides/community/awesome-openrouter
 https://openrouter.ai/docs/guides/community/effect-ai-sdk
@@ -1035,8 +1037,8 @@ https://openrouter.ai/compare/morph/morph-v3-large/morph/morph-v3-fast
 https://openrouter.ai/compare/meta-llama/llama-4-maverick/meta-llama/llama-4-scout
 https://openrouter.ai/compare/sao10k/l3.1-70b-hanami-x1/sao10k/l3.1-euryale-70b
 https://openrouter.ai/compare/inflection/inflection-3-pi/inflection/inflection-3-productivity
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/anthropic/claude-opus-4.6
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/anthropic/claude-sonnet-4.5
-https://openrouter.ai/compare/anthropic/claude-opus-4.6/anthropic/claude-opus-4.5
 https://openrouter.ai/compare/z-ai/glm-5.1/z-ai/glm-5
 https://openrouter.ai/compare/x-ai/grok-4.20/x-ai/grok-4
 https://openrouter.ai/compare/minimax/minimax-m2.7/minimax/minimax-m2.5
@@ -1067,6 +1069,74 @@ https://openrouter.ai/compare/mistralai/mistral-small-3.2-24b-instruct/mistralai
 https://openrouter.ai/compare/meta-llama/llama-3.3-70b-instruct/meta-llama/llama-3.1-70b-instruct
 https://openrouter.ai/compare/meta-llama/llama-3.1-8b-instruct/meta-llama/llama-3-8b-instruct
 https://openrouter.ai/compare/sao10k/l3.3-euryale-70b/sao10k/l3.1-euryale-70b
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/openrouter/elephant-alpha
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/z-ai/glm-5.1
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/google/gemma-4-26b-a4b-it
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/google/gemma-4-31b-it
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/qwen/qwen3.6-plus
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/z-ai/glm-5v-turbo
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/arcee-ai/trinity-large-thinking
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/x-ai/grok-4.20-multi-agent
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/x-ai/grok-4.20
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/google/lyria-3-pro-preview
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/google/lyria-3-clip-preview
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/kwaipilot/kat-coder-pro-v2
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/rekaai/reka-edge
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/xiaomi/mimo-v2-omni
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/xiaomi/mimo-v2-pro
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/minimax/minimax-m2.7
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/openai/gpt-5.4-nano
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/openai/gpt-5.4-mini
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/mistralai/mistral-small-2603
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/z-ai/glm-5-turbo
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/nvidia/nemotron-3-super-120b-a12b
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/bytedance-seed/seed-2.0-lite
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/qwen/qwen3.5-9b
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/openai/gpt-5.4-pro
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/openai/gpt-5.4
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/inception/mercury-2
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/openai/gpt-5.3-chat
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/google/gemini-3.1-flash-lite-preview
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/bytedance-seed/seed-2.0-mini
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/google/gemini-3.1-flash-image-preview
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/qwen/qwen3.5-35b-a3b
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/qwen/qwen3.5-27b
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/qwen/qwen3.5-122b-a10b
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/qwen/qwen3.5-flash-02-23
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/liquid/lfm-2-24b-a2b
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/google/gemini-3.1-pro-preview-customtools
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/openai/gpt-5.3-codex
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/aion-labs/aion-2.0
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/google/gemini-3.1-pro-preview
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/qwen/qwen3.5-plus-02-15
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/qwen/qwen3.5-397b-a17b
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/minimax/minimax-m2.5
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/z-ai/glm-5
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/qwen/qwen3-max-thinking
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/qwen/qwen3-coder-next
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/stepfun/step-3.5-flash
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/arcee-ai/trinity-large-preview
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/mistralai/mistral-small-creative
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/nvidia/nemotron-3-nano-30b-a3b
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/amazon/nova-2-lite-v1
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/amazon/nova-premier-v1
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/deepseek/deepseek-v3.2-speciale
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/deepseek/deepseek-v3.2
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/perplexity/sonar-pro-search
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/perplexity/sonar-reasoning-pro
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/baidu/ernie-4.5-21b-a3b-thinking
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/baidu/ernie-4.5-21b-a3b
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/nousresearch/hermes-4-70b
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/nousresearch/hermes-4-405b
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/meta-llama/llama-guard-4-12b
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/meta-llama/llama-4-maverick
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/cohere/command-a
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/cohere/command-r7b-12-2024
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/moonshotai/kimi-k2.5
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/thedrummer/cydonia-24b-v4.1
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/alibaba/tongyi-deepresearch-30b-a3b
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/bytedance/ui-tars-1.5-7b
+https://openrouter.ai/compare/anthropic/claude-opus-4.7/sao10k/l3.1-70b-hanami-x1
 https://openrouter.ai/compare/openrouter/elephant-alpha/anthropic/claude-opus-4.6-fast
 https://openrouter.ai/compare/openrouter/elephant-alpha/z-ai/glm-5.1
 https://openrouter.ai/compare/openrouter/elephant-alpha/google/gemma-4-26b-a4b-it
@@ -1133,7 +1203,6 @@ https://openrouter.ai/compare/openrouter/elephant-alpha/meta-llama/llama-4-maver
 https://openrouter.ai/compare/openrouter/elephant-alpha/cohere/command-a
 https://openrouter.ai/compare/openrouter/elephant-alpha/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/openrouter/elephant-alpha/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/openrouter/elephant-alpha/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/openrouter/elephant-alpha/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/openrouter/elephant-alpha/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/openrouter/elephant-alpha/bytedance/ui-tars-1.5-7b
@@ -1201,7 +1270,6 @@ https://openrouter.ai/compare/anthropic/claude-opus-4.6-fast/meta-llama/llama-4-
 https://openrouter.ai/compare/anthropic/claude-opus-4.6-fast/cohere/command-a
 https://openrouter.ai/compare/anthropic/claude-opus-4.6-fast/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/anthropic/claude-opus-4.6-fast/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/anthropic/claude-opus-4.6-fast/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/anthropic/claude-opus-4.6-fast/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/anthropic/claude-opus-4.6-fast/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/anthropic/claude-opus-4.6-fast/bytedance/ui-tars-1.5-7b
@@ -1267,7 +1335,6 @@ https://openrouter.ai/compare/z-ai/glm-5.1/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/z-ai/glm-5.1/cohere/command-a
 https://openrouter.ai/compare/z-ai/glm-5.1/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/z-ai/glm-5.1/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/z-ai/glm-5.1/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/z-ai/glm-5.1/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/z-ai/glm-5.1/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/z-ai/glm-5.1/bytedance/ui-tars-1.5-7b
@@ -1328,7 +1395,6 @@ https://openrouter.ai/compare/google/gemma-4-26b-a4b-it/meta-llama/llama-4-maver
 https://openrouter.ai/compare/google/gemma-4-26b-a4b-it/cohere/command-a
 https://openrouter.ai/compare/google/gemma-4-26b-a4b-it/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/google/gemma-4-26b-a4b-it/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/google/gemma-4-26b-a4b-it/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/google/gemma-4-26b-a4b-it/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/google/gemma-4-26b-a4b-it/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/google/gemma-4-26b-a4b-it/bytedance/ui-tars-1.5-7b
@@ -1389,7 +1455,6 @@ https://openrouter.ai/compare/google/gemma-4-31b-it/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/google/gemma-4-31b-it/cohere/command-a
 https://openrouter.ai/compare/google/gemma-4-31b-it/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/google/gemma-4-31b-it/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/google/gemma-4-31b-it/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/google/gemma-4-31b-it/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/google/gemma-4-31b-it/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/google/gemma-4-31b-it/bytedance/ui-tars-1.5-7b
@@ -1446,7 +1511,6 @@ https://openrouter.ai/compare/qwen/qwen3.6-plus/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/qwen/qwen3.6-plus/cohere/command-a
 https://openrouter.ai/compare/qwen/qwen3.6-plus/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/qwen/qwen3.6-plus/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/qwen/qwen3.6-plus/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/qwen/qwen3.6-plus/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/qwen/qwen3.6-plus/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/qwen/qwen3.6-plus/bytedance/ui-tars-1.5-7b
@@ -1509,7 +1573,6 @@ https://openrouter.ai/compare/z-ai/glm-5v-turbo/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/z-ai/glm-5v-turbo/cohere/command-a
 https://openrouter.ai/compare/z-ai/glm-5v-turbo/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/z-ai/glm-5v-turbo/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/z-ai/glm-5v-turbo/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/z-ai/glm-5v-turbo/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/z-ai/glm-5v-turbo/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/z-ai/glm-5v-turbo/bytedance/ui-tars-1.5-7b
@@ -1572,7 +1635,6 @@ https://openrouter.ai/compare/arcee-ai/trinity-large-thinking/meta-llama/llama-4
 https://openrouter.ai/compare/arcee-ai/trinity-large-thinking/cohere/command-a
 https://openrouter.ai/compare/arcee-ai/trinity-large-thinking/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/arcee-ai/trinity-large-thinking/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/arcee-ai/trinity-large-thinking/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/arcee-ai/trinity-large-thinking/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/arcee-ai/trinity-large-thinking/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/arcee-ai/trinity-large-thinking/bytedance/ui-tars-1.5-7b
@@ -1634,7 +1696,6 @@ https://openrouter.ai/compare/x-ai/grok-4.20-multi-agent/meta-llama/llama-4-mave
 https://openrouter.ai/compare/x-ai/grok-4.20-multi-agent/cohere/command-a
 https://openrouter.ai/compare/x-ai/grok-4.20-multi-agent/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/x-ai/grok-4.20-multi-agent/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/x-ai/grok-4.20-multi-agent/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/x-ai/grok-4.20-multi-agent/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/x-ai/grok-4.20-multi-agent/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/x-ai/grok-4.20-multi-agent/bytedance/ui-tars-1.5-7b
@@ -1696,7 +1757,6 @@ https://openrouter.ai/compare/x-ai/grok-4.20/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/x-ai/grok-4.20/cohere/command-a
 https://openrouter.ai/compare/x-ai/grok-4.20/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/x-ai/grok-4.20/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/x-ai/grok-4.20/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/x-ai/grok-4.20/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/x-ai/grok-4.20/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/x-ai/grok-4.20/bytedance/ui-tars-1.5-7b
@@ -1752,7 +1812,6 @@ https://openrouter.ai/compare/google/lyria-3-pro-preview/meta-llama/llama-4-mave
 https://openrouter.ai/compare/google/lyria-3-pro-preview/cohere/command-a
 https://openrouter.ai/compare/google/lyria-3-pro-preview/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/google/lyria-3-pro-preview/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/google/lyria-3-pro-preview/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/google/lyria-3-pro-preview/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/google/lyria-3-pro-preview/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/google/lyria-3-pro-preview/bytedance/ui-tars-1.5-7b
@@ -1808,7 +1867,6 @@ https://openrouter.ai/compare/google/lyria-3-clip-preview/meta-llama/llama-4-mav
 https://openrouter.ai/compare/google/lyria-3-clip-preview/cohere/command-a
 https://openrouter.ai/compare/google/lyria-3-clip-preview/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/google/lyria-3-clip-preview/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/google/lyria-3-clip-preview/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/google/lyria-3-clip-preview/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/google/lyria-3-clip-preview/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/google/lyria-3-clip-preview/bytedance/ui-tars-1.5-7b
@@ -1867,7 +1925,6 @@ https://openrouter.ai/compare/kwaipilot/kat-coder-pro-v2/meta-llama/llama-4-mave
 https://openrouter.ai/compare/kwaipilot/kat-coder-pro-v2/cohere/command-a
 https://openrouter.ai/compare/kwaipilot/kat-coder-pro-v2/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/kwaipilot/kat-coder-pro-v2/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/kwaipilot/kat-coder-pro-v2/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/kwaipilot/kat-coder-pro-v2/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/kwaipilot/kat-coder-pro-v2/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/kwaipilot/kat-coder-pro-v2/bytedance/ui-tars-1.5-7b
@@ -1925,7 +1982,6 @@ https://openrouter.ai/compare/rekaai/reka-edge/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/rekaai/reka-edge/cohere/command-a
 https://openrouter.ai/compare/rekaai/reka-edge/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/rekaai/reka-edge/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/rekaai/reka-edge/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/rekaai/reka-edge/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/rekaai/reka-edge/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/rekaai/reka-edge/bytedance/ui-tars-1.5-7b
@@ -1981,7 +2037,6 @@ https://openrouter.ai/compare/xiaomi/mimo-v2-omni/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/xiaomi/mimo-v2-omni/cohere/command-a
 https://openrouter.ai/compare/xiaomi/mimo-v2-omni/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/xiaomi/mimo-v2-omni/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/xiaomi/mimo-v2-omni/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/xiaomi/mimo-v2-omni/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/xiaomi/mimo-v2-omni/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/xiaomi/mimo-v2-omni/bytedance/ui-tars-1.5-7b
@@ -2037,7 +2092,6 @@ https://openrouter.ai/compare/xiaomi/mimo-v2-pro/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/xiaomi/mimo-v2-pro/cohere/command-a
 https://openrouter.ai/compare/xiaomi/mimo-v2-pro/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/xiaomi/mimo-v2-pro/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/xiaomi/mimo-v2-pro/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/xiaomi/mimo-v2-pro/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/xiaomi/mimo-v2-pro/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/xiaomi/mimo-v2-pro/bytedance/ui-tars-1.5-7b
@@ -2091,7 +2145,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.7/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/minimax/minimax-m2.7/cohere/command-a
 https://openrouter.ai/compare/minimax/minimax-m2.7/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/minimax/minimax-m2.7/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/minimax/minimax-m2.7/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/minimax/minimax-m2.7/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/minimax/minimax-m2.7/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/minimax/minimax-m2.7/bytedance/ui-tars-1.5-7b
@@ -2140,7 +2193,6 @@ https://openrouter.ai/compare/openai/gpt-5.4-nano/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/openai/gpt-5.4-nano/cohere/command-a
 https://openrouter.ai/compare/openai/gpt-5.4-nano/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/openai/gpt-5.4-nano/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/openai/gpt-5.4-nano/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/openai/gpt-5.4-nano/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/openai/gpt-5.4-nano/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/openai/gpt-5.4-nano/bytedance/ui-tars-1.5-7b
@@ -2189,7 +2241,6 @@ https://openrouter.ai/compare/openai/gpt-5.4-mini/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/openai/gpt-5.4-mini/cohere/command-a
 https://openrouter.ai/compare/openai/gpt-5.4-mini/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/openai/gpt-5.4-mini/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/openai/gpt-5.4-mini/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/openai/gpt-5.4-mini/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/openai/gpt-5.4-mini/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/openai/gpt-5.4-mini/bytedance/ui-tars-1.5-7b
@@ -2240,7 +2291,6 @@ https://openrouter.ai/compare/mistralai/mistral-small-2603/meta-llama/llama-4-ma
 https://openrouter.ai/compare/mistralai/mistral-small-2603/cohere/command-a
 https://openrouter.ai/compare/mistralai/mistral-small-2603/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/mistralai/mistral-small-2603/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/mistralai/mistral-small-2603/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/mistralai/mistral-small-2603/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/mistralai/mistral-small-2603/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/mistralai/mistral-small-2603/bytedance/ui-tars-1.5-7b
@@ -2290,7 +2340,6 @@ https://openrouter.ai/compare/z-ai/glm-5-turbo/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/z-ai/glm-5-turbo/cohere/command-a
 https://openrouter.ai/compare/z-ai/glm-5-turbo/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/z-ai/glm-5-turbo/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/z-ai/glm-5-turbo/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/z-ai/glm-5-turbo/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/z-ai/glm-5-turbo/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/z-ai/glm-5-turbo/bytedance/ui-tars-1.5-7b
@@ -2339,7 +2388,6 @@ https://openrouter.ai/compare/nvidia/nemotron-3-super-120b-a12b/meta-llama/llama
 https://openrouter.ai/compare/nvidia/nemotron-3-super-120b-a12b/cohere/command-a
 https://openrouter.ai/compare/nvidia/nemotron-3-super-120b-a12b/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/nvidia/nemotron-3-super-120b-a12b/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/nvidia/nemotron-3-super-120b-a12b/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/nvidia/nemotron-3-super-120b-a12b/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/nvidia/nemotron-3-super-120b-a12b/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/nvidia/nemotron-3-super-120b-a12b/bytedance/ui-tars-1.5-7b
@@ -2387,7 +2435,6 @@ https://openrouter.ai/compare/bytedance-seed/seed-2.0-lite/meta-llama/llama-4-ma
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-lite/cohere/command-a
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-lite/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-lite/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/bytedance-seed/seed-2.0-lite/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-lite/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-lite/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-lite/bytedance/ui-tars-1.5-7b
@@ -2427,7 +2474,6 @@ https://openrouter.ai/compare/qwen/qwen3.5-9b/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/qwen/qwen3.5-9b/cohere/command-a
 https://openrouter.ai/compare/qwen/qwen3.5-9b/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/qwen/qwen3.5-9b/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/qwen/qwen3.5-9b/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/qwen/qwen3.5-9b/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/qwen/qwen3.5-9b/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/qwen/qwen3.5-9b/bytedance/ui-tars-1.5-7b
@@ -2471,7 +2517,6 @@ https://openrouter.ai/compare/openai/gpt-5.4-pro/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/openai/gpt-5.4-pro/cohere/command-a
 https://openrouter.ai/compare/openai/gpt-5.4-pro/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/openai/gpt-5.4-pro/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/openai/gpt-5.4-pro/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/openai/gpt-5.4-pro/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/openai/gpt-5.4-pro/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/openai/gpt-5.4-pro/bytedance/ui-tars-1.5-7b
@@ -2515,7 +2560,6 @@ https://openrouter.ai/compare/openai/gpt-5.4/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/openai/gpt-5.4/cohere/command-a
 https://openrouter.ai/compare/openai/gpt-5.4/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/openai/gpt-5.4/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/openai/gpt-5.4/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/openai/gpt-5.4/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/openai/gpt-5.4/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/openai/gpt-5.4/bytedance/ui-tars-1.5-7b
@@ -2560,7 +2604,6 @@ https://openrouter.ai/compare/inception/mercury-2/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/inception/mercury-2/cohere/command-a
 https://openrouter.ai/compare/inception/mercury-2/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/inception/mercury-2/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/inception/mercury-2/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/inception/mercury-2/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/inception/mercury-2/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/inception/mercury-2/bytedance/ui-tars-1.5-7b
@@ -2603,7 +2646,6 @@ https://openrouter.ai/compare/openai/gpt-5.3-chat/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/openai/gpt-5.3-chat/cohere/command-a
 https://openrouter.ai/compare/openai/gpt-5.3-chat/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/openai/gpt-5.3-chat/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/openai/gpt-5.3-chat/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/openai/gpt-5.3-chat/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/openai/gpt-5.3-chat/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/openai/gpt-5.3-chat/bytedance/ui-tars-1.5-7b
@@ -2643,7 +2685,6 @@ https://openrouter.ai/compare/google/gemini-3.1-flash-lite-preview/meta-llama/ll
 https://openrouter.ai/compare/google/gemini-3.1-flash-lite-preview/cohere/command-a
 https://openrouter.ai/compare/google/gemini-3.1-flash-lite-preview/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/google/gemini-3.1-flash-lite-preview/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/google/gemini-3.1-flash-lite-preview/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/google/gemini-3.1-flash-lite-preview/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/google/gemini-3.1-flash-lite-preview/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/google/gemini-3.1-flash-lite-preview/bytedance/ui-tars-1.5-7b
@@ -2685,7 +2726,6 @@ https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/meta-llama/llama-4-ma
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/cohere/command-a
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/bytedance-seed/seed-2.0-mini/bytedance/ui-tars-1.5-7b
@@ -2724,7 +2764,6 @@ https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/meta-llama/l
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/cohere/command-a
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/google/gemini-3.1-flash-image-preview/bytedance/ui-tars-1.5-7b
@@ -2757,7 +2796,6 @@ https://openrouter.ai/compare/qwen/qwen3.5-35b-a3b/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/qwen/qwen3.5-35b-a3b/cohere/command-a
 https://openrouter.ai/compare/qwen/qwen3.5-35b-a3b/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/qwen/qwen3.5-35b-a3b/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/qwen/qwen3.5-35b-a3b/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/qwen/qwen3.5-35b-a3b/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/qwen/qwen3.5-35b-a3b/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/qwen/qwen3.5-35b-a3b/bytedance/ui-tars-1.5-7b
@@ -2790,7 +2828,6 @@ https://openrouter.ai/compare/qwen/qwen3.5-27b/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/qwen/qwen3.5-27b/cohere/command-a
 https://openrouter.ai/compare/qwen/qwen3.5-27b/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/qwen/qwen3.5-27b/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/qwen/qwen3.5-27b/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/qwen/qwen3.5-27b/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/qwen/qwen3.5-27b/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/qwen/qwen3.5-27b/bytedance/ui-tars-1.5-7b
@@ -2823,7 +2860,6 @@ https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/cohere/command-a
 https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b/bytedance/ui-tars-1.5-7b
@@ -2856,7 +2892,6 @@ https://openrouter.ai/compare/qwen/qwen3.5-flash-02-23/meta-llama/llama-4-maveri
 https://openrouter.ai/compare/qwen/qwen3.5-flash-02-23/cohere/command-a
 https://openrouter.ai/compare/qwen/qwen3.5-flash-02-23/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/qwen/qwen3.5-flash-02-23/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/qwen/qwen3.5-flash-02-23/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/qwen/qwen3.5-flash-02-23/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/qwen/qwen3.5-flash-02-23/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/qwen/qwen3.5-flash-02-23/bytedance/ui-tars-1.5-7b
@@ -2892,7 +2927,6 @@ https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/cohere/command-a
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b/bytedance/ui-tars-1.5-7b
@@ -2926,7 +2960,6 @@ https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/meta-lla
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/cohere/command-a
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools/bytedance/ui-tars-1.5-7b
@@ -2960,7 +2993,6 @@ https://openrouter.ai/compare/openai/gpt-5.3-codex/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/openai/gpt-5.3-codex/cohere/command-a
 https://openrouter.ai/compare/openai/gpt-5.3-codex/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/openai/gpt-5.3-codex/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/openai/gpt-5.3-codex/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/openai/gpt-5.3-codex/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/openai/gpt-5.3-codex/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/openai/gpt-5.3-codex/bytedance/ui-tars-1.5-7b
@@ -2993,7 +3025,6 @@ https://openrouter.ai/compare/aion-labs/aion-2.0/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/aion-labs/aion-2.0/cohere/command-a
 https://openrouter.ai/compare/aion-labs/aion-2.0/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/aion-labs/aion-2.0/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/aion-labs/aion-2.0/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/aion-labs/aion-2.0/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/aion-labs/aion-2.0/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/aion-labs/aion-2.0/bytedance/ui-tars-1.5-7b
@@ -3025,7 +3056,6 @@ https://openrouter.ai/compare/google/gemini-3.1-pro-preview/meta-llama/llama-4-m
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/cohere/command-a
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/google/gemini-3.1-pro-preview/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview/bytedance/ui-tars-1.5-7b
@@ -3055,7 +3085,6 @@ https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/meta-llama/llama-4-mav
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/cohere/command-a
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/anthropic/claude-sonnet-4.6/bytedance/ui-tars-1.5-7b
@@ -3082,7 +3111,6 @@ https://openrouter.ai/compare/qwen/qwen3.5-plus-02-15/meta-llama/llama-4-maveric
 https://openrouter.ai/compare/qwen/qwen3.5-plus-02-15/cohere/command-a
 https://openrouter.ai/compare/qwen/qwen3.5-plus-02-15/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/qwen/qwen3.5-plus-02-15/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/qwen/qwen3.5-plus-02-15/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/qwen/qwen3.5-plus-02-15/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/qwen/qwen3.5-plus-02-15/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/qwen/qwen3.5-plus-02-15/bytedance/ui-tars-1.5-7b
@@ -3109,7 +3137,6 @@ https://openrouter.ai/compare/qwen/qwen3.5-397b-a17b/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/qwen/qwen3.5-397b-a17b/cohere/command-a
 https://openrouter.ai/compare/qwen/qwen3.5-397b-a17b/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/qwen/qwen3.5-397b-a17b/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/qwen/qwen3.5-397b-a17b/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/qwen/qwen3.5-397b-a17b/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/qwen/qwen3.5-397b-a17b/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/qwen/qwen3.5-397b-a17b/bytedance/ui-tars-1.5-7b
@@ -3137,7 +3164,6 @@ https://openrouter.ai/compare/minimax/minimax-m2.5/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/minimax/minimax-m2.5/cohere/command-a
 https://openrouter.ai/compare/minimax/minimax-m2.5/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/minimax/minimax-m2.5/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/minimax/minimax-m2.5/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/minimax/minimax-m2.5/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/minimax/minimax-m2.5/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/minimax/minimax-m2.5/bytedance/ui-tars-1.5-7b
@@ -3164,7 +3190,6 @@ https://openrouter.ai/compare/z-ai/glm-5/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/z-ai/glm-5/cohere/command-a
 https://openrouter.ai/compare/z-ai/glm-5/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/z-ai/glm-5/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/z-ai/glm-5/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/z-ai/glm-5/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/z-ai/glm-5/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/z-ai/glm-5/bytedance/ui-tars-1.5-7b
@@ -3189,7 +3214,6 @@ https://openrouter.ai/compare/qwen/qwen3-max-thinking/meta-llama/llama-4-maveric
 https://openrouter.ai/compare/qwen/qwen3-max-thinking/cohere/command-a
 https://openrouter.ai/compare/qwen/qwen3-max-thinking/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/qwen/qwen3-max-thinking/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/qwen/qwen3-max-thinking/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/qwen/qwen3-max-thinking/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/qwen/qwen3-max-thinking/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/qwen/qwen3-max-thinking/bytedance/ui-tars-1.5-7b
@@ -3214,7 +3238,6 @@ https://openrouter.ai/compare/anthropic/claude-opus-4.6/meta-llama/llama-4-maver
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/cohere/command-a
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/anthropic/claude-opus-4.6/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/anthropic/claude-opus-4.6/bytedance/ui-tars-1.5-7b
@@ -3238,7 +3261,6 @@ https://openrouter.ai/compare/qwen/qwen3-coder-next/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/qwen/qwen3-coder-next/cohere/command-a
 https://openrouter.ai/compare/qwen/qwen3-coder-next/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/qwen/qwen3-coder-next/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/qwen/qwen3-coder-next/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/qwen/qwen3-coder-next/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/qwen/qwen3-coder-next/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/qwen/qwen3-coder-next/bytedance/ui-tars-1.5-7b
@@ -3261,7 +3283,6 @@ https://openrouter.ai/compare/stepfun/step-3.5-flash/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/stepfun/step-3.5-flash/cohere/command-a
 https://openrouter.ai/compare/stepfun/step-3.5-flash/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/stepfun/step-3.5-flash/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/stepfun/step-3.5-flash/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/stepfun/step-3.5-flash/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/stepfun/step-3.5-flash/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/stepfun/step-3.5-flash/bytedance/ui-tars-1.5-7b
@@ -3283,7 +3304,6 @@ https://openrouter.ai/compare/arcee-ai/trinity-large-preview/meta-llama/llama-4-
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/cohere/command-a
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/moonshotai/kimi-k2.5
-https://openrouter.ai/compare/arcee-ai/trinity-large-preview/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/arcee-ai/trinity-large-preview/bytedance/ui-tars-1.5-7b
@@ -3304,7 +3324,6 @@ https://openrouter.ai/compare/mistralai/mistral-small-creative/meta-llama/llama-
 https://openrouter.ai/compare/mistralai/mistral-small-creative/cohere/command-a
 https://openrouter.ai/compare/mistralai/mistral-small-creative/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/mistralai/mistral-small-creative
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/mistralai/mistral-small-creative
 https://openrouter.ai/compare/mistralai/mistral-small-creative/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/mistralai/mistral-small-creative/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/mistralai/mistral-small-creative/bytedance/ui-tars-1.5-7b
@@ -3324,7 +3343,6 @@ https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/meta-llama/llama-4-
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/cohere/command-a
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/nvidia/nemotron-3-nano-30b-a3b
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/nvidia/nemotron-3-nano-30b-a3b
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/nvidia/nemotron-3-nano-30b-a3b/bytedance/ui-tars-1.5-7b
@@ -3342,7 +3360,6 @@ https://openrouter.ai/compare/amazon/nova-2-lite-v1/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/cohere/command-a
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/amazon/nova-2-lite-v1
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/amazon/nova-2-lite-v1
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/amazon/nova-2-lite-v1/bytedance/ui-tars-1.5-7b
@@ -3360,7 +3377,6 @@ https://openrouter.ai/compare/amazon/nova-premier-v1/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/amazon/nova-premier-v1/cohere/command-a
 https://openrouter.ai/compare/amazon/nova-premier-v1/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/amazon/nova-premier-v1
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/amazon/nova-premier-v1
 https://openrouter.ai/compare/amazon/nova-premier-v1/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/amazon/nova-premier-v1/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/amazon/nova-premier-v1/bytedance/ui-tars-1.5-7b
@@ -3376,7 +3392,6 @@ https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/meta-llama/llama-4
 https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/cohere/command-a
 https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/deepseek/deepseek-v3.2-speciale
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/deepseek/deepseek-v3.2-speciale
 https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/deepseek/deepseek-v3.2-speciale/bytedance/ui-tars-1.5-7b
@@ -3392,7 +3407,6 @@ https://openrouter.ai/compare/deepseek/deepseek-v3.2/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/deepseek/deepseek-v3.2/cohere/command-a
 https://openrouter.ai/compare/deepseek/deepseek-v3.2/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/deepseek/deepseek-v3.2
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/deepseek/deepseek-v3.2
 https://openrouter.ai/compare/deepseek/deepseek-v3.2/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/deepseek/deepseek-v3.2/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/deepseek/deepseek-v3.2/bytedance/ui-tars-1.5-7b
@@ -3406,7 +3420,6 @@ https://openrouter.ai/compare/perplexity/sonar-pro-search/meta-llama/llama-4-mav
 https://openrouter.ai/compare/perplexity/sonar-pro-search/cohere/command-a
 https://openrouter.ai/compare/perplexity/sonar-pro-search/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/perplexity/sonar-pro-search
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/perplexity/sonar-pro-search
 https://openrouter.ai/compare/perplexity/sonar-pro-search/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/perplexity/sonar-pro-search/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/perplexity/sonar-pro-search/bytedance/ui-tars-1.5-7b
@@ -3420,7 +3433,6 @@ https://openrouter.ai/compare/meta-llama/llama-4-maverick/perplexity/sonar-reaso
 https://openrouter.ai/compare/cohere/command-a/perplexity/sonar-reasoning-pro
 https://openrouter.ai/compare/perplexity/sonar-reasoning-pro/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/perplexity/sonar-reasoning-pro
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/perplexity/sonar-reasoning-pro
 https://openrouter.ai/compare/thedrummer/cydonia-24b-v4.1/perplexity/sonar-reasoning-pro
 https://openrouter.ai/compare/alibaba/tongyi-deepresearch-30b-a3b/perplexity/sonar-reasoning-pro
 https://openrouter.ai/compare/bytedance/ui-tars-1.5-7b/perplexity/sonar-reasoning-pro
@@ -3432,7 +3444,6 @@ https://openrouter.ai/compare/baidu/ernie-4.5-21b-a3b-thinking/meta-llama/llama-
 https://openrouter.ai/compare/baidu/ernie-4.5-21b-a3b-thinking/cohere/command-a
 https://openrouter.ai/compare/baidu/ernie-4.5-21b-a3b-thinking/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/baidu/ernie-4.5-21b-a3b-thinking
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/baidu/ernie-4.5-21b-a3b-thinking
 https://openrouter.ai/compare/baidu/ernie-4.5-21b-a3b-thinking/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/baidu/ernie-4.5-21b-a3b-thinking/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/baidu/ernie-4.5-21b-a3b-thinking/bytedance/ui-tars-1.5-7b
@@ -3444,7 +3455,6 @@ https://openrouter.ai/compare/baidu/ernie-4.5-21b-a3b/meta-llama/llama-4-maveric
 https://openrouter.ai/compare/baidu/ernie-4.5-21b-a3b/cohere/command-a
 https://openrouter.ai/compare/baidu/ernie-4.5-21b-a3b/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/baidu/ernie-4.5-21b-a3b
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/baidu/ernie-4.5-21b-a3b
 https://openrouter.ai/compare/thedrummer/cydonia-24b-v4.1/baidu/ernie-4.5-21b-a3b
 https://openrouter.ai/compare/alibaba/tongyi-deepresearch-30b-a3b/baidu/ernie-4.5-21b-a3b
 https://openrouter.ai/compare/baidu/ernie-4.5-21b-a3b/bytedance/ui-tars-1.5-7b
@@ -3454,7 +3464,6 @@ https://openrouter.ai/compare/nousresearch/hermes-4-70b/meta-llama/llama-4-maver
 https://openrouter.ai/compare/nousresearch/hermes-4-70b/cohere/command-a
 https://openrouter.ai/compare/nousresearch/hermes-4-70b/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/nousresearch/hermes-4-70b
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/nousresearch/hermes-4-70b
 https://openrouter.ai/compare/thedrummer/cydonia-24b-v4.1/nousresearch/hermes-4-70b
 https://openrouter.ai/compare/alibaba/tongyi-deepresearch-30b-a3b/nousresearch/hermes-4-70b
 https://openrouter.ai/compare/nousresearch/hermes-4-70b/bytedance/ui-tars-1.5-7b
@@ -3464,7 +3473,6 @@ https://openrouter.ai/compare/nousresearch/hermes-4-405b/meta-llama/llama-4-mave
 https://openrouter.ai/compare/nousresearch/hermes-4-405b/cohere/command-a
 https://openrouter.ai/compare/nousresearch/hermes-4-405b/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/nousresearch/hermes-4-405b
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/nousresearch/hermes-4-405b
 https://openrouter.ai/compare/thedrummer/cydonia-24b-v4.1/nousresearch/hermes-4-405b
 https://openrouter.ai/compare/alibaba/tongyi-deepresearch-30b-a3b/nousresearch/hermes-4-405b
 https://openrouter.ai/compare/nousresearch/hermes-4-405b/bytedance/ui-tars-1.5-7b
@@ -3472,7 +3480,6 @@ https://openrouter.ai/compare/nousresearch/hermes-4-405b/sao10k/l3.1-70b-hanami-
 https://openrouter.ai/compare/meta-llama/llama-guard-4-12b/cohere/command-a
 https://openrouter.ai/compare/meta-llama/llama-guard-4-12b/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/meta-llama/llama-guard-4-12b
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/meta-llama/llama-guard-4-12b
 https://openrouter.ai/compare/thedrummer/cydonia-24b-v4.1/meta-llama/llama-guard-4-12b
 https://openrouter.ai/compare/alibaba/tongyi-deepresearch-30b-a3b/meta-llama/llama-guard-4-12b
 https://openrouter.ai/compare/bytedance/ui-tars-1.5-7b/meta-llama/llama-guard-4-12b
@@ -3480,32 +3487,24 @@ https://openrouter.ai/compare/meta-llama/llama-guard-4-12b/sao10k/l3.1-70b-hanam
 https://openrouter.ai/compare/meta-llama/llama-4-maverick/cohere/command-a
 https://openrouter.ai/compare/meta-llama/llama-4-maverick/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/meta-llama/llama-4-maverick
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/thedrummer/cydonia-24b-v4.1/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/alibaba/tongyi-deepresearch-30b-a3b/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/bytedance/ui-tars-1.5-7b/meta-llama/llama-4-maverick
 https://openrouter.ai/compare/meta-llama/llama-4-maverick/sao10k/l3.1-70b-hanami-x1
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/cohere/command-a
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/cohere/command-a
 https://openrouter.ai/compare/thedrummer/cydonia-24b-v4.1/cohere/command-a
 https://openrouter.ai/compare/alibaba/tongyi-deepresearch-30b-a3b/cohere/command-a
 https://openrouter.ai/compare/bytedance/ui-tars-1.5-7b/cohere/command-a
 https://openrouter.ai/compare/cohere/command-a/sao10k/l3.1-70b-hanami-x1
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/cohere/command-r7b-12-2024
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/thedrummer/cydonia-24b-v4.1/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/alibaba/tongyi-deepresearch-30b-a3b/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/bytedance/ui-tars-1.5-7b/cohere/command-r7b-12-2024
 https://openrouter.ai/compare/sao10k/l3.1-70b-hanami-x1/cohere/command-r7b-12-2024
-https://openrouter.ai/compare/moonshotai/kimi-k2.5/allenai/olmo-3.1-32b-instruct
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/thedrummer/cydonia-24b-v4.1
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/bytedance/ui-tars-1.5-7b
 https://openrouter.ai/compare/moonshotai/kimi-k2.5/sao10k/l3.1-70b-hanami-x1
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/thedrummer/cydonia-24b-v4.1
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/alibaba/tongyi-deepresearch-30b-a3b
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/bytedance/ui-tars-1.5-7b
-https://openrouter.ai/compare/allenai/olmo-3.1-32b-instruct/sao10k/l3.1-70b-hanami-x1
 https://openrouter.ai/compare/thedrummer/cydonia-24b-v4.1/alibaba/tongyi-deepresearch-30b-a3b
 https://openrouter.ai/compare/thedrummer/cydonia-24b-v4.1/bytedance/ui-tars-1.5-7b
 https://openrouter.ai/compare/thedrummer/cydonia-24b-v4.1/sao10k/l3.1-70b-hanami-x1
@@ -3722,9 +3721,10 @@ https://openrouter.ai/compare/alibaba/wan-2.6/openai/sora-2-pro
 https://openrouter.ai/compare/alibaba/wan-2.6/google/veo-3.1
 https://openrouter.ai/compare/openai/sora-2-pro/google/veo-3.1
 https://openrouter.ai/compare/cohere/rerank-4-pro/cohere/rerank-4-fast
+https://openrouter.ai/compare/anthropic/claude-opus-4.7
 https://openrouter.ai/compare/bytedance/seedance-2.0
-https://openrouter.ai/compare/bytedance/seedance-2.0-fast
 https://openrouter.ai/compare/alibaba/wan-2.7
+https://openrouter.ai/compare/bytedance/seedance-2.0-fast
 https://openrouter.ai/compare/openrouter/elephant-alpha
 https://openrouter.ai/compare/anthropic/claude-opus-4.6-fast
 https://openrouter.ai/compare/z-ai/glm-5.1
@@ -3771,16 +3771,18 @@ https://openrouter.ai/compare/qwen/qwen3.5-122b-a10b
 https://openrouter.ai/compare/qwen/qwen3.5-flash-02-23
 https://openrouter.ai/compare/liquid/lfm-2-24b-a2b
 https://openrouter.ai/compare/google/gemini-3.1-pro-preview-customtools
-https://openrouter.ai/compare/nvidia/llama-nemotron-embed-vl-1b-v2
+https://openrouter.ai/anthropic/claude-opus-4.7/providers
+https://openrouter.ai/anthropic/claude-opus-4.7/uptime
+https://openrouter.ai/anthropic/claude-opus-4.7/api
 https://openrouter.ai/bytedance/seedance-2.0/providers
 https://openrouter.ai/bytedance/seedance-2.0/uptime
 https://openrouter.ai/bytedance/seedance-2.0/api
-https://openrouter.ai/bytedance/seedance-2.0-fast/providers
-https://openrouter.ai/bytedance/seedance-2.0-fast/uptime
-https://openrouter.ai/bytedance/seedance-2.0-fast/api
 https://openrouter.ai/alibaba/wan-2.7/providers
 https://openrouter.ai/alibaba/wan-2.7/uptime
 https://openrouter.ai/alibaba/wan-2.7/api
+https://openrouter.ai/bytedance/seedance-2.0-fast/providers
+https://openrouter.ai/bytedance/seedance-2.0-fast/uptime
+https://openrouter.ai/bytedance/seedance-2.0-fast/api
 https://openrouter.ai/openrouter/elephant-alpha/providers
 https://openrouter.ai/openrouter/elephant-alpha/uptime
 https://openrouter.ai/openrouter/elephant-alpha/api
@@ -3799,9 +3801,6 @@ https://openrouter.ai/cohere/rerank-4-fast/api
 https://openrouter.ai/cohere/rerank-v3.5/providers
 https://openrouter.ai/cohere/rerank-v3.5/uptime
 https://openrouter.ai/cohere/rerank-v3.5/api
-https://openrouter.ai/google/gemma-4-26b-a4b-it/providers
-https://openrouter.ai/google/gemma-4-26b-a4b-it/uptime
-https://openrouter.ai/google/gemma-4-26b-a4b-it/api
 https://openrouter.ai/announcements/video-generation
 https://openrouter.ai/announcements/auto-exacto
 https://openrouter.ai/announcements/february-release-spotlight
