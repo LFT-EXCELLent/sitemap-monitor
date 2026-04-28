@@ -24,8 +24,10 @@ https://fal.ai/kling-v2-1
 https://fal.ai/legal
 https://fal.ai/ltx-2.3
 https://fal.ai/lucy-2
+https://fal.ai/lucy-2.1
 https://fal.ai/nano-banana-2
 https://fal.ai/nano-banana-pro
+https://fal.ai/nemotron
 https://fal.ai
 https://fal.ai/phota
 https://fal.ai/pixverse-v6
@@ -121,6 +123,7 @@ https://fal.ai/learn/devs/lucy-restyle-long-form-user-guide
 https://fal.ai/learn/devs/multimodal-generative-ai-transforming-developer-workflows
 https://fal.ai/learn/devs/nano-banana-1-vs-2
 https://fal.ai/learn/devs/nano-banana-2-api-developer-guide
+https://fal.ai/learn/devs/nemotron-3-nano-omni-is-now-on-fal
 https://fal.ai/learn/devs/omnihuman-1-5-prompt-guide
 https://fal.ai/learn/devs/omnihuman-15-user-guide
 https://fal.ai/learn/devs/pixverse-v5-5-developer-guide
@@ -157,9 +160,11 @@ https://fal.ai/learn/tools/ai-music-generators
 https://fal.ai/learn/tools/ai-video-generators
 https://fal.ai/learn/tools/ai-voice-generators
 https://fal.ai/learn/tools/flux-vs-qwen-image
+https://fal.ai/learn/tools/gpt-image-2-review
 https://fal.ai/learn/tools/happyhorse-1-0-review
 https://fal.ai/learn/tools/how-to-make-videos-on-sora-2-pro
 https://fal.ai/learn/tools/how-to-use-flux
+https://fal.ai/learn/tools/how-to-use-gpt-image-2
 https://fal.ai/learn/tools/how-to-use-happyhorse-1-0
 https://fal.ai/learn/tools/how-to-use-nano-banana-2
 https://fal.ai/learn/tools/how-to-use-qwen-image-2
@@ -178,6 +183,17 @@ https://fal.ai/library
 https://fal.ai/onboarding/business
 https://fal.ai/onboarding/complete
 https://fal.ai/onboarding
+https://fal.ai/models/nvidia/nemotron-3-nano-omni/vision
+https://fal.ai/models/nvidia/nemotron-3-nano-omni/vision/api
+https://fal.ai/models/nvidia/nemotron-3-nano-omni/vision/examples
+https://fal.ai/models/nvidia/nemotron-3-nano-omni/video
+https://fal.ai/models/nvidia/nemotron-3-nano-omni/video/api
+https://fal.ai/models/nvidia/nemotron-3-nano-omni/video/examples
+https://fal.ai/models/nvidia/nemotron-3-nano-omni/audio
+https://fal.ai/models/nvidia/nemotron-3-nano-omni/audio/api
+https://fal.ai/models/nvidia/nemotron-3-nano-omni/audio/examples
+https://fal.ai/models/nvidia/nemotron-3-nano-omni
+https://fal.ai/models/nvidia/nemotron-3-nano-omni/api
 https://fal.ai/models/alibaba/happy-horse/reference-to-video
 https://fal.ai/models/alibaba/happy-horse/reference-to-video/api
 https://fal.ai/models/alibaba/happy-horse/reference-to-video/examples
@@ -1134,6 +1150,7 @@ https://fal.ai/models/fal-ai/pixverse/v5.5/transition
 https://fal.ai/models/fal-ai/pixverse/v5.5/transition/api
 https://fal.ai/models/fal-ai/z-image/turbo/lora
 https://fal.ai/models/fal-ai/z-image/turbo/lora/api
+https://fal.ai/models/fal-ai/z-image/turbo/lora/examples
 https://fal.ai/models/fal-ai/pixverse/v5.5/image-to-video
 https://fal.ai/models/fal-ai/pixverse/v5.5/image-to-video/api
 https://fal.ai/models/fal-ai/pixverse/v5.5/text-to-video
