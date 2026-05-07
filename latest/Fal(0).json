@@ -15,6 +15,7 @@ https://fal.ai/gpt-image-1.5
 https://fal.ai/gpt-image-2
 https://fal.ai/grants
 https://fal.ai/grok-imagine
+https://fal.ai/grok-imagine-pro
 https://fal.ai/happyhorse-1.0
 https://fal.ai/hunyuan-3d
 https://fal.ai/ideogram
@@ -97,6 +98,7 @@ https://fal.ai/learn/devs/gen-ai-application-testing
 https://fal.ai/learn/devs/gen-ai-blender-models
 https://fal.ai/learn/devs/gen-ai-performance-optimization
 https://fal.ai/learn/devs/gen-ai-tools
+https://fal.ai/learn/devs/genmedia-cli-guide
 https://fal.ai/learn/devs/glm-image-prompt-guide
 https://fal.ai/learn/devs/glm-image-user-guide-production-integration
 https://fal.ai/learn/devs/gpt-image-1-5-prompt-guide
@@ -162,6 +164,9 @@ https://fal.ai/learn/tools/ai-video-generators
 https://fal.ai/learn/tools/ai-voice-generators
 https://fal.ai/learn/tools/flux-vs-qwen-image
 https://fal.ai/learn/tools/gpt-image-2-review
+https://fal.ai/learn/tools/gpt-image-2-vs-flux-2-max
+https://fal.ai/learn/tools/gpt-image-2-vs-gpt-image-1-5
+https://fal.ai/learn/tools/gpt-image-2-vs-nano-banana-2
 https://fal.ai/learn/tools/happyhorse-1-0-review
 https://fal.ai/learn/tools/how-to-make-videos-on-sora-2-pro
 https://fal.ai/learn/tools/how-to-use-flux
@@ -185,6 +190,9 @@ https://fal.ai/library
 https://fal.ai/onboarding/business
 https://fal.ai/onboarding/complete
 https://fal.ai/onboarding
+https://fal.ai/models/fal-ai/ideogram/remove-background
+https://fal.ai/models/fal-ai/ideogram/remove-background/api
+https://fal.ai/models/fal-ai/ideogram/remove-background/examples
 https://fal.ai/models/fal-ai/controlfoley
 https://fal.ai/models/fal-ai/controlfoley/api
 https://fal.ai/models/fal-ai/controlfoley/examples
@@ -296,6 +304,12 @@ https://fal.ai/models/fal-ai/void-video-inpainting/api
 https://fal.ai/models/fal-ai/ernie-image
 https://fal.ai/models/fal-ai/ernie-image/api
 https://fal.ai/models/fal-ai/ernie-image/examples
+https://fal.ai/models/xai/grok-imagine-image/quality/text-to-image
+https://fal.ai/models/xai/grok-imagine-image/quality/text-to-image/api
+https://fal.ai/models/xai/grok-imagine-image/quality/text-to-image/examples
+https://fal.ai/models/xai/grok-imagine-image/quality/edit
+https://fal.ai/models/xai/grok-imagine-image/quality/edit/api
+https://fal.ai/models/xai/grok-imagine-image/quality/edit/examples
 https://fal.ai/models/fal-ai/pixverse/c1/reference-to-video
 https://fal.ai/models/fal-ai/pixverse/c1/reference-to-video/api
 https://fal.ai/models/fal-ai/pixverse/c1/reference-to-video/examples
