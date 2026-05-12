@@ -1655,8 +1655,6 @@ https://fal.ai/models/fal-ai/elevenlabs/sound-effects/v2
 https://fal.ai/models/fal-ai/elevenlabs/sound-effects/v2/api
 https://fal.ai/models/fal-ai/sync-lipsync/v2/pro
 https://fal.ai/models/fal-ai/sync-lipsync/v2/pro/api
-https://fal.ai/models/fal-ai/bytedance/seedance/v1/lite/reference-to-video
-https://fal.ai/models/fal-ai/bytedance/seedance/v1/lite/reference-to-video/api
 https://fal.ai/models/argil/avatars/text-to-video
 https://fal.ai/models/argil/avatars/text-to-video/api
 https://fal.ai/models/argil/avatars/audio-to-video
@@ -1965,10 +1963,6 @@ https://fal.ai/models/fal-ai/bytedance/seedance/v1/pro/image-to-video
 https://fal.ai/models/fal-ai/bytedance/seedance/v1/pro/image-to-video/api
 https://fal.ai/models/fal-ai/dwpose/video
 https://fal.ai/models/fal-ai/dwpose/video/api
-https://fal.ai/models/fal-ai/bytedance/seedance/v1/lite/image-to-video
-https://fal.ai/models/fal-ai/bytedance/seedance/v1/lite/image-to-video/api
-https://fal.ai/models/fal-ai/bytedance/seedance/v1/lite/text-to-video
-https://fal.ai/models/fal-ai/bytedance/seedance/v1/lite/text-to-video/api
 https://fal.ai/models/fal-ai/recraft/vectorize
 https://fal.ai/models/fal-ai/recraft/vectorize/api
 https://fal.ai/models/fal-ai/imagen4/preview/fast
@@ -1981,8 +1975,6 @@ https://fal.ai/models/fal-ai/wan-trainer/i2v-720p
 https://fal.ai/models/fal-ai/wan-trainer/i2v-720p/api
 https://fal.ai/models/fal-ai/wan-trainer/flf2v-720p
 https://fal.ai/models/fal-ai/wan-trainer/flf2v-720p/api
-https://fal.ai/models/fal-ai/bytedance/seedream/v3/text-to-image
-https://fal.ai/models/fal-ai/bytedance/seedream/v3/text-to-image/api
 https://fal.ai/models/fal-ai/ffmpeg-api/extract-frame
 https://fal.ai/models/fal-ai/ffmpeg-api/extract-frame/api
 https://fal.ai/models/fal-ai/ffmpeg-api/merge-audio-video
