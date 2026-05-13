@@ -24,7 +24,7 @@ https://openrouter.ai/apps/openclaw
 https://openrouter.ai/apps/hermes-agent
 https://openrouter.ai/apps/kilo-code
 https://openrouter.ai/apps/claude-code
-https://openrouter.ai/apps/cline
+https://openrouter.ai/apps/pi
 https://openrouter.ai/apps/descript
 https://openrouter.ai/apps/vidmuse
 https://openrouter.ai/apps/novelcrafter
@@ -163,7 +163,6 @@ https://openrouter.ai/nvidia/llama-nemotron-embed-vl-1b-v2:free
 https://openrouter.ai/openai/gpt-4.1
 https://openrouter.ai/qwen/qwen2.5-vl-72b-instruct
 https://openrouter.ai/qwen/qwen3.5-flash-02-23
-https://openrouter.ai/openai/gpt-5.3-chat
 https://openrouter.ai/thedrummer/rocinante-12b
 https://openrouter.ai/black-forest-labs/flux.2-flex
 https://openrouter.ai/deepseek/deepseek-chat-v3.1
@@ -266,6 +265,7 @@ https://openrouter.ai/anthropic/claude-3-haiku
 https://openrouter.ai/aion-labs/aion-1.0
 https://openrouter.ai/mistralai/voxtral-mini-tts-2603
 https://openrouter.ai/baai/bge-base-en-v1.5
+https://openrouter.ai/deepseek/deepseek-v4-pro
 https://openrouter.ai/qwen/qwen3-vl-30b-a3b-thinking
 https://openrouter.ai/thedrummer/skyfall-36b-v2
 https://openrouter.ai/inflection/inflection-3-productivity
@@ -290,9 +290,7 @@ https://openrouter.ai/mistralai/mistral-small-3.2-24b-instruct
 https://openrouter.ai/nousresearch/hermes-3-llama-3.1-70b
 https://openrouter.ai/mistralai/ministral-14b-2512
 https://openrouter.ai/google/gemini-embedding-001
-https://openrouter.ai/qwen/qwen-turbo
 https://openrouter.ai/cohere/rerank-4-fast
-https://openrouter.ai/qwen/qwen-vl-max
 https://openrouter.ai/arcee-ai/virtuoso-large
 https://openrouter.ai/mistralai/ministral-3b-2512
 https://openrouter.ai/qwen/qwen-plus
@@ -385,6 +383,7 @@ https://openrouter.ai/qwen/qwen3.5-plus-20260420
 https://openrouter.ai/mistralai/mistral-large-2407
 https://openrouter.ai/black-forest-labs/flux.2-klein-4b
 https://openrouter.ai/qwen/qwen3.6-flash
+https://openrouter.ai/openai/gpt-5.3-chat
 https://openrouter.ai/ibm-granite/granite-4.1-8b
 https://openrouter.ai/qwen/qwen3-next-80b-a3b-instruct:free
 https://openrouter.ai/nvidia/llama-3.3-nemotron-super-49b-v1.5
@@ -463,7 +462,6 @@ https://openrouter.ai/bytedance/seedance-1-5-pro
 https://openrouter.ai/openai/gpt-oss-20b:free
 https://openrouter.ai/recraft/recraft-v4
 https://openrouter.ai/bytedance/seedance-2.0-fast
-https://openrouter.ai/deepseek/deepseek-v4-pro
 https://openrouter.ai/deepseek/deepseek-v4-flash
 https://openrouter.ai/microsoft/phi-4-mini-instruct
 https://openrouter.ai/anthropic/claude-opus-4.6-fast
@@ -510,8 +508,6 @@ https://openrouter.ai/openai/gpt-5.5-pro
 https://openrouter.ai/sentence-transformers/multi-qa-mpnet-base-dot-v1
 https://openrouter.ai/arcee-ai/trinity-large-thinking:free
 https://openrouter.ai/openrouter/owl-alpha
-https://openrouter.ai/qwen/qwen-max
-https://openrouter.ai/qwen/qwen-vl-plus
 https://openrouter.ai/google/gemini-embedding-2-preview
 https://openrouter.ai/xiaomi/mimo-v2.5
 https://openrouter.ai/google/veo-3.1-lite
@@ -683,6 +679,7 @@ https://openrouter.ai/provider/clarifai
 https://openrouter.ai/provider/cloudflare
 https://openrouter.ai/provider/cohere
 https://openrouter.ai/provider/crofai
+https://openrouter.ai/provider/crucible
 https://openrouter.ai/provider/crusoe
 https://openrouter.ai/provider/deepinfra
 https://openrouter.ai/provider/deepseek
@@ -802,6 +799,7 @@ https://openrouter.ai/docs/guides/overview/report-feedback
 https://openrouter.ai/docs/guides/routing/model-fallbacks
 https://openrouter.ai/docs/guides/routing/provider-selection
 https://openrouter.ai/docs/guides/routing/auto-exacto
+https://openrouter.ai/docs/guides/routing/private-models
 https://openrouter.ai/docs/guides/routing/model-variants/free
 https://openrouter.ai/docs/guides/routing/model-variants/extended
 https://openrouter.ai/docs/guides/routing/model-variants/exacto
@@ -822,9 +820,11 @@ https://openrouter.ai/docs/guides/features/server-tools/web-search
 https://openrouter.ai/docs/guides/features/server-tools/web-fetch
 https://openrouter.ai/docs/guides/features/server-tools/datetime
 https://openrouter.ai/docs/guides/features/server-tools/image-generation
+https://openrouter.ai/docs/guides/features/server-tools/fusion
 https://openrouter.ai/docs/guides/features/plugins/overview
 https://openrouter.ai/docs/guides/features/plugins/web-search
 https://openrouter.ai/docs/guides/features/plugins/response-healing
+https://openrouter.ai/docs/guides/features/plugins/fusion
 https://openrouter.ai/docs/guides/features/structured-outputs
 https://openrouter.ai/docs/guides/features/message-transforms
 https://openrouter.ai/docs/guides/features/zero-completion-insurance
@@ -872,6 +872,7 @@ https://openrouter.ai/docs/guides/community/mastra
 https://openrouter.ai/docs/guides/community/openai-sdk
 https://openrouter.ai/docs/guides/community/anthropic-agent-sdk
 https://openrouter.ai/docs/guides/community/pydantic-ai
+https://openrouter.ai/docs/guides/community/replit
 https://openrouter.ai/docs/guides/community/tanstack-ai
 https://openrouter.ai/docs/guides/community/vercel-ai-sdk
 https://openrouter.ai/docs/guides/community/xcode
